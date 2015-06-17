@@ -22,10 +22,10 @@ arg2s_split_pattern = re.compile('; (' + arg_pattern + '|' + temporal_pattern + 
 
 class Converter(AbstractConverter):
 
-    relation = "relation",
-    simple = "simple",
-    temporal = "temporal",
-    spatial = "spatial"
+    RELATION = "relation",
+    SIMPLE = "simple",
+    TEMPORAL = "temporal",
+    SPATIAL = "spatial"
 
     def __init__(self):
         self.namespace = Namespace(config['app']['namespace'])
@@ -41,11 +41,11 @@ class Converter(AbstractConverter):
                     if index == 0:
                         graph.add((bnode, RDF.object, converted_arg['node']))
                     else:
-                        if converted_arg['type'] == Converter.simple:
+                        if converted_arg['type'] == Converter.SIMPLE:
                             graph.add((bnode, self.namespace.argument, converted_arg['node']))
-                        elif converted_arg['type'] == Converter.temporal:
+                        elif converted_arg['type'] == Converter.TEMPORAL:
                             graph.add((bnode, self.namespace.temporal, converted_arg['node']))
-                        elif converted_arg['type'] == Converter.spatial:
+                        elif converted_arg['type'] == Converter.SPATIAL:
                             graph.add((bnode, self.namespace.spatial, converted_arg['node']))
 
             elif 'arg2' in row and type(row['arg2']) != float:
@@ -68,21 +68,21 @@ class Converter(AbstractConverter):
             node = self.namespace[url]
             graph.add((node, RDF.type, RDF.Property))
             graph.add((node, RDFS.label, Literal(cleaned_arg)))
-            return {'type': Converter.relation, 'node': node}
+            return {'type': Converter.RELATION, 'node': node}
         elif re.match(arg_pattern, arg):
             cleaned_arg = re.sub(arg_pattern + '|' + list_pattern, '', arg)
             url = urllib.quote(cleaned_arg, '')
             node = self.namespace[url]
             graph.add((node, RDFS.label, Literal(cleaned_arg)))
-            return {'type': Converter.simple, 'node': node}
+            return {'type': Converter.SIMPLE, 'node': node}
         elif re.match(temporal_pattern, arg):
             cleaned_arg = re.sub(temporal_pattern + '|' + list_pattern, '', arg)
             node = Literal(cleaned_arg)
-            return {'type': Converter.temporal, 'node': node}
+            return {'type': Converter.TEMPORAL, 'node': node}
         elif re.match(spatial_pattern, arg):
             cleaned_arg = re.sub(spatial_pattern + '|' + list_pattern, '', arg)
             node = Literal(cleaned_arg)
-            return {'type': Converter.spatial, 'node': node}
+            return {'type': Converter.SPATIAL, 'node': node}
         else:
             log.warn("For argument: {}".format(arg))
             raise ValueError("tried to convert malformed argument")
