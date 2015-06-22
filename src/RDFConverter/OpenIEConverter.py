@@ -1,3 +1,4 @@
+from _operator import add
 from RDFConverter.AbstractConverter import AbstractConverter
 
 __author__ = 'tmy'
@@ -5,6 +6,7 @@ __author__ = 'tmy'
 from rdflib import Graph, Literal, BNode, Namespace, RDF, RDFS, URIRef
 import urllib.parse as urllib
 import logging
+import pandas as pd
 import re
 from Utilities.Constants import config
 
@@ -21,7 +23,6 @@ arg2s_split_pattern = r'; (SimpleArgument|TemporalArgument|SpatialArgument)'
 
 
 class Converter(AbstractConverter):
-
     relation = "relation",
     simple = "simple",
     temporal = "temporal",
@@ -38,7 +39,10 @@ class Converter(AbstractConverter):
         for _, row in data_frame.iterrows():
             bnode = BNode()
             line = []
-            if 'arg2s' in row and type(row['arg2s']) != float:
+            spatial = []
+            temporal = []
+            additional_arg = []
+            if 'arg2s' in row and not pd.isnull(row['arg2s']):
                 arg2s = re.split(arg2s_split_pattern, row['arg2s'])
                 for index, arg in enumerate(arg2s):
                     if arg == "SimpleArgument" or arg == "TemporalArgument" or arg == "SpatialArgument":
@@ -50,16 +54,16 @@ class Converter(AbstractConverter):
                             graph.add((bnode, RDF.object, converted_arg['node']))
                         else:
                             if converted_arg['type'] == Converter.simple:
-                                line.append("Arg: " + converted_arg['cleaned_arg'])
+                                additional_arg.append(converted_arg['cleaned_arg'])
                                 graph.add((bnode, self.namespace.argument, converted_arg['node']))
                             elif converted_arg['type'] == Converter.temporal:
-                                line.append("Temp: " + converted_arg['cleaned_arg'])
+                                temporal.append(converted_arg['cleaned_arg'])
                                 graph.add((bnode, self.namespace.temporal, converted_arg['node']))
                             elif converted_arg['type'] == Converter.spatial:
-                                line.append("Spatial: " + converted_arg['cleaned_arg'])
+                                spatial.append(converted_arg['cleaned_arg'])
                                 graph.add((bnode, self.namespace.spatial, converted_arg['node']))
 
-            elif 'arg2' in row and type(row['arg2']) != float:
+            elif 'arg2' in row and not pd.isnull(row['arg2']):
                 converted_arg = self.__convert_arg(row['arg2'], graph)
                 line.append(converted_arg['cleaned_arg'])
                 graph.add((bnode, RDF.object, converted_arg['node']))
@@ -72,7 +76,7 @@ class Converter(AbstractConverter):
             converted_sub = self.__convert_arg(row['arg1'], graph)
             graph.add((bnode, RDF.subject, converted_sub['node']))
             line.insert(0, converted_sub['cleaned_arg'])
-            if 'context' in row and type(row['context']) != float:
+            if not pd.isnull(row['context']):
                 context = re.sub(context_pattern + '|' + list_pattern, '', row['context'])
                 line.insert(0, context)
                 graph.add((bnode, self.namespace.context, Literal(context)))
@@ -81,6 +85,11 @@ class Converter(AbstractConverter):
             line.insert(0, "{0:.2f}".format(row['confidence']))
             graph.add((bnode, self.namespace.extraction_confidence, Literal(row['confidence'])))
 
+            line.append(" | ".join(additional_arg))
+            line.append(" | ".join(temporal))
+            line.append(" | ".join(spatial))
+            line.append(str(row['sentence_id']))
+            line.append(row['sentence'])
             read_list_file.write("\t".join(line) + "\n")
         read_list_file.close()
         return graph

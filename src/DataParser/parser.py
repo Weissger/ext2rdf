@@ -3,6 +3,7 @@ __author__ = 'tmy'
 import os
 import logging
 import pandas as pd
+import numpy as np
 import csv
 from Utilities.Constants import config, programs
 
@@ -28,11 +29,9 @@ class DataParser(object):
 
     @staticmethod
     def __openie_parse(f):
-        values = pd.read_csv(f, sep='\t', header=None, quoting=csv.QUOTE_NONE)
-        values.rename(
-            columns={0: 'confidence', 1: 'context', 2: 'arg1', 3: 'rel', 4: 'arg2s', 5: 'sentence_id', 6: 'sentence'},
-            inplace=True)
-        return values
+        columns = ['confidence', 'context', 'arg1', 'rel', 'arg2s', 'sentence_id', 'sentence']
+        values = pd.read_csv(f, sep='\t', names=columns, header=None, quoting=csv.QUOTE_NONE)
+        return values.dropna(subset=['arg1', 'rel', 'arg2s'])
 
     @staticmethod
     def __reverb_parse(f):
