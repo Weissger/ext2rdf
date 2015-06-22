@@ -22,7 +22,8 @@ def generate_e2rdf(path, extractions):
     return pd.read_csv(path + ".e2rdf", names=e2rdf_cols, sep=separator, quoting=csv.QUOTE_NONE)
 
 
-def convert_output_file(path, out=config['app']['data_path'] + "output", ser_format="nt", program=config['app']['program']):
+def convert_output_file(path, out=config['app']['data_path'] + "output", ser_format="nt",
+                        program=config['app']['program']):
     if program == programs['oIE']:
         data_parser = OpenIEParser.DataParser()
     elif program == programs['rvb']:
@@ -32,6 +33,21 @@ def convert_output_file(path, out=config['app']['data_path'] + "output", ser_for
         return
     extractions = data_parser.parse(path)
     df = generate_e2rdf(out, extractions)
+
+    # Subject length filter
+    max_len = int(config['app']['max_subject_length'])
+    if max_len > 0:
+        df = df[df['Subject'].map(len) <= max_len]
+
+    # Predicate length filter
+    max_len = int(config['app']['max_predicate_length'])
+    if max_len > 0:
+        df = df[df['Predicate'].map(len) <= max_len]
+    max_len = int(config['app']['max_object_length'])
+
+    # Object length filter
+    if max_len > 0:
+        df = df[df['Object'].map(len) <= max_len]
     rdf_converter = Converter()
     graph = rdf_converter.convert(df)
     graph.serialize(out + "." + ser_format, ser_format)
@@ -39,6 +55,7 @@ def convert_output_file(path, out=config['app']['data_path'] + "output", ser_for
 
 if __name__ == "__main__":
     import sys
+
     if len(sys.argv) < 2:
         log.warn("missing path argument!")
         log.warn("Usage: python3 main.py $path_to_input $path_to_output $format $program")

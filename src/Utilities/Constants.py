@@ -49,7 +49,8 @@ arg_types = {
 separator = '\t'
 sub_separator = ' | '
 
-e2rdf_cols = ["Confidence", "Context", "Subject", "Predicate", "Object", "Other_arg", "Temporal", "Spatial", "Sentence_id", "Sentence"]
+e2rdf_cols = ["Confidence", "Context", "Subject", "Predicate", "Object", "Other_arg", "Temporal", "Spatial",
+              "Sentence_id", "Sentence"]
 
 del config_file
 del config_paths

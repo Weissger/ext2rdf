@@ -93,5 +93,7 @@ class DataParser(AbstractParser):
             else:
                 data['context'] = ""
             data['confidence'] = row['confidence']
+            data['sentence_id'] = row['sentence_id']
+            data['sentence'] = row['sentence']
             extractions.append(Extraction(data))
         return extractions
