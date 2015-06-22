@@ -18,8 +18,14 @@ def generate_e2rdf(path, extractions):
     with open(path + ".e2rdf", "a") as f:
         for ext in extractions:
             f.write(ext.to_e2rdf() + "\n")
-        f.close()
     return pd.read_csv(path + ".e2rdf", names=e2rdf_cols, sep=separator, quoting=csv.QUOTE_NONE)
+
+def mod_e2rdf(path, dataframe):
+    with open(path + ".e2rdf", "w") as _:
+        pass
+    with open(path + ".e2rdf", "a") as f:
+        for _, row in dataframe.iterrows():
+            f.write(separator.join(row.map(str)) + "\n")
 
 
 def convert_output_file(path, out=config['app']['data_path'] + "output", ser_format="nt",
@@ -48,6 +54,8 @@ def convert_output_file(path, out=config['app']['data_path'] + "output", ser_for
     # Object length filter
     if max_len > 0:
         df = df[df['Object'].map(len) <= max_len]
+
+    mod_e2rdf(out, df)
     rdf_converter = Converter()
     graph = rdf_converter.convert(df)
     graph.serialize(out + "." + ser_format, ser_format)
