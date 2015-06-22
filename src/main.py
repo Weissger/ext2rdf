@@ -1,24 +1,38 @@
 __author__ = 'tmy'
 
-from Utilities.Constants import config, programs
-from RDFConverter import OpenIEConverter
-from RDFConverter import ReverbConverter
-from DataParser.parser import DataParser
+from Utilities.Constants import config, programs, e2rdf_cols, separator
+from DataParser import OpenIEParser
+from DataParser import ReverbParser
+from RDFConverter.Converter import Converter
+import csv
+import pandas as pd
 import logging
 
 log = logging.getLogger()
 log.setLevel(config['app']['app_log_level'])
 
+
+def generate_e2rdf(path, extractions):
+    with open(path + ".e2rdf", "w") as _:
+        pass
+    with open(path + ".e2rdf", "a") as f:
+        for ext in extractions:
+            f.write(ext.to_e2rdf() + "\n")
+        f.close()
+    return pd.read_csv(path + ".e2rdf", names=e2rdf_cols, sep=separator, quoting=csv.QUOTE_NONE)
+
+
 def convert_output_file(path, out=config['app']['data_path'] + "output", ser_format="nt", program=config['app']['program']):
-    data_parser = DataParser()
-    df = data_parser.parse(program, path)
     if program == programs['oIE']:
-        rdf_converter = OpenIEConverter.Converter(out)
+        data_parser = OpenIEParser.DataParser()
     elif program == programs['rvb']:
-        rdf_converter = OpenIEConverter.Converter(out)
+        data_parser = ReverbParser.DataParser()
     else:
         log.warn("Unknown program")
         return
+    extractions = data_parser.parse(path)
+    df = generate_e2rdf(out, extractions)
+    rdf_converter = Converter()
     graph = rdf_converter.convert(df)
     graph.serialize(out + "." + ser_format, ser_format)
 
