@@ -35,6 +35,11 @@ if not config.has_section('app'):
 # additional dynamic options
 config.set('app', 'data_path', config_file[:-15])
 
+programs = {
+    'oIE': "openIE",
+    'rvb': "reverb"
+}
+
 del config_file
 del config_paths
 del current_path
