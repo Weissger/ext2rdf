@@ -95,7 +95,7 @@ class DataParser(AbstractParser):
 
     def __convert_arg(self, arg):
         if re.match(relation_pattern, arg):
-            cleaned_arg = re.sub(relation_pattern + '|' + list_pattern, '', arg)
+            cleaned_arg = re.sub(relation_pattern + '|' + list_pattern + '|' + r'\[|\]', '', arg)
             return {'type': arg_types['rel'], 'cleaned_arg': cleaned_arg}
         elif re.match(arg_pattern, arg):
             self.__counter['simple_arguments'] += 1
