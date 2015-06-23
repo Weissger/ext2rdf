@@ -1,6 +1,5 @@
 __author__ = 'tmy'
 
-
 import os
 import sys
 import configparser
@@ -34,6 +33,24 @@ if not config.has_section('app'):
 
 # additional dynamic options
 config.set('app', 'data_path', config_file[:-15])
+
+programs = {
+    'oIE': "openIE",
+    'rvb': "reverb"
+}
+
+arg_types = {
+    'rel': "relation",
+    'simple': "simple",
+    'tmp': "temporal",
+    'spatial': "spatial"
+}
+
+separator = '\t'
+sub_separator = ' | '
+
+e2rdf_cols = ["Confidence", "Context", "Subject", "Predicate", "Object", "Other_arg", "Temporal", "Spatial",
+              "Sentence_id", "Sentence"]
 
 del config_file
 del config_paths

@@ -1,0 +1,1730 @@
+<named> <http://www.w3.org/2000/01/rdf-schema#label> "named" .
+<as%20a%20community%20organizer%20from%20June%201985%20to%20May%201988> <http://www.w3.org/2000/01/rdf-schema#label> "as a community organizer from June 1985 to May 1988" .
+_:N512aa38b488741e1958520d3757050aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<to%20rule%20in%20favor%20of%20same-sex%20couples%20in%20the%20cases%20of%20Hollingsworth%20v.%20Perry%20%28regarding%20same-sex%20marriage%29%20and%20United%20States%20v.%20Windsor> <http://www.w3.org/2000/01/rdf-schema#label> "to rule in favor of same-sex couples in the cases of Hollingsworth v. Perry (regarding same-sex marriage) and United States v. Windsor" .
+<to%20allocate> <http://www.w3.org/2000/01/rdf-schema#label> "to allocate" .
+<to%20provide%20support%20and%20security%20for%20U.S.%20personnel%20and%20the%20U.S.%20Embassy%20in%20Baghdad> <http://www.w3.org/2000/01/rdf-schema#label> "to provide support and security for U.S. personnel and the U.S. Embassy in Baghdad" .
+<delivered> <http://www.w3.org/2000/01/rdf-schema#label> "delivered" .
+_:N915e4b9d4697400d9627e2ae2049eeba <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <briefs> .
+<The%20couple> <http://www.w3.org/2000/01/rdf-schema#label> "The couple" .
+_:N64e372094f0e4620b987bc14aa2f7c83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20a%20new%20generation> .
+_:N9875c0cf5ef7453490b1512347443db6 <http://QA.jbt.org/extraction_confidence> "0.9105129651916236"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N11eb6e0596174ac3807442376a95be05 <http://QA.jbt.org/extraction_confidence> "0.6685898337303365"^^<http://www.w3.org/2001/XMLSchema#double> .
+<a%20senator> <http://www.w3.org/2000/01/rdf-schema#label> "a senator" .
+_:Nb3f615d6cfe3468ebdb378800a2b8d22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <us> .
+_:N76a85b789b9a41f5ad58b2cd22dfc3be <http://QA.jbt.org/temporal> "Later" .
+_:Nf4b1b52a0c154274b70f8702685b811e <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<Harvard%20Law%20School> <http://www.w3.org/2000/01/rdf-schema#label> "Harvard Law School" .
+<took> <http://www.w3.org/2000/01/rdf-schema#label> "took" .
+_:N82834b4ce21444e9939ac7fa10029ced <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <is%20receiving> .
+_:Nca5a53f4c5794426a20232cbb0469dd6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20allocate> .
+_:N45d5360ce8db4d19949336c8ab02c7c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <commit> .
+_:N2d57c28cf03a409d9c6cc4d1714b6125 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <negotiated> .
+<shelling%20Misrata> <http://www.w3.org/2000/01/rdf-schema#label> "shelling Misrata" .
+<the%20White%20House> <http://www.w3.org/2000/01/rdf-schema#label> "the White House" .
+_:N1e4927554c7b498a969c2a13d9cdab3d <http://QA.jbt.org/extraction_confidence> "0.8772656277736296"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nd93dc542f1a04a3ca9495ef4adda6f6a <http://QA.jbt.org/extraction_confidence> "0.9339862216393666"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N15a34af08322403580ab7f71169fb193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20flow> .
+_:N5e27c1dd75054b7bada93516422925a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Obama> .
+_:N1dc545bbb5bc46b19fcc95bb9c5b2cdf <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:Nb46c4b302f5e4819bf1dbb2a50daddf7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20serve> .
+<a%20Daytime%20Emmy%20Award> <http://www.w3.org/2000/01/rdf-schema#label> "a Daytime Emmy Award" .
+<were%20married> <http://www.w3.org/2000/01/rdf-schema#label> "were married" .
+<Obama> <http://www.w3.org/2000/01/rdf-schema#label> "Obama" .
+<against%20the%20war> <http://www.w3.org/2000/01/rdf-schema#label> "against the war" .
+_:N49537325b79249d299b4477f6ac404b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <a%20resolution> .
+_:N8821aac0eb854449a16b7b23851d9ecb <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20sexual%20assault> .
+_:N701f7286b103472bb695cf5d5a081b0f <http://QA.jbt.org/extraction_confidence> "0.9081624858232068"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N36d0e4dbe94d42008bc5e3121bf84a3f <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:Nfa9237ba7e094c61821aaf8aaf4427b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <1964> .
+_:Nb2b3df9dad7b491b9497c458c4fc5dd0 <http://QA.jbt.org/extraction_confidence> "0.30899953469486874"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N52b828f4f6e2487994c3c474dbf763dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <is%20a%20graduate%20of> .
+_:Nd95b9949e41d451d9aff80952a228a43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <increased> .
+_:Ndd39e1d2324246c991503f1431005cc0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <insurers> .
+<to%20%241.34%20trillion> <http://www.w3.org/2000/01/rdf-schema#label> "to $1.34 trillion" .
+_:Ne18f6974634946a4a36631e5a1fb4500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <continued> .
+_:Ne81ff8a9a0ee4b0dad828584c27a904a <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <reversed> .
+_:N61d15d5b25dd43b89f0858381294d4ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20do> .
+<in> <http://www.w3.org/2000/01/rdf-schema#label> "in" .
+_:N7b76864242804d79a413754c48fd2646 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Congress> .
+<the%20love> <http://www.w3.org/2000/01/rdf-schema#label> "the love" .
+_:N1322d59e20a541e39fd36804dc48aae7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <place> .
+_:Nbf4b8f7ac4db40609f04ad1543f86ea9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <will%20slightly%20shrink> .
+_:Ndd39e1d2324246c991503f1431005cc0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20deny> .
+_:N879d9b64839049928dca1156e3e9da4c <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <being> .
+_:N7c76d5d9979a4181b0de2812db5e2e71 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <again> .
+_:N3db5609ed3234e9aa415fcfb3f6a12f4 <http://QA.jbt.org/context> "Obama said" .
+<on%20college%20and%20university%20campuses> <http://www.w3.org/2000/01/rdf-schema#label> "on college and university campuses" .
+_:N36d0e4dbe94d42008bc5e3121bf84a3f <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <filed> .
+_:Nc0477c675f744967a988c3912f5496b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <were%20married> .
+_:Na2741acfd7344826869570edf618d08b <http://QA.jbt.org/extraction_confidence> "0.3808945036672451"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Naf99bdca53f240478f5d9c095957ef69 <http://QA.jbt.org/argument> <as%20President> .
+<his%20youthful%20image> <http://www.w3.org/2000/01/rdf-schema#label> "his youthful image" .
+_:N4294013b215b46e08e64031abde97c12 <http://QA.jbt.org/extraction_confidence> "0.9180804252893388"^^<http://www.w3.org/2001/XMLSchema#double> .
+<told> <http://www.w3.org/2000/01/rdf-schema#label> "told" .
+<employment> <http://www.w3.org/2000/01/rdf-schema#label> "employment" .
+_:N5b97ad8ae63545149ab095d0c574af49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <they> .
+_:Nd3decbed793946ab9809a6048a624876 <http://QA.jbt.org/temporal> "until our gay brothers and sisters are treated like anyone else under the law-for if we are truly created equal, then surely the love we commit to one another must be equal as well" .
+_:N264e08b1b4a84b259da44b55d94fb195 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <accepted> .
+_:Nd7e2317a69c24a2d9d6820b9e47f6090 <http://QA.jbt.org/argument> <as%20a%20%22loyal%20Democrat> .
+<the%20Supreme%20Court> <http://www.w3.org/2000/01/rdf-schema#label> "the Supreme Court" .
+<In%20mid-1981> <http://www.w3.org/2000/01/rdf-schema#label> "In mid-1981" .
+<offer> <http://www.w3.org/2000/01/rdf-schema#label> "offer" .
+<religion> <http://www.w3.org/2000/01/rdf-schema#label> "religion" .
+<President%20Bush> <http://www.w3.org/2000/01/rdf-schema#label> "President Bush" .
+<in%20his%20support> <http://www.w3.org/2000/01/rdf-schema#label> "in his support" .
+<his%20outreach> <http://www.w3.org/2000/01/rdf-schema#label> "his outreach" .
+_:N0574aae93f7742eeb07026866057741e <http://QA.jbt.org/extraction_confidence> "0.9703210197816324"^^<http://www.w3.org/2001/XMLSchema#double> .
+<hold> <http://www.w3.org/2000/01/rdf-schema#label> "hold" .
+<to%20white%20folks> <http://www.w3.org/2000/01/rdf-schema#label> "to white folks" .
+_:Ncfabb810fcbd4f7ea1c01446cc2dbef0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <visited> .
+_:N1b9b9b5caf1a452faa464b03d0f4f103 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <place> .
+_:Nc0477c675f744967a988c3912f5496b1 <http://QA.jbt.org/extraction_confidence> "0.619523342365688"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N1c04f13671dc443b801a13fabb6b2b3c <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Clinton> .
+_:N7c76d5d9979a4181b0de2812db5e2e71 <http://QA.jbt.org/extraction_confidence> "0.19710908353723788"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nc28da546f6524d4299dbb4772c1fd5de <http://QA.jbt.org/temporal> "on December 17, 2010" .
+_:N749ebbdf6bdb4c9f8ebd2397a4595f80 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <look> .
+_:N2060b075ece443fca9ffb266684d8cd4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama%27s%20parents> .
+<raising%20funds> <http://www.w3.org/2000/01/rdf-schema#label> "raising funds" .
+_:N2569cdcb902948429a5f6424efcb1000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <two%20initiatives> .
+_:N1c04f13671dc443b801a13fabb6b2b3c <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <her%20campaign> .
+_:N879d9b64839049928dca1156e3e9da4c <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <years%20old> .
+_:Nf13ae4e1e00746e59d047f2ed3a6bc70 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <passed> .
+_:N6369760cdb09428586a49b9f8c33d461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<office> <http://www.w3.org/2000/01/rdf-schema#label> "office" .
+<the%20bill> <http://www.w3.org/2000/01/rdf-schema#label> "the bill" .
+<that%20he%20would%20resign%20his%20Senate%20seat%20on%20November%2016%2C%202008%2C%20before%20the%20start%20of%20the%20lame-duck%20session> <http://www.w3.org/2000/01/rdf-schema#label> "that he would resign his Senate seat on November 16, 2008, before the start of the lame-duck session" .
+<%5Bis%5D%20operator%20%5Bof%5D> <http://www.w3.org/2000/01/rdf-schema#label> "[is] operator [of]" .
+_:N9a47e3861c53461c9d0e901915c882ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <from%20Trinity> .
+_:Nbf40af95c93547dea10b5d48bc8ac89a <http://QA.jbt.org/spatial> <at%20University%20of%20Chicago%20Law%20School> .
+<to%20visit%20his%20mother%20and%20half-sister> <http://www.w3.org/2000/01/rdf-schema#label> "to visit his mother and half-sister" .
+_:Ncc563d24122346f2850832a9b96d7e15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <said> .
+<on%20a%20nuclear%20deal> <http://www.w3.org/2000/01/rdf-schema#label> "on a nuclear deal" .
+_:N24253f77f5334795a6e0e4e04eac7a4f <http://QA.jbt.org/extraction_confidence> "0.9180804252893388"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N36ea2a64bc314909ad953aa2332a8edd <http://QA.jbt.org/argument> <due%20to%20the%20Space%20Shuttle%20Challenger%20disaster> .
+_:N61d15d5b25dd43b89f0858381294d4ae <http://QA.jbt.org/extraction_confidence> "0.7833813375237394"^^<http://www.w3.org/2001/XMLSchema#double> .
+<began%20dating> <http://www.w3.org/2000/01/rdf-schema#label> "began dating" .
+<The%20manuscript> <http://www.w3.org/2000/01/rdf-schema#label> "The manuscript" .
+<coverage%20for%20pre-existing%20conditions> <http://www.w3.org/2000/01/rdf-schema#label> "coverage for pre-existing conditions" .
+<to%20drop> <http://www.w3.org/2000/01/rdf-schema#label> "to drop" .
+_:N7841e8070f90431d9f1a5f290264aec7 <http://QA.jbt.org/temporal> "In 1963" .
+_:Ne9a621d5bb6e4d548c92317173c58e0a <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <his%20victory%20speech> .
+_:N1f99dc443fab47d79c2c7c8fb55c3e06 <http://QA.jbt.org/extraction_confidence> "0.3853208301752743"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N3320f42b9686415483be6ed1d034b459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Christianity> .
+<to%20church> <http://www.w3.org/2000/01/rdf-schema#label> "to church" .
+_:N0768225d307342128d877c25cc25c8ac <http://QA.jbt.org/spatial> <a%20speech%20at%20the%20University%20of%20Nairobi> .
+_:N78ac3dac11d84a62990a9f41a022f999 <http://QA.jbt.org/extraction_confidence> "0.3498441627223176"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Ncae94cf6c35f472ea98544a99732b94c <http://QA.jbt.org/argument> <for%20both%20firms%27%20bankruptcies%2C%20including%20the%20sale%20of%20Chrysler%20to%20Italian%20automaker%20Fiat%20and%20a%20reorganization%20of%20GM> .
+_:Nbf069fcd0abf4e28a7166ecd540ec4a5 <http://QA.jbt.org/context> "They began" .
+_:N7147fa85eb0246c18bede26a49908a69 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20Democratic%20Party> .
+_:N5f2e37f8bcdb476c86b1d70a9705f185 <http://QA.jbt.org/temporal> "On June 4, 2009" .
+_:Nfa5a56a09ac44e008513b017340a393b <http://QA.jbt.org/extraction_confidence> "0.8847999636040884"^^<http://www.w3.org/2001/XMLSchema#double> .
+<the%20Gulf> <http://www.w3.org/2000/01/rdf-schema#label> "the Gulf" .
+_:Nd95b9949e41d451d9aff80952a228a43 <http://QA.jbt.org/context> "a report stating" .
+_:Na52cc2b7f213432681011ca02335c9ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <their%20hopes> .
+_:N3db5609ed3234e9aa415fcfb3f6a12f4 <http://QA.jbt.org/extraction_confidence> "0.7955801501517452"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nf2eced009f8748ee883a42f48c613676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <by%20Sunny> .
+<terms> <http://www.w3.org/2000/01/rdf-schema#label> "terms" .
+<with%20Us> <http://www.w3.org/2000/01/rdf-schema#label> "with Us" .
+_:N2569cdcb902948429a5f6424efcb1000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <his%20name> .
+_:N69ed7b1c50f8474ebd8a36c44c7ce2ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <place> .
+_:Nca9908e982f442e69ed25604804cb3e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <would%20become> .
+_:N0facc3e7b73c4026a20f3992c184b7c1 <http://QA.jbt.org/argument> <in%20his%20support> .
+_:Nff82925325b441c0b4f27b291caa8f00 <http://QA.jbt.org/extraction_confidence> "0.4517038250665665"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N46f599fd50de444b8d23ca480b190337 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Congress> .
+_:N2c12c70f0e4e4a33b1665636b7ceabd7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <against%20gays> .
+_:Nd5f94d1f947445f086874f5c8dc023a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <nominated> .
+_:Ne4ddb66364be4f08b230bc8b10f2d042 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <you> .
+_:N46f599fd50de444b8d23ca480b190337 <http://QA.jbt.org/extraction_confidence> "0.8982330273114404"^^<http://www.w3.org/2001/XMLSchema#double> .
+<replaced> <http://www.w3.org/2000/01/rdf-schema#label> "replaced" .
+_:N336f5ec9c4414bb5b8964a1d9a9874cb <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <his%20Senate%20seat> .
+_:N4c53a60ce8364f9ba90dd949eff44c78 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:Nb2b3df9dad7b491b9497c458c4fc5dd0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <me> .
+_:N2060b075ece443fca9ffb266684d8cd4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%20March%201964> .
+_:Naf1d57a5462445a58bbe76afc7aff483 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <DNA%20testing> .
+<throughout%20the%20United%20States> <http://www.w3.org/2000/01/rdf-schema#label> "throughout the United States" .
+_:N1f99dc443fab47d79c2c7c8fb55c3e06 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <%5Bis%5D%20operator%20%5Bof%5D> .
+_:N3454e38f59644ac2812fe7aafbe19134 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Barack> .
+_:N1b9b9b5caf1a452faa464b03d0f4f103 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <took> .
+_:N02ef8b55bbb14647aec9a6547e6b23f5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <bin%20Laden%27s%20body> .
+_:Ne9e2c721eaaa4dfcb67edc4c794e2c33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <His%20speech> .
+<a%20similar%20poll> <http://www.w3.org/2000/01/rdf-schema#label> "a similar poll" .
+<were> <http://www.w3.org/2000/01/rdf-schema#label> "were" .
+<for%20both%20firms%27%20bankruptcies%2C%20including%20the%20sale%20of%20Chrysler%20to%20Italian%20automaker%20Fiat%20and%20a%20reorganization%20of%20GM> <http://www.w3.org/2000/01/rdf-schema#label> "for both firms' bankruptcies, including the sale of Chrysler to Italian automaker Fiat and a reorganization of GM" .
+_:Naf1d57a5462445a58bbe76afc7aff483 <http://QA.jbt.org/extraction_confidence> "0.9180804252893388"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N7890f590305b470583146489ce0e1214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <returned> .
+<his%20forces> <http://www.w3.org/2000/01/rdf-schema#label> "his forces" .
+_:N51b8d4e0660f44afbbab0398acc311c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <signed> .
+<an%20area> <http://www.w3.org/2000/01/rdf-schema#label> "an area" .
+_:N7f2da7e96d2246859629ae4ccc1b7d4e <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Iraq> .
+<appeal> <http://www.w3.org/2000/01/rdf-schema#label> "appeal" .
+_:N1dc545bbb5bc46b19fcc95bb9c5b2cdf <http://QA.jbt.org/extraction_confidence> "0.9610033692204464"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Na3a42362ebbe474d9d517e7cbd8af579 <http://QA.jbt.org/extraction_confidence> "0.8729594258478622"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nf46a52df7dd84cc58eb5a08277316219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <did> .
+<perpetrated> <http://www.w3.org/2000/01/rdf-schema#label> "perpetrated" .
+_:N7ba015d93b2e4a9f8cd7ea711a9a3c2b <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <became> .
+_:N78ac3dac11d84a62990a9f41a022f999 <http://QA.jbt.org/temporal> "in August 2006" .
+_:Nfa0c2ccbe9d0492da9613678d1625e92 <http://QA.jbt.org/extraction_confidence> "0.8549382050471134"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N7890f590305b470583146489ce0e1214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20Honolulu> .
+_:N1f253380291448e6adbaefd8f810f02f <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <August%204> .
+_:N6fdb080047b8497fa0fe1f56369489ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:N5e27c1dd75054b7bada93516422925a4 <http://QA.jbt.org/argument> <as%20its%20Person%20of%20the%20Year> .
+<was%20joined> <http://www.w3.org/2000/01/rdf-schema#label> "was joined" .
+_:N24253f77f5334795a6e0e4e04eac7a4f <http://QA.jbt.org/argument> <from%20a%20Hyde%20Park%2C%20Chicago%20condominium> .
+_:Ndffc02c1be794b3eb3b36db71d330c00 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<see> <http://www.w3.org/2000/01/rdf-schema#label> "see" .
+_:N79c7df8350f2478fa6e9dd3a25e54b21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <a%20similar%20poll> .
+_:Ne8ef5a2cb8194fd9be15534f87147fa4 <http://QA.jbt.org/temporal> "On October 2, 2002" .
+_:Nb46c4b302f5e4819bf1dbb2a50daddf7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <two%20women> .
+_:N717815b4cd68488493315e4984a61e0f <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%201960> .
+_:N6b09a3c6a76142f9870e067bc6086f5c <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <unusually%20uncertain> .
+<ended> <http://www.w3.org/2000/01/rdf-schema#label> "ended" .
+_:N79c7df8350f2478fa6e9dd3a25e54b21 <http://QA.jbt.org/extraction_confidence> "0.9250606141558616"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nd7e2317a69c24a2d9d6820b9e47f6090 <http://QA.jbt.org/extraction_confidence> "0.8918717465970578"^^<http://www.w3.org/2001/XMLSchema#double> .
+<On%20December%2022%2C%202010> <http://www.w3.org/2000/01/rdf-schema#label> "On December 22, 2010" .
+_:Nf13ae4e1e00746e59d047f2ed3a6bc70 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20Senate> .
+<BP> <http://www.w3.org/2000/01/rdf-schema#label> "BP" .
+_:N5481427f32c84595ad69650c702b59a4 <http://QA.jbt.org/context> "he threw" .
+_:N447c13fe30d548df854e8f08cfe42131 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <too%20late> .
+_:Nb6f4e3be24fd4ab8b0ee11b94244b7d7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <his%20mother> .
+<on%20the%20research> <http://www.w3.org/2000/01/rdf-schema#label> "on the research" .
+<to%20serve> <http://www.w3.org/2000/01/rdf-schema#label> "to serve" .
+_:Nc328ec085f0a42318eec83e55730a599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <called> .
+_:Na99f2ca2918a47d697faf3fb4fb76645 <http://QA.jbt.org/extraction_confidence> "0.3808945036672451"^^<http://www.w3.org/2001/XMLSchema#double> .
+<as%20%22a%20historic%20understanding%20with%20Iran> <http://www.w3.org/2000/01/rdf-schema#label> "as \"a historic understanding with Iran" .
+_:Nb79ce3f1d49b42bab7651392d1b6d624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <three%20years> .
+_:Ndcc9273ba7b741ea9be3c8ff680467a7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <his%20forces> .
+<for%20a%20visit%20to%20his%20father%27s%20birthplace> <http://www.w3.org/2000/01/rdf-schema#label> "for a visit to his father's birthplace" .
+<His%20law%20license> <http://www.w3.org/2000/01/rdf-schema#label> "His law license" .
+<worked> <http://www.w3.org/2000/01/rdf-schema#label> "worked" .
+_:Nf46a52df7dd84cc58eb5a08277316219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <it> .
+<was%20viewed> <http://www.w3.org/2000/01/rdf-schema#label> "was viewed" .
+_:N52b828f4f6e2487994c3c474dbf763dc <http://QA.jbt.org/extraction_confidence> "0.3808945036672451"^^<http://www.w3.org/2001/XMLSchema#double> .
+<the%20first%20pitch> <http://www.w3.org/2000/01/rdf-schema#label> "the first pitch" .
+<the%20veteran> <http://www.w3.org/2000/01/rdf-schema#label> "the veteran" .
+_:N701f7286b103472bb695cf5d5a081b0f <http://QA.jbt.org/temporal> "in 1964" .
+_:Ndcc9273ba7b741ea9be3c8ff680467a7 <http://QA.jbt.org/extraction_confidence> "0.6294692549458004"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Neeedfe504cbd4a86b46d360bde84c218 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Americans> .
+_:Nb68c154052b54550a5a46e5774922dc2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <promoting> .
+<throughout%202008> <http://www.w3.org/2000/01/rdf-schema#label> "throughout 2008" .
+_:N512aa38b488741e1958520d3757050aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <on%20November%2013%2C%202008> .
+_:N9d9390bd1b06430591f7c9fd71168588 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <for%20insurance> .
+_:N3edab13a3c584862b8c2d64cb9e04a86 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <gave> .
+_:Nc3670a64024d49a49116445e4c71057e <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <would%20authorize> .
+<Misrata> <http://www.w3.org/2000/01/rdf-schema#label> "Misrata" .
+<in%20June%202009> <http://www.w3.org/2000/01/rdf-schema#label> "in June 2009" .
+<to%20lead> <http://www.w3.org/2000/01/rdf-schema#label> "to lead" .
+_:N88a502d02223496486effff392143e66 <http://QA.jbt.org/extraction_confidence> "0.30297744566198154"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N6d9f41f3ca744eac8d7d470e71f51509 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <began> .
+<became> <http://www.w3.org/2000/01/rdf-schema#label> "became" .
+_:N83003b2312504a9cad375aae847e5c7e <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20devout%20Christian> .
+_:Nc3670a64024d49a49116445e4c71057e <http://QA.jbt.org/extraction_confidence> "0.8872966301155124"^^<http://www.w3.org/2001/XMLSchema#double> .
+<the%20economic%20outlook> <http://www.w3.org/2000/01/rdf-schema#label> "the economic outlook" .
+<the%20only%20nation> <http://www.w3.org/2000/01/rdf-schema#label> "the only nation" .
+_:N6cfd50b7893f484a818f62dc2827687b <http://QA.jbt.org/spatial> <amid%20territorial%20gains%20made%20by%20the%20Islamic%20State%20of%20Iraq%20and%20the%20Levant%20following%20the%20U.S.%20withdrawal%20in%202011> .
+<on%20your%20jobs> <http://www.w3.org/2000/01/rdf-schema#label> "on your jobs" .
+<Our%20journey> <http://www.w3.org/2000/01/rdf-schema#label> "Our journey" .
+_:N52cd270a23dd42259213a9fa3ee58450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <ratified> .
+_:N7841e8070f90431d9f1a5f290264aec7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Dunham> .
+_:N5481427f32c84595ad69650c702b59a4 <http://QA.jbt.org/extraction_confidence> "0.33256347858281204"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Na2741acfd7344826869570edf618d08b <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <%5Bis%5D%20mother%20%5Bof%5D> .
+_:Nb3be0d35626945bf9f1ae34dcc652322 <http://QA.jbt.org/temporal> "in April 2010" .
+_:Nce9df8b1fa2e49b18914a06398f9ede3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <electoral%20votes> .
+<too%20late> <http://www.w3.org/2000/01/rdf-schema#label> "too late" .
+_:N63ced9b90abb4c6abcf448a1bbf054b0 <http://QA.jbt.org/extraction_confidence> "0.9030401971054748"^^<http://www.w3.org/2001/XMLSchema#double> .
+<to%20notify%20state%20and%20local%20authorities%20of%20radioactive%20leaks> <http://www.w3.org/2000/01/rdf-schema#label> "to notify state and local authorities of radioactive leaks" .
+_:Nd93dc542f1a04a3ca9495ef4adda6f6a <http://QA.jbt.org/temporal> "in September 2007" .
+<endorsed> <http://www.w3.org/2000/01/rdf-schema#label> "endorsed" .
+_:N336f5ec9c4414bb5b8964a1d9a9874cb <http://QA.jbt.org/extraction_confidence> "0.2929110702089528"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N894f5fb64963465d8aa50fc59b9ae2f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <how> .
+_:N1e4927554c7b498a969c2a13d9cdab3d <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <legislation> .
+_:N0807fbd0da2c482e999543be84425631 <http://QA.jbt.org/extraction_confidence> "0.8299374570232866"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Ncdbcbf92ac2e4d3fa78ca832bbdccc1d <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <offer> .
+<nuclear%20plant%20owners> <http://www.w3.org/2000/01/rdf-schema#label> "nuclear plant owners" .
+_:N460563e862054af88b44078529590e59 <http://QA.jbt.org/extraction_confidence> "0.2560951955542683"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N2bc5ea74e517485189aab1388c2c58e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20third> .
+<born> <http://www.w3.org/2000/01/rdf-schema#label> "born" .
+<before%20earning> <http://www.w3.org/2000/01/rdf-schema#label> "before earning" .
+_:Nb46c4b302f5e4819bf1dbb2a50daddf7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <on%20the%20Supreme%20Court> .
+<as%20President> <http://www.w3.org/2000/01/rdf-schema#label> "as President" .
+_:N01853caea21b4fb98fced79bc34ec568 <http://QA.jbt.org/spatial> <In%20mid-1981> .
+_:N69ed7b1c50f8474ebd8a36c44c7ce2ad <http://QA.jbt.org/extraction_confidence> "0.9180804252893388"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nb4dda3491f0f4134b4ee524b1b1e1612 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <on%20the%20phone> .
+_:N3bd04b9c9ab5465483a917424c4168f2 <http://QA.jbt.org/temporal> "in November 2012" .
+_:Naf99bdca53f240478f5d9c095957ef69 <http://QA.jbt.org/extraction_confidence> "0.4978219019954182"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N1f77433391244d768c8bc80b3f66a941 <http://QA.jbt.org/argument> <the%20Car%20Allowance%20Rebate%20System> .
+_:Nd95b9949e41d451d9aff80952a228a43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <by%201-2.1%20million> .
+_:N6492f900a7844a6aaf1b3e79fb8785fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <met> .
+_:Nfa9237ba7e094c61821aaf8aaf4427b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:Nb4dda3491f0f4134b4ee524b1b1e1612 <http://QA.jbt.org/extraction_confidence> "0.9610033692204464"^^<http://www.w3.org/2001/XMLSchema#double> .
+<%5Bis%5D%20pastor%20%5Bof%5D> <http://www.w3.org/2000/01/rdf-schema#label> "[is] pastor [of]" .
+<down%20a%20path%20toward%20near-total%20isolation> <http://www.w3.org/2000/01/rdf-schema#label> "down a path toward near-total isolation" .
+_:N3454e38f59644ac2812fe7aafbe19134 <http://QA.jbt.org/extraction_confidence> "0.4328394458044063"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nf13ae4e1e00746e59d047f2ed3a6bc70 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <its%20own%20bill> .
+_:N69ed7b1c50f8474ebd8a36c44c7ce2ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <took> .
+_:N4fefad15e1d8446b8b534b2bc1e8908d <http://QA.jbt.org/extraction_confidence> "0.9045207649554154"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N44326d52500843099612b67bb6c86567 <http://QA.jbt.org/extraction_confidence> "0.8578017210754282"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N5f23679a6b3f4f6aa4c87768fcee56ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <have%20said%20directly> .
+_:Nb3be0d35626945bf9f1ae34dcc652322 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20New%20START%20treaty> .
+_:Nd3decbed793946ab9809a6048a624876 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <is%20not> .
+_:Nd6db0a8d4b874f0fb4d71d6fce4a732b <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <on%20his%20website> .
+<at%20the%202004%20Democratic%20National%20Convention> <http://www.w3.org/2000/01/rdf-schema#label> "at the 2004 Democratic National Convention" .
+_:N3edab13a3c584862b8c2d64cb9e04a86 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20speech> .
+_:Naf99bdca53f240478f5d9c095957ef69 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:Nfee5df6e584b4deb9e647ed23fb66207 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was%20published> .
+_:N336f5ec9c4414bb5b8964a1d9a9874cb <http://QA.jbt.org/temporal> "before the start of the lame-duck session" .
+_:N4f3c387b67c94d6c8d4725b703931ab0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Democrats> .
+_:N02ef8b55bbb14647aec9a6547e6b23f5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was%20buried> .
+_:N4294013b215b46e08e64031abde97c12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <related> .
+_:N2bc5ea74e517485189aab1388c2c58e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20become> .
+_:N0b3455f57d054720914dadecaaf0256c <http://QA.jbt.org/extraction_confidence> "0.8521807652783181"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N576fc4840015449d8acde770f1f17196 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <condemn> .
+_:N0f8f3e4d56664f3d83248ac058130e45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <roots%20in%20Ireland> .
+<transferred> <http://www.w3.org/2000/01/rdf-schema#label> "transferred" .
+<Michelle%20Robinson> <http://www.w3.org/2000/01/rdf-schema#label> "Michelle Robinson" .
+_:Nd5f94d1f947445f086874f5c8dc023a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <by%20Obama> .
+_:N0807fbd0da2c482e999543be84425631 <http://QA.jbt.org/temporal> "every week" .
+_:Nd6db0a8d4b874f0fb4d71d6fce4a732b <http://QA.jbt.org/extraction_confidence> "0.2560951955542683"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nf13ae4e1e00746e59d047f2ed3a6bc70 <http://QA.jbt.org/temporal> "On December 24" .
+_:N4f3c387b67c94d6c8d4725b703931ab0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <regained> .
+_:N3772455adee0445499fd3f53b0b165b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Republican%20primary> .
+_:N4c9ab1b3f4b344d6a999f9186d54afba <http://QA.jbt.org/temporal> "one month after the Sandy Hook Elementary School shooting" .
+<the%20first%20President> <http://www.w3.org/2000/01/rdf-schema#label> "the first President" .
+_:N34cd76b19b58491180a5125926c7ac3d <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20participate> .
+<the%20Democratic%20Republic%20of%20the%20Congo%20Relief%2C%20Security%2C%20and%20Democracy%20Promotion%20Act> <http://www.w3.org/2000/01/rdf-schema#label> "the Democratic Republic of the Congo Relief, Security, and Democracy Promotion Act" .
+<in%202005> <http://www.w3.org/2000/01/rdf-schema#label> "in 2005" .
+<Americans> <http://www.w3.org/2000/01/rdf-schema#label> "Americans" .
+_:N31a0c27336da4f14a0921d5d220cb018 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+<as%20Dreams%20from%20My%20Father> <http://www.w3.org/2000/01/rdf-schema#label> "as Dreams from My Father" .
+_:N7f4976f377d2488693db66f3951496b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <black%20enough> .
+<threw> <http://www.w3.org/2000/01/rdf-schema#label> "threw" .
+_:N7f4976f377d2488693db66f3951496b2 <http://QA.jbt.org/extraction_confidence> "0.2430802396621549"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nda15e6dc147245eebe7f494093d8395c <http://QA.jbt.org/temporal> "on March 15" .
+_:N76a85b789b9a41f5ad58b2cd22dfc3be <http://QA.jbt.org/temporal> "in 1981" .
+<toward%20funding%20the%20Iron%20Dome%20program%20in%20response%20to%20the%20waves%20of%20Palestinian%20rocket%20attacks%20on%20Israel> <http://www.w3.org/2000/01/rdf-schema#label> "toward funding the Iron Dome program in response to the waves of Palestinian rocket attacks on Israel" .
+_:N5f23679a6b3f4f6aa4c87768fcee56ee <http://QA.jbt.org/context> "he responded by saying" .
+_:Ned282a19ec584647be951ddd6d2f6828 <http://QA.jbt.org/argument> <to%20destroy%20the%20Libyan%20government%27s%20air%20defense%20capabilities> .
+_:Ne4ddb66364be4f08b230bc8b10f2d042 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <appeal> .
+_:N1e4927554c7b498a969c2a13d9cdab3d <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <nuclear%20plant%20owners> .
+_:Nf0d9a4eb67524687975466f48ed68b4c <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <created> .
+_:Nb4dda3491f0f4134b4ee524b1b1e1612 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<developed> <http://www.w3.org/2000/01/rdf-schema#label> "developed" .
+_:Nf4b1b52a0c154274b70f8702685b811e <http://QA.jbt.org/context> "Obama attempted" .
+_:N1b9b9b5caf1a452faa464b03d0f4f103 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <this> .
+_:Ndef1045aa9da4b1bb8282d2f07fc4242 <http://QA.jbt.org/extraction_confidence> "0.9610033692204464"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N44326d52500843099612b67bb6c86567 <http://QA.jbt.org/temporal> "After a prolonged effort" .
+_:N27984a9e7f084d4591b18a736d9be666 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was%20called> .
+<was> <http://www.w3.org/2000/01/rdf-schema#label> "was" .
+_:N5b97ad8ae63545149ab095d0c574af49 <http://QA.jbt.org/extraction_confidence> "0.4649296389869295"^^<http://www.w3.org/2001/XMLSchema#double> .
+<sent> <http://www.w3.org/2000/01/rdf-schema#label> "sent" .
+<domestic%20policies> <http://www.w3.org/2000/01/rdf-schema#label> "domestic policies" .
+_:N33094bdc576c4bc6ae2423cbd1a6574a <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <described> .
+_:N40e18c369d224ee8bfeff1836973fb92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <increased> .
+_:Nfee5df6e584b4deb9e647ed23fb66207 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <The%20manuscript> .
+_:N4c53a60ce8364f9ba90dd949eff44c78 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20member%20of%20Trinity> .
+<on%20November%2013%2C%202008> <http://www.w3.org/2000/01/rdf-schema#label> "on November 13, 2008" .
+_:N576fc4840015449d8acde770f1f17196 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <we> .
+_:Ndffc02c1be794b3eb3b36db71d330c00 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <began> .
+_:Naacd22fd288a45de8ef78736560c1d34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20first%20President> .
+_:N7c2ed389ad5e4d33aea4798c17ce5600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Christ> .
+<people> <http://www.w3.org/2000/01/rdf-schema#label> "people" .
+<to%20destroy%20the%20Libyan%20government%27s%20air%20defense%20capabilities> <http://www.w3.org/2000/01/rdf-schema#label> "to destroy the Libyan government's air defense capabilities" .
+_:Na49f85758dc747d9ad3c28f509fa30f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <health%20insurance> .
+_:N4f3c387b67c94d6c8d4725b703931ab0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20majority> .
+_:N7c76d5d9979a4181b0de2812db5e2e71 <http://QA.jbt.org/temporal> "in 2002" .
+_:Nc22dfb86ce6c4ee184282e5fd34a78fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <agencies> .
+<will%20slightly%20shrink> <http://www.w3.org/2000/01/rdf-schema#label> "will slightly shrink" .
+<the%20couple> <http://www.w3.org/2000/01/rdf-schema#label> "the couple" .
+<the%20public%20option> <http://www.w3.org/2000/01/rdf-schema#label> "the public option" .
+<from%20a%20field> <http://www.w3.org/2000/01/rdf-schema#label> "from a field" .
+<place> <http://www.w3.org/2000/01/rdf-schema#label> "place" .
+<LGBT%20rights> <http://www.w3.org/2000/01/rdf-schema#label> "LGBT rights" .
+_:N32a4b1a1e3f246e3a9ded36b439019ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%20Wichita%2C%20Kansas> .
+_:N438f59b5fc67417d8480b60d729868cc <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20attend> .
+_:N8a5e8c21bfa0412893e1da4f7f225730 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <funds> .
+_:N0574aae93f7742eeb07026866057741e <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N63237a230344497d9c227a7e8651fe87 <http://QA.jbt.org/extraction_confidence> "0.953574238365252"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Naacd22fd288a45de8ef78736560c1d34 <http://QA.jbt.org/extraction_confidence> "0.9436221120476838"^^<http://www.w3.org/2001/XMLSchema#double> .
+<with%20a%2068%20percent%20approval%20rating%20before%20gradually%20declining%20for%20the%20rest%20of%20the%20year%2C%20and%20eventually%20bottoming%20out%20at%2041%20percent%20in%20August%202010> <http://www.w3.org/2000/01/rdf-schema#label> "with a 68 percent approval rating before gradually declining for the rest of the year, and eventually bottoming out at 41 percent in August 2010" .
+_:N37630794fb404eaab16288c6f4c7dd21 <http://QA.jbt.org/extraction_confidence> "0.9267899601589662"^^<http://www.w3.org/2001/XMLSchema#double> .
+<to%20Los%20Angeles> <http://www.w3.org/2000/01/rdf-schema#label> "to Los Angeles" .
+_:Ne5a3fedc966440ecb5924bfd4924144b <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <information> .
+_:Nac283ce6dd49424098694072d8cebc60 <http://QA.jbt.org/argument> <the%20Democratic%20Republic%20of%20the%20Congo%20Relief%2C%20Security%2C%20and%20Democracy%20Promotion%20Act> .
+_:N1f99dc443fab47d79c2c7c8fb55c3e06 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <well> .
+_:Ned282a19ec584647be951ddd6d2f6828 <http://QA.jbt.org/spatial> <in%20air%20strikes> .
+_:N44326d52500843099612b67bb6c86567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N36d0e4dbe94d42008bc5e3121bf84a3f <http://QA.jbt.org/argument> <with%20the%20Federal%20Election%20Commission> .
+<condemned> <http://www.w3.org/2000/01/rdf-schema#label> "condemned" .
+<to%20Kenya> <http://www.w3.org/2000/01/rdf-schema#label> "to Kenya" .
+<a%20male> <http://www.w3.org/2000/01/rdf-schema#label> "a male" .
+<three%20years> <http://www.w3.org/2000/01/rdf-schema#label> "three years" .
+_:N83003b2312504a9cad375aae847e5c7e <http://QA.jbt.org/extraction_confidence> "0.5680679595514976"^^<http://www.w3.org/2001/XMLSchema#double> .
+<resigned> <http://www.w3.org/2000/01/rdf-schema#label> "resigned" .
+<strict%20guidelines> <http://www.w3.org/2000/01/rdf-schema#label> "strict guidelines" .
+<to%20Indonesia> <http://www.w3.org/2000/01/rdf-schema#label> "to Indonesia" .
+_:N6d9f41f3ca744eac8d7d470e71f51509 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:N3bd04b9c9ab5465483a917424c4168f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was%20reelected> .
+_:N5cd58af9de3a457abb05508aa98be4e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20require> .
+<a%20man> <http://www.w3.org/2000/01/rdf-schema#label> "a man" .
+<the%20U.S.%20Senate> <http://www.w3.org/2000/01/rdf-schema#label> "the U.S. Senate" .
+_:N40e18c369d224ee8bfeff1836973fb92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <tax%20credits> .
+_:N18fec26a15234d18aa31aaa5f6492d00 <http://QA.jbt.org/temporal> "After much public debate during the Congressional summer recess of 2009" .
+<later> <http://www.w3.org/2000/01/rdf-schema#label> "later" .
+_:Na52cc2b7f213432681011ca02335c9ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <most%20people> .
+<being> <http://www.w3.org/2000/01/rdf-schema#label> "being" .
+_:Nfcba3896cfbc438cae71fa02aa157a3f <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <described> .
+<was%20called> <http://www.w3.org/2000/01/rdf-schema#label> "was called" .
+_:N91595d0a55e646958f5dcda90f24c562 <http://QA.jbt.org/extraction_confidence> "0.9369813267476892"^^<http://www.w3.org/2001/XMLSchema#double> .
+<to%20stay> <http://www.w3.org/2000/01/rdf-schema#label> "to stay" .
+_:N4090487bd30a4575bb0290dbaceb7141 <http://QA.jbt.org/extraction_confidence> "0.9126241552108846"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N1b9b9b5caf1a452faa464b03d0f4f103 <http://QA.jbt.org/temporal> "in July 2011" .
+_:N7dc905fd5d704ffdb6c2f913e0e45fc2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <milk> .
+<again> <http://www.w3.org/2000/01/rdf-schema#label> "again" .
+<had%20not%20visited> <http://www.w3.org/2000/01/rdf-schema#label> "had not visited" .
+_:N264e08b1b4a84b259da44b55d94fb195 <http://QA.jbt.org/extraction_confidence> "0.9324144673478684"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N15a34af08322403580ab7f71169fb193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <two%20relief%20wells> .
+<welfare%20reform> <http://www.w3.org/2000/01/rdf-schema#label> "welfare reform" .
+_:N5f23679a6b3f4f6aa4c87768fcee56ee <http://QA.jbt.org/extraction_confidence> "0.19527928014729373"^^<http://www.w3.org/2001/XMLSchema#double> .
+<Middle%20East%20peace> <http://www.w3.org/2000/01/rdf-schema#label> "Middle East peace" .
+<the%20mandate> <http://www.w3.org/2000/01/rdf-schema#label> "the mandate" .
+<selected> <http://www.w3.org/2000/01/rdf-schema#label> "selected" .
+_:N2fc553372d454cce862628eeeb389e74 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <returned> .
+_:N142656aa6b7247e9ab2e75619ea3ef46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <out> .
+_:Nbb01169f0e71466fa4c408e68acf3f73 <http://QA.jbt.org/argument> <by%20refusing%20to%20appropriate%20the%20required%20funds%20and%20preventing%20moving%20any%20Guantanamo%20detainee%20into%20the%20U.S.%20or%20to%20other%20countries> .
+<authorizing> <http://www.w3.org/2000/01/rdf-schema#label> "authorizing" .
+_:N6fdb080047b8497fa0fe1f56369489ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <returned> .
+<in%20a%20Russian%20language%20class> <http://www.w3.org/2000/01/rdf-schema#label> "in a Russian language class" .
+<by%20Sunny> <http://www.w3.org/2000/01/rdf-schema#label> "by Sunny" .
+_:Nfee5df6e584b4deb9e647ed23fb66207 <http://QA.jbt.org/extraction_confidence> "0.8588213959830759"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nc5cc5166c7334945b94a6057574802ef <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <urging> .
+_:Nc0f55b76fc26486ba0df4c5f5a2a83a0 <http://QA.jbt.org/extraction_confidence> "0.2743125465364158"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Na6b8b04fd14a41afb792e5c64793cdb4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <this> .
+_:Nfa9237ba7e094c61821aaf8aaf4427b0 <http://QA.jbt.org/extraction_confidence> "0.3018651855507195"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N7c2ed389ad5e4d33aea4798c17ce5600 <http://QA.jbt.org/extraction_confidence> "0.3808945036672451"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N0375c8df8624487aba91fcda7ac5ab05 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N3320f42b9686415483be6ed1d034b459 <http://QA.jbt.org/temporal> "In January 2008" .
+_:Nca9908e982f442e69ed25604804cb3e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<The%20first%20bill> <http://www.w3.org/2000/01/rdf-schema#label> "The first bill" .
+_:N8418719c122f47e1827bbe33f83f2b49 <http://QA.jbt.org/temporal> "On June 7, 2008" .
+_:Nb3be0d35626945bf9f1ae34dcc652322 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <signed> .
+<Mitt%20Romney> <http://www.w3.org/2000/01/rdf-schema#label> "Mitt Romney" .
+_:Ncae94cf6c35f472ea98544a99732b94c <http://QA.jbt.org/temporal> "Over the following months" .
+_:Nbb01169f0e71466fa4c408e68acf3f73 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Congress> .
+_:N2bc5ea74e517485189aab1388c2c58e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20Nobel%20laureate> .
+<did%20n%27t%20raise> <http://www.w3.org/2000/01/rdf-schema#label> "did n't raise" .
+_:Nfcba3896cfbc438cae71fa02aa157a3f <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+_:Nae66628abe334770aca92b96c9b7606d <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <most%20dear> .
+_:N438f59b5fc67417d8480b60d729868cc <http://QA.jbt.org/extraction_confidence> "0.9210233335200771"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nf0d9a4eb67524687975466f48ed68b4c <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20campaign%20committee> .
+_:Ne9e2c721eaaa4dfcb67edc4c794e2c33 <http://QA.jbt.org/extraction_confidence> "0.4932869934066797"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N6cfd50b7893f484a818f62dc2827687b <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <troops> .
+<his%20law%20degree> <http://www.w3.org/2000/01/rdf-schema#label> "his law degree" .
+_:Ncb36ee92ea8b4e1e8dc22395775ee168 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <do%20not%20obtain> .
+_:N11eb6e0596174ac3807442376a95be05 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in> .
+_:N11eb6e0596174ac3807442376a95be05 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <reports> .
+_:Ne9e2c721eaaa4dfcb67edc4c794e2c33 <http://QA.jbt.org/argument> <within%20the%20Democratic%20Party> .
+_:N27984a9e7f084d4591b18a736d9be666 <http://QA.jbt.org/argument> <by%20The%20New%20York%20Times> .
+_:N18fec26a15234d18aa31aaa5f6492d00 <http://QA.jbt.org/argument> <to%20a%20joint%20session%20of%20Congress> .
+_:N324540f872984bc5b026b7ad3c7b8ece <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <jobs> .
+<by%20the%20U.S.%20Senate> <http://www.w3.org/2000/01/rdf-schema#label> "by the U.S. Senate" .
+_:N447c13fe30d548df854e8f08cfe42131 <http://QA.jbt.org/argument> <to%20stop%20the%20war> .
+_:Nb39e1b4ccda34ddd8fd4bd22417588fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <signed> .
+_:Nf2eced009f8748ee883a42f48c613676 <http://QA.jbt.org/extraction_confidence> "0.9269133328358692"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nf22a5e53c909406a963dccb1997fef55 <http://QA.jbt.org/temporal> "on May 26, 2009" .
+_:Nca5a53f4c5794426a20232cbb0469dd6 <http://QA.jbt.org/argument> <toward%20funding%20the%20Iron%20Dome%20program%20in%20response%20to%20the%20waves%20of%20Palestinian%20rocket%20attacks%20on%20Israel> .
+_:Na49f85758dc747d9ad3c28f509fa30f0 <http://QA.jbt.org/extraction_confidence> "0.8942434158739456"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N5e27c1dd75054b7bada93516422925a4 <http://QA.jbt.org/spatial> <In%20December%202008%20and%20in%202012> .
+<is%20moving> <http://www.w3.org/2000/01/rdf-schema#label> "is moving" .
+_:N4ff3a0bd6dde43d2b85b47aa2de855e2 <http://QA.jbt.org/extraction_confidence> "0.6004768593056767"^^<http://www.w3.org/2001/XMLSchema#double> .
+<173> <http://www.w3.org/2000/01/rdf-schema#label> "173" .
+<was%20reelected> <http://www.w3.org/2000/01/rdf-schema#label> "was reelected" .
+_:Nfa0c2ccbe9d0492da9613678d1625e92 <http://QA.jbt.org/context> "I believe" .
+_:Nc5cc5166c7334945b94a6057574802ef <http://QA.jbt.org/extraction_confidence> "0.9422542725599636"^^<http://www.w3.org/2001/XMLSchema#double> .
+<has> <http://www.w3.org/2000/01/rdf-schema#label> "has" .
+_:N8821aac0eb854449a16b7b23851d9ecb <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <relating> .
+_:Na52cc2b7f213432681011ca02335c9ee <http://QA.jbt.org/extraction_confidence> "0.7955801501517452"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nfb573d77172a4de492bd7804a4c1b0b7 <http://QA.jbt.org/temporal> "on February 2" .
+_:N01853caea21b4fb98fced79bc34ec568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N7f4976f377d2488693db66f3951496b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:N460563e862054af88b44078529590e59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <It> .
+_:Nadee1e940d924763b1146236bfe5cc1b <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <health%20coverage> .
+_:Nf847381b87bb43f49234310e6cd2386f <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <173> .
+<Rev.%20Jeremiah%20Wright> <http://www.w3.org/2000/01/rdf-schema#label> "Rev. Jeremiah Wright" .
+<the%20deficit> <http://www.w3.org/2000/01/rdf-schema#label> "the deficit" .
+_:Nbf069fcd0abf4e28a7166ecd540ec4a5 <http://QA.jbt.org/extraction_confidence> "0.3188944604195688"^^<http://www.w3.org/2001/XMLSchema#double> .
+<he> <http://www.w3.org/2000/01/rdf-schema#label> "he" .
+_:N44326d52500843099612b67bb6c86567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%20June%202009> .
+_:Nf0d9a4eb67524687975466f48ed68b4c <http://QA.jbt.org/extraction_confidence> "0.3880890333449538"^^<http://www.w3.org/2001/XMLSchema#double> .
+<Bo> <http://www.w3.org/2000/01/rdf-schema#label> "Bo" .
+_:Ne9a621d5bb6e4d548c92317173c58e0a <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:Ne5a3fedc966440ecb5924bfd4924144b <http://QA.jbt.org/extraction_confidence> "0.9105129651916236"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N6ae194eb8e6a43e2a4c786383c09eff4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <basketball> .
+<do%20not%20obtain> <http://www.w3.org/2000/01/rdf-schema#label> "do not obtain" .
+_:N8418719c122f47e1827bbe33f83f2b49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <endorsed> .
+_:N4c9ab1b3f4b344d6a999f9186d54afba <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <President%20Obama> .
+_:N79c7df8350f2478fa6e9dd3a25e54b21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <conducted> .
+_:N43a45e26613c404ab31643b392ddf05d <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <We> .
+_:N18fec26a15234d18aa31aaa5f6492d00 <http://QA.jbt.org/temporal> "on September 9" .
+_:N78bb73b30fe843e4823c3b4a898ef2ba <http://QA.jbt.org/extraction_confidence> "0.9212499880074402"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Na0b9615be5ef40cda75372e026c1b2ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was> .
+_:N749ebbdf6bdb4c9f8ebd2397a4595f80 <http://QA.jbt.org/extraction_confidence> "0.8958428165666725"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N142656aa6b7247e9ab2e75619ea3ef46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <threw> .
+_:Nfb573d77172a4de492bd7804a4c1b0b7 <http://QA.jbt.org/extraction_confidence> "0.9180804252893388"^^<http://www.w3.org/2001/XMLSchema#double> .
+<his%20struggles> <http://www.w3.org/2000/01/rdf-schema#label> "his struggles" .
+_:N16e64b9a2dfb48089d392b6e8bd9ed5a <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <by%200.8%20percent> .
+_:N1dc545bbb5bc46b19fcc95bb9c5b2cdf <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%20Chicago> .
+<elevated> <http://www.w3.org/2000/01/rdf-schema#label> "elevated" .
+<passed> <http://www.w3.org/2000/01/rdf-schema#label> "passed" .
+_:N78ac3dac11d84a62990a9f41a022f999 <http://QA.jbt.org/argument> <for%20a%20visit%20to%20his%20father%27s%20birthplace> .
+_:Na3a42362ebbe474d9d517e7cbd8af579 <http://QA.jbt.org/temporal> "in its first month" .
+_:N3a7c26e0ffe7471da633ec099cea0aad <http://QA.jbt.org/extraction_confidence> "0.18444669121233226"^^<http://www.w3.org/2001/XMLSchema#double> .
+<legislation> <http://www.w3.org/2000/01/rdf-schema#label> "legislation" .
+<a%20health%20care%20bill> <http://www.w3.org/2000/01/rdf-schema#label> "a health care bill" .
+<against%20gays> <http://www.w3.org/2000/01/rdf-schema#label> "against gays" .
+<percent> <http://www.w3.org/2000/01/rdf-schema#label> "percent" .
+_:Nff82925325b441c0b4f27b291caa8f00 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20be%20reelected> .
+_:Nc76e718e33864afc9bf6b6828e14b9c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <they> .
+_:Nc0f55b76fc26486ba0df4c5f5a2a83a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <before%20earning> .
+<intelligence> <http://www.w3.org/2000/01/rdf-schema#label> "intelligence" .
+_:N438f59b5fc67417d8480b60d729868cc <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:Nb79ce3f1d49b42bab7651392d1b6d624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:N5cd58af9de3a457abb05508aa98be4e3 <http://QA.jbt.org/extraction_confidence> "0.8776011732811596"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N7f2da7e96d2246859629ae4ccc1b7d4e <http://QA.jbt.org/temporal> "in time" .
+_:Nc76e718e33864afc9bf6b6828e14b9c3 <http://QA.jbt.org/extraction_confidence> "0.6582659227599074"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N8418719c122f47e1827bbe33f83f2b49 <http://QA.jbt.org/extraction_confidence> "0.9541940083284872"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N636330b2117945ad94640f5a20343b38 <http://QA.jbt.org/extraction_confidence> "0.9180804252893388"^^<http://www.w3.org/2001/XMLSchema#double> .
+<criticized> <http://www.w3.org/2000/01/rdf-schema#label> "criticized" .
+_:N63ced9b90abb4c6abcf448a1bbf054b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <imposed> .
+_:N6b09a3c6a76142f9870e067bc6086f5c <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20economic%20outlook> .
+_:Nb6f4e3be24fd4ab8b0ee11b94244b7d7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <%28%20Maya%20Soetoro-Ng> .
+<to%20stop%20the%20war> <http://www.w3.org/2000/01/rdf-schema#label> "to stop the war" .
+_:N5e27c1dd75054b7bada93516422925a4 <http://QA.jbt.org/extraction_confidence> "0.9364413309834698"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N79c7df8350f2478fa6e9dd3a25e54b21 <http://QA.jbt.org/temporal> "in May 2009" .
+<milk> <http://www.w3.org/2000/01/rdf-schema#label> "milk" .
+<the%20third> <http://www.w3.org/2000/01/rdf-schema#label> "the third" .
+<at%20Cairo%20University%20in%20Egypt> <http://www.w3.org/2000/01/rdf-schema#label> "at Cairo University in Egypt" .
+<expressed> <http://www.w3.org/2000/01/rdf-schema#label> "expressed" .
+_:N36ea2a64bc314909ad953aa2332a8edd <http://QA.jbt.org/temporal> "in 1986" .
+_:Nd6db0a8d4b874f0fb4d71d6fce4a732b <http://QA.jbt.org/context> "Obama announced It Begins" .
+_:N460563e862054af88b44078529590e59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <with%20Us> .
+_:N4f3c387b67c94d6c8d4725b703931ab0 <http://QA.jbt.org/extraction_confidence> "0.9453897488750478"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nd7e2317a69c24a2d9d6820b9e47f6090 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <CQ%20Weekly> .
+_:Ne9e2c721eaaa4dfcb67edc4c794e2c33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <his%20status> .
+_:Nb46c4b302f5e4819bf1dbb2a50daddf7 <http://QA.jbt.org/extraction_confidence> "0.8588213959830759"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N7605a806eb2c4144944027433b45bec6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20full%20Senate> .
+_:Ndcc9273ba7b741ea9be3c8ff680467a7 <http://QA.jbt.org/context> "his forces continued" .
+_:Nfb09ad64394d4a5fae301dc188122385 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <carbon%20pollution> .
+_:N1dc545bbb5bc46b19fcc95bb9c5b2cdf <http://QA.jbt.org/temporal> "Two years after graduating" .
+_:N88a502d02223496486effff392143e66 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20focus%20not> .
+<Clinton> <http://www.w3.org/2000/01/rdf-schema#label> "Clinton" .
+<signed> <http://www.w3.org/2000/01/rdf-schema#label> "signed" .
+<his%20candidacy> <http://www.w3.org/2000/01/rdf-schema#label> "his candidacy" .
+_:N809cd1ca5e1b4563b49bc455336d118f <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <participated> .
+_:N63237a230344497d9c227a7e8651fe87 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <On%20December%2022%2C%202010> .
+_:N78ac3dac11d84a62990a9f41a022f999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+_:N6edd89c8a08e4817ae426534c9c04845 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <there> .
+_:Na6b8b04fd14a41afb792e5c64793cdb4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <does> .
+_:N9a47e3861c53461c9d0e901915c882ce <http://QA.jbt.org/extraction_confidence> "0.4632133768636921"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nbf40af95c93547dea10b5d48bc8ac89a <http://QA.jbt.org/extraction_confidence> "0.4559239535691468"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nc5cc5166c7334945b94a6057574802ef <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20Supreme%20Court> .
+<a%20speech%20at%20the%20University%20of%20Nairobi> <http://www.w3.org/2000/01/rdf-schema#label> "a speech at the University of Nairobi" .
+<to%20focus%20on%20your%20jobs%2C%20not%20ours> <http://www.w3.org/2000/01/rdf-schema#label> "to focus on your jobs, not ours" .
+_:N6edd89c8a08e4817ae426534c9c04845 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <worked> .
+<1964> <http://www.w3.org/2000/01/rdf-schema#label> "1964" .
+_:N70713cf2b0054a28948513b909e2dd79 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was%20born> .
+_:N6492f900a7844a6aaf1b3e79fb8785fb <http://QA.jbt.org/extraction_confidence> "0.9703210197816324"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N4294013b215b46e08e64031abde97c12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20gun%20control> .
+<here> <http://www.w3.org/2000/01/rdf-schema#label> "here" .
+_:Ndef1045aa9da4b1bb8282d2f07fc4242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:Na3a42362ebbe474d9d517e7cbd8af579 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <10%20million%20times> .
+<medical%20treatments> <http://www.w3.org/2000/01/rdf-schema#label> "medical treatments" .
+<how> <http://www.w3.org/2000/01/rdf-schema#label> "how" .
+<at%20several%20group%20social%20functions> <http://www.w3.org/2000/01/rdf-schema#label> "at several group social functions" .
+<came> <http://www.w3.org/2000/01/rdf-schema#label> "came" .
+_:Nd95b9949e41d451d9aff80952a228a43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20stimulus%20bill> .
+_:Nc0477c675f744967a988c3912f5496b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <on%20October%203%2C%201992> .
+_:N78bb73b30fe843e4823c3b4a898ef2ba <http://QA.jbt.org/temporal> "in June 2010" .
+_:N6ae194eb8e6a43e2a4c786383c09eff4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+_:N41c73efa081c406e91e82d932726d1c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:Na3a42362ebbe474d9d517e7cbd8af579 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20music%20video%20%22Yes> .
+_:Nb2b3df9dad7b491b9497c458c4fc5dd0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <she> .
+<by%201-2.1%20million> <http://www.w3.org/2000/01/rdf-schema#label> "by 1-2.1 million" .
+<us> <http://www.w3.org/2000/01/rdf-schema#label> "us" .
+<a%20path%20to%20be%20cleansed%20of%20sin%20and%20have%20eternal%20life> <http://www.w3.org/2000/01/rdf-schema#label> "a path to be cleansed of sin and have eternal life" .
+_:Nbf069fcd0abf4e28a7166ecd540ec4a5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <later> .
+_:N0668f7ea888743c39cadfe5fc039e5e7 <http://QA.jbt.org/extraction_confidence> "0.9610033692204464"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N1e70a628d1e6438f8ef253fe7c1aa5dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20Christian> .
+<she%20and%20Bill%20Clinton> <http://www.w3.org/2000/01/rdf-schema#label> "she and Bill Clinton" .
+_:N1dc545bbb5bc46b19fcc95bb9c5b2cdf <http://QA.jbt.org/argument> <as%20director%20of%20the%20Developing%20Communities%20Project> .
+_:Nd87985071c484369a2d97a99a372dd74 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20Christian> .
+<CIA> <http://www.w3.org/2000/01/rdf-schema#label> "CIA" .
+_:Naf99bdca53f240478f5d9c095957ef69 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <office> .
+_:N7147fa85eb0246c18bede26a49908a69 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20total%20of%2063%20seats> .
+_:N0807fbd0da2c482e999543be84425631 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <folks> .
+_:N34cd76b19b58491180a5125926c7ac3d <http://QA.jbt.org/extraction_confidence> "0.9197759696552441"^^<http://www.w3.org/2001/XMLSchema#double> .
+<all%20U.S.%20troops> <http://www.w3.org/2000/01/rdf-schema#label> "all U.S. troops" .
+<as%20president> <http://www.w3.org/2000/01/rdf-schema#label> "as president" .
+<was%20hired> <http://www.w3.org/2000/01/rdf-schema#label> "was hired" .
+_:N7f4976f377d2488693db66f3951496b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <is> .
+_:N894f5fb64963465d8aa50fc59b9ae2f0 <http://QA.jbt.org/extraction_confidence> "0.7639424379089015"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N441349409c94424e8431563eb7e8d330 <http://QA.jbt.org/temporal> "in late January 2015" .
+_:Na91cd294830342278c13f9670f9c502b <http://QA.jbt.org/extraction_confidence> "0.4517038250665665"^^<http://www.w3.org/2001/XMLSchema#double> .
+<nominated> <http://www.w3.org/2000/01/rdf-schema#label> "nominated" .
+_:Ncdbcbf92ac2e4d3fa78ca832bbdccc1d <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <insurance%20companies> .
+<in%20mid-1995> <http://www.w3.org/2000/01/rdf-schema#label> "in mid-1995" .
+_:Nac283ce6dd49424098694072d8cebc60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <President%20Bush> .
+<Obama%27s%20peace%20prize> <http://www.w3.org/2000/01/rdf-schema#label> "Obama's peace prize" .
+_:N05b2a86f24964a1880a7e25e219ab6aa <http://QA.jbt.org/extraction_confidence> "0.4942548069273592"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N0668f7ea888743c39cadfe5fc039e5e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<low-income%20workers> <http://www.w3.org/2000/01/rdf-schema#label> "low-income workers" .
+_:N3772455adee0445499fd3f53b0b165b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Jack%20Ryan> .
+_:N55907670dded4b829ed863e25ea3b0c8 <http://QA.jbt.org/extraction_confidence> "0.8528181305510196"^^<http://www.w3.org/2001/XMLSchema#double> .
+<to%20sexual%20assault> <http://www.w3.org/2000/01/rdf-schema#label> "to sexual assault" .
+_:Nb4dda3491f0f4134b4ee524b1b1e1612 <http://QA.jbt.org/argument> <to%20Iran%27s%20President> .
+_:Nbf069fcd0abf4e28a7166ecd540ec4a5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <began%20dating> .
+_:Ne71cc408672e4891a07e928b67dc1cf9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <health%20care%20benefits> .
+_:N6cfd50b7893f484a818f62dc2827687b <http://QA.jbt.org/temporal> "In June 2014" .
+<Netanyahu> <http://www.w3.org/2000/01/rdf-schema#label> "Netanyahu" .
+_:N5e27c1dd75054b7bada93516422925a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <named> .
+_:N31a0c27336da4f14a0921d5d220cb018 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <met> .
+<two%20relief%20wells> <http://www.w3.org/2000/01/rdf-schema#label> "two relief wells" .
+<there> <http://www.w3.org/2000/01/rdf-schema#label> "there" .
+<to%20non-profit%20organizations%2C%20including%20%24131%2C000%20to%20Fisher%20House%20Foundation> <http://www.w3.org/2000/01/rdf-schema#label> "to non-profit organizations, including $131,000 to Fisher House Foundation" .
+<moved> <http://www.w3.org/2000/01/rdf-schema#label> "moved" .
+_:N62603298fdc447f39490a792e3c3051f <http://QA.jbt.org/extraction_confidence> "0.8615585111461579"^^<http://www.w3.org/2001/XMLSchema#double> .
+<you> <http://www.w3.org/2000/01/rdf-schema#label> "you" .
+<his%20Senate%20seat> <http://www.w3.org/2000/01/rdf-schema#label> "his Senate seat" .
+<constitutional%20law> <http://www.w3.org/2000/01/rdf-schema#label> "constitutional law" .
+_:Nd5f94d1f947445f086874f5c8dc023a4 <http://QA.jbt.org/temporal> "on May 10, 2010" .
+_:Ne18f6974634946a4a36631e5a1fb4500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N08d03d38b3724f358ea00c9c832d3e62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <criticized> .
+_:N7b76864242804d79a413754c48fd2646 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+_:N76a85b789b9a41f5ad58b2cd22dfc3be <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:Nfa5a56a09ac44e008513b017340a393b <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <CIA> .
+_:N33094bdc576c4bc6ae2423cbd1a6574a <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <his%20struggles> .
+_:N9a6bb83178884766a563934f111d843d <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20keynote%20address> .
+_:Nca9908e982f442e69ed25604804cb3e7 <http://QA.jbt.org/temporal> "at Kapi\u02BBolani Maternity & Gynecological Hospital (now Kapi\u02BBolani Medical Center for Women and Children) in Honolulu" .
+_:N52cd270a23dd42259213a9fa3ee58450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20U.S.%20Senate> .
+<opposed> <http://www.w3.org/2000/01/rdf-schema#label> "opposed" .
+<Republican%20primary> <http://www.w3.org/2000/01/rdf-schema#label> "Republican primary" .
+_:N90aac34a1bc34f7ba458813e7ef20ce2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <his%20forces> .
+_:Nc22dfb86ce6c4ee184282e5fd34a78fb <http://QA.jbt.org/temporal> "when issuing financial aid to foreign countries" .
+<to%20one%20another> <http://www.w3.org/2000/01/rdf-schema#label> "to one another" .
+<in%20Hawaii> <http://www.w3.org/2000/01/rdf-schema#label> "in Hawaii" .
+_:N6db90c01601842a7b0871a887593ccb6 <http://QA.jbt.org/extraction_confidence> "0.9030401971054748"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N42aadf3163b449e991b55a6057158834 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Netanyahu> .
+<to%20endorse> <http://www.w3.org/2000/01/rdf-schema#label> "to endorse" .
+<within%20the%20Democratic%20Party> <http://www.w3.org/2000/01/rdf-schema#label> "within the Democratic Party" .
+<folks> <http://www.w3.org/2000/01/rdf-schema#label> "folks" .
+<to%20strike%20down%20the%20Defense%20of%20Marriage%20Act%20of%201996%20and%20California%27s%20Proposition%208%20as%20unconstitutional> <http://www.w3.org/2000/01/rdf-schema#label> "to strike down the Defense of Marriage Act of 1996 and California's Proposition 8 as unconstitutional" .
+_:N717815b4cd68488493315e4984a61e0f <http://QA.jbt.org/extraction_confidence> "0.9569065201547589"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Na99f2ca2918a47d697faf3fb4fb76645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Mitt%20Romney> .
+_:N48b1f3ec1ccb4415b94e29b14e1da3ca <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <strict%20guidelines> .
+<to%20have%20been%20born> <http://www.w3.org/2000/01/rdf-schema#label> "to have been born" .
+_:Neeedfe504cbd4a86b46d360bde84c218 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <health%20insurance> .
+_:N24253f77f5334795a6e0e4e04eac7a4f <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%202005> .
+_:Ncdbcbf92ac2e4d3fa78ca832bbdccc1d <http://QA.jbt.org/extraction_confidence> "0.8872966301155124"^^<http://www.w3.org/2001/XMLSchema#double> .
+<traveled> <http://www.w3.org/2000/01/rdf-schema#label> "traveled" .
+_:N264e08b1b4a84b259da44b55d94fb195 <http://QA.jbt.org/temporal> "on December 10, 2009" .
+_:N78bb73b30fe843e4823c3b4a898ef2ba <http://QA.jbt.org/context> "McChrystal 's staff criticized" .
+_:Nb930eef910cd49ac8d4f427d63f3a0ed <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <national%20attention> .
+<on%20Maui> <http://www.w3.org/2000/01/rdf-schema#label> "on Maui" .
+<The%20violence> <http://www.w3.org/2000/01/rdf-schema#label> "The violence" .
+_:N6d9f41f3ca744eac8d7d470e71f51509 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <raising%20funds> .
+<would%20authorize> <http://www.w3.org/2000/01/rdf-schema#label> "would authorize" .
+_:N18fec26a15234d18aa31aaa5f6492d00 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N7ba015d93b2e4a9f8cd7ea711a9a3c2b <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <engaged%20in%201991> .
+<as%20director%20of%20the%20Developing%20Communities%20Project> <http://www.w3.org/2000/01/rdf-schema#label> "as director of the Developing Communities Project" .
+_:Ncb6f76f68609410f98746735191b5e8d <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <on%20West%20109th%20Street> .
+_:Nf9b789f9a19548388a20aae893505a81 <http://QA.jbt.org/extraction_confidence> "0.1827278705651373"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N1c04f13671dc443b801a13fabb6b2b3c <http://QA.jbt.org/temporal> "On June 7, 2008" .
+_:N441349409c94424e8431563eb7e8d330 <http://QA.jbt.org/extraction_confidence> "0.4978219019954182"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N91595d0a55e646958f5dcda90f24c562 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20mandate> .
+_:N6edd89c8a08e4817ae426534c9c04845 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+_:N3a7c26e0ffe7471da633ec099cea0aad <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <told> .
+_:Nfcba3896cfbc438cae71fa02aa157a3f <http://QA.jbt.org/extraction_confidence> "0.30899953469486874"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N717815b4cd68488493315e4984a61e0f <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama%27s%20parents> .
+_:Nc328ec085f0a42318eec83e55730a599 <http://QA.jbt.org/temporal> "In June 2009" .
+_:N61900cd33d8e498a89899e1a8f3f2b13 <http://QA.jbt.org/temporal> "on January 20" .
+<by%20the%20CIA> <http://www.w3.org/2000/01/rdf-schema#label> "by the CIA" .
+_:N921c21cf3f3647728e683b6a5d067c20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20system> .
+<a%20Christian> <http://www.w3.org/2000/01/rdf-schema#label> "a Christian" .
+_:Nc98e45c4233f4a73b4b7cbf59617262b <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <agencies> .
+_:N2c12c70f0e4e4a33b1665636b7ceabd7 <http://QA.jbt.org/extraction_confidence> "0.9329286852051248"^^<http://www.w3.org/2001/XMLSchema#double> .
+<insurance%20companies> <http://www.w3.org/2000/01/rdf-schema#label> "insurance companies" .
+_:N1c04f13671dc443b801a13fabb6b2b3c <http://QA.jbt.org/extraction_confidence> "0.9304414839833636"^^<http://www.w3.org/2001/XMLSchema#double> .
+<on%20October%203%2C%201992> <http://www.w3.org/2000/01/rdf-schema#label> "on October 3, 1992" .
+_:N34cd76b19b58491180a5125926c7ac3d <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%20the%20disinvestment> .
+<Democrats> <http://www.w3.org/2000/01/rdf-schema#label> "Democrats" .
+<is%20a%20graduate%20of> <http://www.w3.org/2000/01/rdf-schema#label> "is a graduate of" .
+_:Nb46c4b302f5e4819bf1dbb2a50daddf7 <http://QA.jbt.org/temporal> "in the first two years of his Presidency" .
+_:N7b76864242804d79a413754c48fd2646 <http://QA.jbt.org/extraction_confidence> "0.3673761868095092"^^<http://www.w3.org/2001/XMLSchema#double> .
+<carbon%20pollution> <http://www.w3.org/2000/01/rdf-schema#label> "carbon pollution" .
+_:Nc98e45c4233f4a73b4b7cbf59617262b <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N5b4895b085a7401196a6d0288939ea50 <http://QA.jbt.org/extraction_confidence> "0.6796597830231682"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Ne4ddb66364be4f08b230bc8b10f2d042 <http://QA.jbt.org/extraction_confidence> "0.6155020116081594"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nd3decbed793946ab9809a6048a624876 <http://QA.jbt.org/extraction_confidence> "0.5416206585092813"^^<http://www.w3.org/2001/XMLSchema#double> .
+<that%20it%20is%20important%20to%20try%20and%20resolve%20this%20in%20an%20international%20setting%20in%20a%20way> <http://www.w3.org/2000/01/rdf-schema#label> "that it is important to try and resolve this in an international setting in a way" .
+_:N7147fa85eb0246c18bede26a49908a69 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <lost> .
+_:Nc98e45c4233f4a73b4b7cbf59617262b <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <instructed> .
+_:N61900cd33d8e498a89899e1a8f3f2b13 <http://QA.jbt.org/extraction_confidence> "0.4559239535691468"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nbf40af95c93547dea10b5d48bc8ac89a <http://QA.jbt.org/argument> <from%201992%20to%202004> .
+_:Nd87985071c484369a2d97a99a372dd74 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <am> .
+_:Nda15e6dc147245eebe7f494093d8395c <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <were%20married> .
+<to%20focus%20not> <http://www.w3.org/2000/01/rdf-schema#label> "to focus not" .
+_:N82834b4ce21444e9939ac7fa10029ced <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <medical%20treatments> .
+_:N01853caea21b4fb98fced79bc34ec568 <http://QA.jbt.org/argument> <to%20visit%20his%20mother%20and%20half-sister> .
+_:N879d9b64839049928dca1156e3e9da4c <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <his%20son> .
+_:N0768225d307342128d877c25cc25c8ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:N921c21cf3f3647728e683b6a5d067c20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%201976> .
+_:N6492f900a7844a6aaf1b3e79fb8785fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Michelle%20Robinson> .
+_:Ndd39e1d2324246c991503f1431005cc0 <http://QA.jbt.org/extraction_confidence> "0.7497891627557155"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N1f77433391244d768c8bc80b3f66a941 <http://QA.jbt.org/extraction_confidence> "0.4978219019954182"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nb39e1b4ccda34ddd8fd4bd22417588fb <http://QA.jbt.org/extraction_confidence> "0.9324144673478684"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N63ced9b90abb4c6abcf448a1bbf054b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <on%20a%20nuclear%20deal> .
+_:N8821aac0eb854449a16b7b23851d9ecb <http://QA.jbt.org/spatial> <on%20college%20and%20university%20campuses> .
+<to%20pay> <http://www.w3.org/2000/01/rdf-schema#label> "to pay" .
+<two%20women> <http://www.w3.org/2000/01/rdf-schema#label> "two women" .
+<by%200.8%20percent> <http://www.w3.org/2000/01/rdf-schema#label> "by 0.8 percent" .
+_:N08d03d38b3724f358ea00c9c832d3e62 <http://QA.jbt.org/temporal> "in August 2013" .
+<continued> <http://www.w3.org/2000/01/rdf-schema#label> "continued" .
+_:N46f599fd50de444b8d23ca480b190337 <http://QA.jbt.org/context> "the U.S. health care system wanted" .
+_:N7c76d5d9979a4181b0de2812db5e2e71 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was%20reelected> .
+_:Ndffc02c1be794b3eb3b36db71d330c00 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <his%20presidency> .
+<was%20an%20associate%20for> <http://www.w3.org/2000/01/rdf-schema#label> "was an associate for" .
+_:Nfb09ad64394d4a5fae301dc188122385 <http://QA.jbt.org/extraction_confidence> "0.4517038250665665"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nf22a5e53c909406a963dccb1997fef55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <by%20Obama> .
+<money> <http://www.w3.org/2000/01/rdf-schema#label> "money" .
+<lived> <http://www.w3.org/2000/01/rdf-schema#label> "lived" .
+_:N701f7286b103472bb695cf5d5a081b0f <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama%20Sr> .
+_:Ncb6f76f68609410f98746735191b5e8d <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <lived> .
+_:N0574aae93f7742eeb07026866057741e <http://QA.jbt.org/temporal> "On November 4" .
+<health%20insurance> <http://www.w3.org/2000/01/rdf-schema#label> "health insurance" .
+<troops> <http://www.w3.org/2000/01/rdf-schema#label> "troops" .
+<to%20a%20joint%20session%20of%20Congress> <http://www.w3.org/2000/01/rdf-schema#label> "to a joint session of Congress" .
+<me> <http://www.w3.org/2000/01/rdf-schema#label> "me" .
+_:Ndcc9273ba7b741ea9be3c8ff680467a7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Misrata> .
+_:N32a4b1a1e3f246e3a9ded36b439019ae <http://QA.jbt.org/extraction_confidence> "0.7040884581401008"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N0f8f3e4d56664f3d83248ac058130e45 <http://QA.jbt.org/extraction_confidence> "0.9225461445405164"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N5481427f32c84595ad69650c702b59a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <threw%20out%20wearing> .
+_:Na2741acfd7344826869570edf618d08b <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Obama> .
+_:N0768225d307342128d877c25cc25c8ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <corruption> .
+_:N61900cd33d8e498a89899e1a8f3f2b13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was%20inaugurated> .
+<the%20system> <http://www.w3.org/2000/01/rdf-schema#label> "the system" .
+<electoral%20votes> <http://www.w3.org/2000/01/rdf-schema#label> "electoral votes" .
+_:N324540f872984bc5b026b7ad3c7b8ece <http://QA.jbt.org/extraction_confidence> "0.5750411108691293"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N6cfd50b7893f484a818f62dc2827687b <http://QA.jbt.org/argument> <to%20provide%20support%20and%20security%20for%20U.S.%20personnel%20and%20the%20U.S.%20Embassy%20in%20Baghdad> .
+<Growth> <http://www.w3.org/2000/01/rdf-schema#label> "Growth" .
+<so> <http://www.w3.org/2000/01/rdf-schema#label> "so" .
+_:N51b8d4e0660f44afbbab0398acc311c8 <http://QA.jbt.org/argument> <by%20Obama> .
+_:N6492f900a7844a6aaf1b3e79fb8785fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:Nc3280d053b264d4e9dcb4cc10d34f07d <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<Obama%20and%20Medvedev> <http://www.w3.org/2000/01/rdf-schema#label> "Obama and Medvedev" .
+_:N37630794fb404eaab16288c6f4c7dd21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20music%20video%20%22Yes> .
+_:N2fd1d990b30244fe9d378e31fefc071e <http://QA.jbt.org/extraction_confidence> "0.4978219019954182"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N3320f42b9686415483be6ed1d034b459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N662ce117670441038359d71a453d1437 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Growth> .
+_:Nc98e45c4233f4a73b4b7cbf59617262b <http://QA.jbt.org/extraction_confidence> "0.9610033692204464"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nb2b3df9dad7b491b9497c458c4fc5dd0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <did%20n%27t%20raise> .
+_:N6edd89c8a08e4817ae426534c9c04845 <http://QA.jbt.org/extraction_confidence> "0.6138676038426771"^^<http://www.w3.org/2001/XMLSchema#double> .
+<to%20attend%20Occidental%20College> <http://www.w3.org/2000/01/rdf-schema#label> "to attend Occidental College" .
+_:Nbf069fcd0abf4e28a7166ecd540ec4a5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <They> .
+_:N0facc3e7b73c4026a20f3992c184b7c1 <http://QA.jbt.org/extraction_confidence> "0.6115553639762856"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nbf4b8f7ac4db40609f04ad1543f86ea9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20deficit> .
+_:N42aadf3163b449e991b55a6057158834 <http://QA.jbt.org/extraction_confidence> "0.8273172415259126"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N701f7286b103472bb695cf5d5a081b0f <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20Kenya> .
+_:N7841e8070f90431d9f1a5f290264aec7 <http://QA.jbt.org/extraction_confidence> "0.9703210197816324"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nb3be0d35626945bf9f1ae34dcc652322 <http://QA.jbt.org/extraction_confidence> "0.9436221120476838"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N90aac34a1bc34f7ba458813e7ef20ce2 <http://QA.jbt.org/extraction_confidence> "0.6294692549458004"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N63237a230344497d9c227a7e8651fe87 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <signed> .
+_:N9875c0cf5ef7453490b1512347443db6 <http://QA.jbt.org/temporal> "over the next several months" .
+_:N0574aae93f7742eeb07026866057741e <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <won> .
+<in%202010> <http://www.w3.org/2000/01/rdf-schema#label> "in 2010" .
+<the%20torch> <http://www.w3.org/2000/01/rdf-schema#label> "the torch" .
+_:N0f8f3e4d56664f3d83248ac058130e45 <http://QA.jbt.org/context> "he met" .
+<to%20require> <http://www.w3.org/2000/01/rdf-schema#label> "to require" .
+_:N6b09a3c6a76142f9870e067bc6086f5c <http://QA.jbt.org/context> "chairman Ben Bernanke said" .
+_:N44326d52500843099612b67bb6c86567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <announced> .
+_:N3454e38f59644ac2812fe7aafbe19134 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:N447c13fe30d548df854e8f08cfe42131 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <%27s%20not> .
+_:N1322d59e20a541e39fd36804dc48aae7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%2044th%20President> .
+<his%20son> <http://www.w3.org/2000/01/rdf-schema#label> "his son" .
+<a%20resolution> <http://www.w3.org/2000/01/rdf-schema#label> "a resolution" .
+<exceeding%20the%20270> <http://www.w3.org/2000/01/rdf-schema#label> "exceeding the 270" .
+_:N7c2ed389ad5e4d33aea4798c17ce5600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Rev.%20Jeremiah%20Wright> .
+_:N0574aae93f7742eeb07026866057741e <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20presidency> .
+<she> <http://www.w3.org/2000/01/rdf-schema#label> "she" .
+<would%20become> <http://www.w3.org/2000/01/rdf-schema#label> "would become" .
+<regained> <http://www.w3.org/2000/01/rdf-schema#label> "regained" .
+_:N662ce117670441038359d71a453d1437 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <continued> .
+_:N15a34af08322403580ab7f71169fb193 <http://QA.jbt.org/extraction_confidence> "0.896604430840561"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N0facc3e7b73c4026a20f3992c184b7c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <she%20and%20Bill%20Clinton> .
+_:N915e4b9d4697400d9627e2ae2049eeba <http://QA.jbt.org/argument> <to%20strike%20down%20the%20Defense%20of%20Marriage%20Act%20of%201996%20and%20California%27s%20Proposition%208%20as%20unconstitutional> .
+<to%20consider%20LGBT%20rights> <http://www.w3.org/2000/01/rdf-schema#label> "to consider LGBT rights" .
+_:Ncae94cf6c35f472ea98544a99732b94c <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20White%20House> .
+<pledged%20to%20develop> <http://www.w3.org/2000/01/rdf-schema#label> "pledged to develop" .
+_:N24253f77f5334795a6e0e4e04eac7a4f <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20family> .
+_:N4c53a60ce8364f9ba90dd949eff44c78 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <became> .
+_:Ne8ef5a2cb8194fd9be15534f87147fa4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <spoke%20out> .
+_:Nf4b1b52a0c154274b70f8702685b811e <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <out> .
+_:Nd3decbed793946ab9809a6048a624876 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Our%20journey> .
+<engaged%20in%201991> <http://www.w3.org/2000/01/rdf-schema#label> "engaged in 1991" .
+<as%20its%20Person%20of%20the%20Year> <http://www.w3.org/2000/01/rdf-schema#label> "as its Person of the Year" .
+_:N6db90c01601842a7b0871a887593ccb6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <sweeping%20proposals> .
+_:Nda15e6dc147245eebe7f494093d8395c <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20couple> .
+<His%20mother> <http://www.w3.org/2000/01/rdf-schema#label> "His mother" .
+_:Nf46a52df7dd84cc58eb5a08277316219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <throughout%202008> .
+_:N43851fb5e4474553b73999826ed5914f <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <a%20health%20care%20bill> .
+<condemn> <http://www.w3.org/2000/01/rdf-schema#label> "condemn" .
+_:N4ff3a0bd6dde43d2b85b47aa2de855e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <threw> .
+<a%20bill> <http://www.w3.org/2000/01/rdf-schema#label> "a bill" .
+<would%20leave> <http://www.w3.org/2000/01/rdf-schema#label> "would leave" .
+_:Nbf40af95c93547dea10b5d48bc8ac89a <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <constitutional%20law> .
+<They> <http://www.w3.org/2000/01/rdf-schema#label> "They" .
+<at%20the%20University%20of%20Chicago%20Law%20School> <http://www.w3.org/2000/01/rdf-schema#label> "at the University of Chicago Law School" .
+_:N76a85b789b9a41f5ad58b2cd22dfc3be <http://QA.jbt.org/argument> <to%20Columbia%20College%2C%20Columbia%20University%20in%20New%20York%20City> .
+_:N142656aa6b7247e9ab2e75619ea3ef46 <http://QA.jbt.org/extraction_confidence> "0.4165289098892234"^^<http://www.w3.org/2001/XMLSchema#double> .
+<to%20consider> <http://www.w3.org/2000/01/rdf-schema#label> "to consider" .
+_:N1f253380291448e6adbaefd8f810f02f <http://QA.jbt.org/extraction_confidence> "0.8869700555338466"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Ned282a19ec584647be951ddd6d2f6828 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <part> .
+_:N1f77433391244d768c8bc80b3f66a941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <signed> .
+_:N32a4b1a1e3f246e3a9ded36b439019ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <born> .
+<McChrystal> <http://www.w3.org/2000/01/rdf-schema#label> "McChrystal" .
+_:Nfb09ad64394d4a5fae301dc188122385 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <increased> .
+_:N42aadf3163b449e991b55a6057158834 <http://QA.jbt.org/argument> <down%20a%20path%20toward%20near-total%20isolation> .
+_:Ncfabb810fcbd4f7ea1c01446cc2dbef0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N1f253380291448e6adbaefd8f810f02f <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <se%C9%AAn%20%C9%B5%27b%C9%91%CB%90m%C9%99> .
+_:Nb4dda3491f0f4134b4ee524b1b1e1612 <http://QA.jbt.org/temporal> "On September 27" .
+<%28%20Maya%20Soetoro-Ng> <http://www.w3.org/2000/01/rdf-schema#label> "( Maya Soetoro-Ng" .
+<referred> <http://www.w3.org/2000/01/rdf-schema#label> "referred" .
+<gave> <http://www.w3.org/2000/01/rdf-schema#label> "gave" .
+<accepted> <http://www.w3.org/2000/01/rdf-schema#label> "accepted" .
+_:N4c9ab1b3f4b344d6a999f9186d54afba <http://QA.jbt.org/extraction_confidence> "0.9644677377549716"^^<http://www.w3.org/2001/XMLSchema#double> .
+<to%20Washington> <http://www.w3.org/2000/01/rdf-schema#label> "to Washington" .
+_:N41c73efa081c406e91e82d932726d1c9 <http://QA.jbt.org/extraction_confidence> "0.6065197283431338"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N55907670dded4b829ed863e25ea3b0c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <developed> .
+_:Nd5f94d1f947445f086874f5c8dc023a4 <http://QA.jbt.org/extraction_confidence> "0.9277724913494432"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N91595d0a55e646958f5dcda90f24c562 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was> .
+<This> <http://www.w3.org/2000/01/rdf-schema#label> "This" .
+_:Nbb01169f0e71466fa4c408e68acf3f73 <http://QA.jbt.org/extraction_confidence> "0.9445450172241072"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Na0b9615be5ef40cda75372e026c1b2ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <still> .
+<on%20Molokai> <http://www.w3.org/2000/01/rdf-schema#label> "on Molokai" .
+<plays> <http://www.w3.org/2000/01/rdf-schema#label> "plays" .
+_:N08d03d38b3724f358ea00c9c832d3e62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+<promoting> <http://www.w3.org/2000/01/rdf-schema#label> "promoting" .
+<It> <http://www.w3.org/2000/01/rdf-schema#label> "It" .
+_:Nc0f55b76fc26486ba0df4c5f5a2a83a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+_:N5cd58af9de3a457abb05508aa98be4e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20government> .
+_:N8a5e8c21bfa0412893e1da4f7f225730 <http://QA.jbt.org/extraction_confidence> "0.3579879821925261"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N5f2e37f8bcdb476c86b1d70a9705f185 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20speech> .
+_:N7ba015d93b2e4a9f8cd7ea711a9a3c2b <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <They> .
+_:N55907670dded4b829ed863e25ea3b0c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <a%20Christian> .
+<for%20insurance> <http://www.w3.org/2000/01/rdf-schema#label> "for insurance" .
+<in%20Oslo> <http://www.w3.org/2000/01/rdf-schema#label> "in Oslo" .
+_:Ncfabb810fcbd4f7ea1c01446cc2dbef0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20Gulf> .
+<to%20approve> <http://www.w3.org/2000/01/rdf-schema#label> "to approve" .
+_:N64e372094f0e4620b987bc14aa2f7c83 <http://QA.jbt.org/extraction_confidence> "0.943298909360718"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nda15e6dc147245eebe7f494093d8395c <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <on%20Molokai> .
+_:N6edd89c8a08e4817ae426534c9c04845 <http://QA.jbt.org/argument> <as%20a%20community%20organizer%20from%20June%201985%20to%20May%201988> .
+<to%20become> <http://www.w3.org/2000/01/rdf-schema#label> "to become" .
+<with%20the%20Federal%20Election%20Commission> <http://www.w3.org/2000/01/rdf-schema#label> "with the Federal Election Commission" .
+_:N5b97ad8ae63545149ab095d0c574af49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <would%20treat> .
+_:N0668f7ea888743c39cadfe5fc039e5e7 <http://QA.jbt.org/temporal> "After high school" .
+_:N48b1f3ec1ccb4415b94e29b14e1da3ca <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N6369760cdb09428586a49b9f8c33d461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Biden> .
+<his%20presidency> <http://www.w3.org/2000/01/rdf-schema#label> "his presidency" .
+_:N662ce117670441038359d71a453d1437 <http://QA.jbt.org/extraction_confidence> "0.6155809562993161"^^<http://www.w3.org/2001/XMLSchema#double> .
+<negotiated> <http://www.w3.org/2000/01/rdf-schema#label> "negotiated" .
+<would%20resign> <http://www.w3.org/2000/01/rdf-schema#label> "would resign" .
+<at%20the%20University%20of%20Hawai%CA%BBi%20at%20M%C4%81noa> <http://www.w3.org/2000/01/rdf-schema#label> "at the University of Hawai\u02BBi at M\u0101noa" .
+_:N7dc905fd5d704ffdb6c2f913e0e45fc2 <http://QA.jbt.org/extraction_confidence> "0.6662976359167601"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N921c21cf3f3647728e683b6a5d067c20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was%20created> .
+_:N4090487bd30a4575bb0290dbaceb7141 <http://QA.jbt.org/argument> <as%20not%20particularly%20useful> .
+_:N0facc3e7b73c4026a20f3992c184b7c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <gave> .
+_:N37630794fb404eaab16288c6f4c7dd21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <received> .
+<increased> <http://www.w3.org/2000/01/rdf-schema#label> "increased" .
+_:N9a6bb83178884766a563934f111d843d <http://QA.jbt.org/spatial> <at%20the%202004%20Democratic%20National%20Convention> .
+_:Nb3f615d6cfe3468ebdb378800a2b8d22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <elected> .
+<then> <http://www.w3.org/2000/01/rdf-schema#label> "then" .
+_:Naf99bdca53f240478f5d9c095957ef69 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <took> .
+_:Ne8c97e8f5a1a413dbdaba5b957da404b <http://QA.jbt.org/argument> <as%20%22a%20historic%20understanding%20with%20Iran> .
+_:N41c73efa081c406e91e82d932726d1c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <gave> .
+_:N34cd76b19b58491180a5125926c7ac3d <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Occidental> .
+_:N3db5609ed3234e9aa415fcfb3f6a12f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <The%20violence> .
+<still> <http://www.w3.org/2000/01/rdf-schema#label> "still" .
+_:N636330b2117945ad94640f5a20343b38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <named> .
+<late%20August%201961> <http://www.w3.org/2000/01/rdf-schema#label> "late August 1961" .
+_:N3bd04b9c9ab5465483a917424c4168f2 <http://QA.jbt.org/extraction_confidence> "0.9324144673478684"^^<http://www.w3.org/2001/XMLSchema#double> .
+<change> <http://www.w3.org/2000/01/rdf-schema#label> "change" .
+<briefs> <http://www.w3.org/2000/01/rdf-schema#label> "briefs" .
+<as%20a%20junior> <http://www.w3.org/2000/01/rdf-schema#label> "as a junior" .
+<most%20people> <http://www.w3.org/2000/01/rdf-schema#label> "most people" .
+<as%20a%20%22confirmed%20atheist> <http://www.w3.org/2000/01/rdf-schema#label> "as a \"confirmed atheist" .
+_:N82834b4ce21444e9939ac7fa10029ced <http://QA.jbt.org/extraction_confidence> "0.9030401971054748"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N16e64b9a2dfb48089d392b6e8bd9ed5a <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <rose> .
+_:N142656aa6b7247e9ab2e75619ea3ef46 <http://QA.jbt.org/argument> <the%20first%20pitch> .
+<Occidental%20College> <http://www.w3.org/2000/01/rdf-schema#label> "Occidental College" .
+_:N9a6bb83178884766a563934f111d843d <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:Na91cd294830342278c13f9670f9c502b <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <same-sex%20marriages> .
+_:N42aadf3163b449e991b55a6057158834 <http://QA.jbt.org/context> "Jeffrey Goldberg reported" .
+_:Na0b9615be5ef40cda75372e026c1b2ad <http://QA.jbt.org/argument> <a%20senator> .
+_:N43a45e26613c404ab31643b392ddf05d <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <see> .
+_:N3320f42b9686415483be6ed1d034b459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <told> .
+_:Nce9df8b1fa2e49b18914a06398f9ede3 <http://QA.jbt.org/temporal> "On November 6" .
+<from%20Trinity> <http://www.w3.org/2000/01/rdf-schema#label> "from Trinity" .
+_:N7f2da7e96d2246859629ae4ccc1b7d4e <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <all%20U.S.%20troops> .
+_:N6369760cdb09428586a49b9f8c33d461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <selected> .
+<in%20response%20to%20the%20Sandy%20Hook%20Elementary%20School%20shooting> <http://www.w3.org/2000/01/rdf-schema#label> "in response to the Sandy Hook Elementary School shooting" .
+_:N0807fbd0da2c482e999543be84425631 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20church> .
+_:N717815b4cd68488493315e4984a61e0f <http://QA.jbt.org/spatial> <at%20the%20University%20of%20Hawai%CA%BBi%20at%20M%C4%81noa> .
+_:Nfb573d77172a4de492bd7804a4c1b0b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <The%20couple> .
+_:N27984a9e7f084d4591b18a736d9be666 <http://QA.jbt.org/extraction_confidence> "0.9485479188231728"^^<http://www.w3.org/2001/XMLSchema#double> .
+<is%20not> <http://www.w3.org/2000/01/rdf-schema#label> "is not" .
+_:Nd6db0a8d4b874f0fb4d71d6fce4a732b <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <posted> .
+<part> <http://www.w3.org/2000/01/rdf-schema#label> "part" .
+_:N0f8f3e4d56664f3d83248ac058130e45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N48b1f3ec1ccb4415b94e29b14e1da3ca <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <pledged%20to%20develop> .
+_:N40e18c369d224ee8bfeff1836973fb92 <http://QA.jbt.org/extraction_confidence> "0.8872966301155124"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N44326d52500843099612b67bb6c86567 <http://QA.jbt.org/argument> <that%20his%20primary%20place%20of%20worship%20would%20be%20the%20Evergreen%20Chapel%20at%20Camp%20David> .
+_:N9a47e3861c53461c9d0e901915c882ce <http://QA.jbt.org/temporal> "during his first presidential campaign after some of Wright's statements" .
+<funds> <http://www.w3.org/2000/01/rdf-schema#label> "funds" .
+_:N3a7c26e0ffe7471da633ec099cea0aad <http://QA.jbt.org/argument> <that%20%22it%27s%20not%20too%20late%22%20to%20stop%20the%20war> .
+<in%20air%20strikes> <http://www.w3.org/2000/01/rdf-schema#label> "in air strikes" .
+_:N9a6bb83178884766a563934f111d843d <http://QA.jbt.org/temporal> "In July 2004" .
+_:Nb6f4e3be24fd4ab8b0ee11b94244b7d7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <%5Bis%5D%20the%20daughter%20of> .
+_:Ndd39e1d2324246c991503f1431005cc0 <http://QA.jbt.org/argument> <coverage%20for%20pre-existing%20conditions> .
+_:N54ac28f656a84130960986e964dfc867 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <His%20law%20license> .
+_:Nbf4b8f7ac4db40609f04ad1543f86ea9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20%241.34%20trillion> .
+_:N4294013b215b46e08e64031abde97c12 <http://QA.jbt.org/argument> <in%20response%20to%20the%20Sandy%20Hook%20Elementary%20School%20shooting> .
+<jobs> <http://www.w3.org/2000/01/rdf-schema#label> "jobs" .
+_:N36ea2a64bc314909ad953aa2332a8edd <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <had%20not%20visited> .
+_:N18fec26a15234d18aa31aaa5f6492d00 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <delivered> .
+_:N3edab13a3c584862b8c2d64cb9e04a86 <http://QA.jbt.org/temporal> "In April" .
+_:Ne18f6974634946a4a36631e5a1fb4500 <http://QA.jbt.org/temporal> "On March 19" .
+<filed> <http://www.w3.org/2000/01/rdf-schema#label> "filed" .
+<DNA%20testing> <http://www.w3.org/2000/01/rdf-schema#label> "DNA testing" .
+_:Ncc563d24122346f2850832a9b96d7e15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <an%20area> .
+_:N0b3455f57d054720914dadecaaf0256c <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:Nd95b9949e41d451d9aff80952a228a43 <http://QA.jbt.org/extraction_confidence> "0.7070445350994459"^^<http://www.w3.org/2001/XMLSchema#double> .
+<as%20a%20%22loyal%20Democrat> <http://www.w3.org/2000/01/rdf-schema#label> "as a \"loyal Democrat" .
+<in%20March%201964> <http://www.w3.org/2000/01/rdf-schema#label> "in March 1964" .
+_:Nb930eef910cd49ac8d4f427d63f3a0ed <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <received> .
+_:N1e4927554c7b498a969c2a13d9cdab3d <http://QA.jbt.org/argument> <to%20notify%20state%20and%20local%20authorities%20of%20radioactive%20leaks> .
+<on%20his%20cabinet> <http://www.w3.org/2000/01/rdf-schema#label> "on his cabinet" .
+_:N6ae194eb8e6a43e2a4c786383c09eff4 <http://QA.jbt.org/extraction_confidence> "0.4517038250665665"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N7890f590305b470583146489ce0e1214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N18fec26a15234d18aa31aaa5f6492d00 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20speech> .
+_:Nf4b1b52a0c154274b70f8702685b811e <http://QA.jbt.org/argument> <to%20Arab%20leaders> .
+_:N6cfd50b7893f484a818f62dc2827687b <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <sent> .
+_:N2569cdcb902948429a5f6424efcb1000 <http://QA.jbt.org/extraction_confidence> "0.8103687806061152"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nc3670a64024d49a49116445e4c71057e <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <a%20bill> .
+_:Nc98e45c4233f4a73b4b7cbf59617262b <http://QA.jbt.org/temporal> "In December 2011" .
+_:Naf1d57a5462445a58bbe76afc7aff483 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <identified> .
+<due%20to%20the%20Space%20Shuttle%20Challenger%20disaster> <http://www.w3.org/2000/01/rdf-schema#label> "due to the Space Shuttle Challenger disaster" .
+_:Nc22dfb86ce6c4ee184282e5fd34a78fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <LGBT%20rights> .
+_:N51b8d4e0660f44afbbab0398acc311c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <into%20law> .
+_:Nb68c154052b54550a5a46e5774922dc2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Middle%20East%20peace> .
+_:Nc328ec085f0a42318eec83e55730a599 <http://QA.jbt.org/argument> <to%20accelerate%20the%20investment> .
+<the%20Democratic%20Party> <http://www.w3.org/2000/01/rdf-schema#label> "the Democratic Party" .
+_:N48b1f3ec1ccb4415b94e29b14e1da3ca <http://QA.jbt.org/argument> <on%20the%20research> .
+_:Nf46a52df7dd84cc58eb5a08277316219 <http://QA.jbt.org/extraction_confidence> "0.27813615858960106"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N9a6bb83178884766a563934f111d843d <http://QA.jbt.org/extraction_confidence> "0.9610033692204464"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N43851fb5e4474553b73999826ed5914f <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <featuring> .
+_:N3454e38f59644ac2812fe7aafbe19134 <http://QA.jbt.org/temporal> "in 1971" .
+_:Na49f85758dc747d9ad3c28f509fa30f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20buy> .
+_:Nd87985071c484369a2d97a99a372dd74 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <I> .
+_:N5f2e37f8bcdb476c86b1d70a9705f185 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <delivered> .
+_:N7c76d5d9979a4181b0de2812db5e2e71 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+<would%20have%20required> <http://www.w3.org/2000/01/rdf-schema#label> "would have required" .
+_:N2fd1d990b30244fe9d378e31fefc071e <http://QA.jbt.org/temporal> "in 1992" .
+<spoke> <http://www.w3.org/2000/01/rdf-schema#label> "spoke" .
+<the%20Senate> <http://www.w3.org/2000/01/rdf-schema#label> "the Senate" .
+_:N6fdb080047b8497fa0fe1f56369489ce <http://QA.jbt.org/temporal> "After graduating with a J.D. magna cum laude from Harvard in 1991" .
+_:Nc5cc5166c7334945b94a6057574802ef <http://QA.jbt.org/argument> <to%20rule%20in%20favor%20of%20same-sex%20couples%20in%20the%20cases%20of%20Hollingsworth%20v.%20Perry%20%28regarding%20same-sex%20marriage%29%20and%20United%20States%20v.%20Windsor> .
+_:Nf847381b87bb43f49234310e6cd2386f <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <received> .
+_:Naaf3d17abb3b46eab420b8859f354b5a <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <they> .
+_:N7b76864242804d79a413754c48fd2646 <http://QA.jbt.org/argument> <to%20reintroduce%20an%20expired%20ban%20on%20military-style%20assault%20weapons%2C%20such%20as%20those%20used%20in%20several%20recent%20mass%20shootings%2C%20impose%20limits%20on%20ammunition%20magazines%20to%2010%20rounds%2C%20introduce%20background%20checks%20on%20all%20gun%20sales%2C%20pass%20a%20ban%20on%20possession%20and%20sale%20of%20armor-piercing%20bullets%2C%20introduce%20harsher%20penalties%20for%20gun-traffickers> .
+<a%20Nobel%20laureate> <http://www.w3.org/2000/01/rdf-schema#label> "a Nobel laureate" .
+_:N512aa38b488741e1958520d3757050aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <announced> .
+_:Nefeca483813a4d87bc6d729022a26b28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <I> .
+_:N36ea2a64bc314909ad953aa2332a8edd <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20White%20House> .
+_:Nb930eef910cd49ac8d4f427d63f3a0ed <http://QA.jbt.org/extraction_confidence> "0.9174666959940792"^^<http://www.w3.org/2001/XMLSchema#double> .
+<set> <http://www.w3.org/2000/01/rdf-schema#label> "set" .
+<smoking> <http://www.w3.org/2000/01/rdf-schema#label> "smoking" .
+_:Nf0d9a4eb67524687975466f48ed68b4c <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+<faith> <http://www.w3.org/2000/01/rdf-schema#label> "faith" .
+_:Nc328ec085f0a42318eec83e55730a599 <http://QA.jbt.org/extraction_confidence> "0.9304414839833636"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N9875c0cf5ef7453490b1512347443db6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <intelligence> .
+<attended> <http://www.w3.org/2000/01/rdf-schema#label> "attended" .
+_:Nb930eef910cd49ac8d4f427d63f3a0ed <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<like%20Bernie%20Mac> <http://www.w3.org/2000/01/rdf-schema#label> "like Bernie Mac" .
+_:N0375c8df8624487aba91fcda7ac5ab05 <http://QA.jbt.org/temporal> "for high school at Punahou" .
+<discriminating> <http://www.w3.org/2000/01/rdf-schema#label> "discriminating" .
+<them> <http://www.w3.org/2000/01/rdf-schema#label> "them" .
+<in%20his%20adult%20life> <http://www.w3.org/2000/01/rdf-schema#label> "in his adult life" .
+<announced> <http://www.w3.org/2000/01/rdf-schema#label> "announced" .
+_:N0b3455f57d054720914dadecaaf0256c <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <acknowledged> .
+_:N69ed7b1c50f8474ebd8a36c44c7ce2ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <The%20operation> .
+_:N0668f7ea888743c39cadfe5fc039e5e7 <http://QA.jbt.org/argument> <to%20attend%20Occidental%20College> .
+<the%20New%20START%20treaty> <http://www.w3.org/2000/01/rdf-schema#label> "the New START treaty" .
+<into%20law> <http://www.w3.org/2000/01/rdf-schema#label> "into law" .
+_:Nff4186d8c35d4930bc580addcf2dd779 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <This> .
+_:N54ac28f656a84130960986e964dfc867 <http://QA.jbt.org/extraction_confidence> "0.4064025621525888"^^<http://www.w3.org/2001/XMLSchema#double> .
+<against%20them> <http://www.w3.org/2000/01/rdf-schema#label> "against them" .
+<his%20country> <http://www.w3.org/2000/01/rdf-schema#label> "his country" .
+_:N26a352016fa641d48d28af36ff999d9b <http://QA.jbt.org/extraction_confidence> "0.9210233335200771"^^<http://www.w3.org/2001/XMLSchema#double> .
+<in%201960> <http://www.w3.org/2000/01/rdf-schema#label> "in 1960" .
+_:Na2741acfd7344826869570edf618d08b <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <late%20August%201961> .
+<by%20Obama> <http://www.w3.org/2000/01/rdf-schema#label> "by Obama" .
+_:N41c73efa081c406e91e82d932726d1c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <percent> .
+<to%20Iran%27s%20President> <http://www.w3.org/2000/01/rdf-schema#label> "to Iran's President" .
+_:Nc3280d053b264d4e9dcb4cc10d34f07d <http://QA.jbt.org/temporal> "several times" .
+<at%20the%202005%20ALCS> <http://www.w3.org/2000/01/rdf-schema#label> "at the 2005 ALCS" .
+_:N1e70a628d1e6438f8ef253fe7c1aa5dc <http://QA.jbt.org/extraction_confidence> "0.9481947648689548"^^<http://www.w3.org/2001/XMLSchema#double> .
+<%5Bis%5D%20nominee%20%5Bof%5D> <http://www.w3.org/2000/01/rdf-schema#label> "[is] nominee [of]" .
+<characterized> <http://www.w3.org/2000/01/rdf-schema#label> "characterized" .
+_:N8418719c122f47e1827bbe33f83f2b49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Clinton> .
+<did> <http://www.w3.org/2000/01/rdf-schema#label> "did" .
+_:N8a5e8c21bfa0412893e1da4f7f225730 <http://QA.jbt.org/context> "he began" .
+_:Nac283ce6dd49424098694072d8cebc60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <into%20law> .
+_:Ncb36ee92ea8b4e1e8dc22395775ee168 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <health%20insurance> .
+_:Nf22a5e53c909406a963dccb1997fef55 <http://QA.jbt.org/extraction_confidence> "0.9277724913494432"^^<http://www.w3.org/2001/XMLSchema#double> .
+<those> <http://www.w3.org/2000/01/rdf-schema#label> "those" .
+_:Ncc563d24122346f2850832a9b96d7e15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <he> .
+_:N8a5e8c21bfa0412893e1da4f7f225730 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:Ncae94cf6c35f472ea98544a99732b94c <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <set> .
+_:Nbf4b8f7ac4db40609f04ad1543f86ea9 <http://QA.jbt.org/extraction_confidence> "0.716524217511846"^^<http://www.w3.org/2001/XMLSchema#double> .
+<this> <http://www.w3.org/2000/01/rdf-schema#label> "this" .
+_:N78ac3dac11d84a62990a9f41a022f999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20Kenya> .
+_:N08d03d38b3724f358ea00c9c832d3e62 <http://QA.jbt.org/extraction_confidence> "0.4328394458044063"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N2ca8efd104c94bbfb560e303ad8c7229 <http://QA.jbt.org/extraction_confidence> "0.8821938819052391"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N5cd58af9de3a457abb05508aa98be4e3 <http://QA.jbt.org/argument> <to%20buy%20health%20insurance> .
+<%5Bis%5D%20the%20daughter%20of> <http://www.w3.org/2000/01/rdf-schema#label> "[is] the daughter of" .
+_:N9875c0cf5ef7453490b1512347443db6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <by%20the%20CIA> .
+_:N701f7286b103472bb695cf5d5a081b0f <http://QA.jbt.org/context> "he visited" .
+_:N809cd1ca5e1b4563b49bc455336d118f <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+<saw> <http://www.w3.org/2000/01/rdf-schema#label> "saw" .
+_:N4fefad15e1d8446b8b534b2bc1e8908d <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20bill> .
+_:Ne71cc408672e4891a07e928b67dc1cf9 <http://QA.jbt.org/extraction_confidence> "0.8942434158739456"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N43a45e26613c404ab31643b392ddf05d <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <it> .
+<explained> <http://www.w3.org/2000/01/rdf-schema#label> "explained" .
+_:N264e08b1b4a84b259da44b55d94fb195 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <this%20award> .
+_:N3bd04b9c9ab5465483a917424c4168f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N142656aa6b7247e9ab2e75619ea3ef46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:Nca9908e982f442e69ed25604804cb3e7 <http://QA.jbt.org/extraction_confidence> "0.9709360921688014"^^<http://www.w3.org/2001/XMLSchema#double> .
+<from%201992%20to%202004> <http://www.w3.org/2000/01/rdf-schema#label> "from 1992 to 2004" .
+_:Nf2eced009f8748ee883a42f48c613676 <http://QA.jbt.org/temporal> "In August 2013" .
+_:Nf9b789f9a19548388a20aae893505a81 <http://QA.jbt.org/context> "Obama acknowledged saying" .
+_:N5481427f32c84595ad69650c702b59a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20White%20Sox%20jacket> .
+_:N3320f42b9686415483be6ed1d034b459 <http://QA.jbt.org/temporal> "Today" .
+<to%20do> <http://www.w3.org/2000/01/rdf-schema#label> "to do" .
+<by%20The%20New%20York%20Times> <http://www.w3.org/2000/01/rdf-schema#label> "by The New York Times" .
+<a%20campaign%20committee> <http://www.w3.org/2000/01/rdf-schema#label> "a campaign committee" .
+<in%20the%20full%20Senate> <http://www.w3.org/2000/01/rdf-schema#label> "in the full Senate" .
+_:Nb3f615d6cfe3468ebdb378800a2b8d22 <http://QA.jbt.org/extraction_confidence> "0.4649296389869295"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Na99f2ca2918a47d697faf3fb4fb76645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <%5Bis%5D%20nominee%20%5Bof%5D> .
+_:Nfa9237ba7e094c61821aaf8aaf4427b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <remarried> .
+_:Ncae94cf6c35f472ea98544a99732b94c <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <terms> .
+_:N62603298fdc447f39490a792e3c3051f <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <joined> .
+_:N32a4b1a1e3f246e3a9ded36b439019ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <His%20mother> .
+_:N5f23679a6b3f4f6aa4c87768fcee56ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20the%20Israelis> .
+_:N3db5609ed3234e9aa415fcfb3f6a12f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <against%20them> .
+_:N3a7c26e0ffe7471da633ec099cea0aad <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20crowd> .
+_:N717815b4cd68488493315e4984a61e0f <http://QA.jbt.org/spatial> <in%20a%20Russian%20language%20class> .
+<to%20live%20with%20his%20maternal%20grandparents> <http://www.w3.org/2000/01/rdf-schema#label> "to live with his maternal grandparents" .
+_:N43a45e26613c404ab31643b392ddf05d <http://QA.jbt.org/extraction_confidence> "0.30899953469486874"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nfb573d77172a4de492bd7804a4c1b0b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <married> .
+_:N76a85b789b9a41f5ad58b2cd22dfc3be <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <transferred> .
+<insurers> <http://www.w3.org/2000/01/rdf-schema#label> "insurers" .
+_:Nfcba3896cfbc438cae71fa02aa157a3f <http://QA.jbt.org/argument> <as%20a%20%22confirmed%20atheist> .
+_:N2ca8efd104c94bbfb560e303ad8c7229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:Naf1d57a5462445a58bbe76afc7aff483 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <bin%20Laden%27s%20body> .
+_:N3db5609ed3234e9aa415fcfb3f6a12f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <perpetrated> .
+<a%20majority> <http://www.w3.org/2000/01/rdf-schema#label> "a majority" .
+_:N336f5ec9c4414bb5b8964a1d9a9874cb <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <would%20resign> .
+<His%20speech> <http://www.w3.org/2000/01/rdf-schema#label> "His speech" .
+_:N27984a9e7f084d4591b18a736d9be666 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama%27s%20peace%20prize> .
+_:Nb6f4e3be24fd4ab8b0ee11b94244b7d7 <http://QA.jbt.org/extraction_confidence> "0.3853208301752743"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N0f8f3e4d56664f3d83248ac058130e45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <has> .
+_:Nca5a53f4c5794426a20232cbb0469dd6 <http://QA.jbt.org/extraction_confidence> "0.956756206633504"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N6369760cdb09428586a49b9f8c33d461 <http://QA.jbt.org/argument> <from%20a%20field> .
+_:Nc22dfb86ce6c4ee184282e5fd34a78fb <http://QA.jbt.org/extraction_confidence> "0.8867887520784036"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N70713cf2b0054a28948513b909e2dd79 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<a%20member%20of%20Trinity> <http://www.w3.org/2000/01/rdf-schema#label> "a member of Trinity" .
+<the%20U.S.%20military> <http://www.w3.org/2000/01/rdf-schema#label> "the U.S. military" .
+<spoke%20out> <http://www.w3.org/2000/01/rdf-schema#label> "spoke out" .
+_:N7605a806eb2c4144944027433b45bec6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <passed> .
+<to%20deny> <http://www.w3.org/2000/01/rdf-schema#label> "to deny" .
+<executive%20orders> <http://www.w3.org/2000/01/rdf-schema#label> "executive orders" .
+_:N749ebbdf6bdb4c9f8ebd2397a4595f80 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <like%20Bernie%20Mac> .
+<they> <http://www.w3.org/2000/01/rdf-schema#label> "they" .
+_:N76a85b789b9a41f5ad58b2cd22dfc3be <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <as%20a%20junior> .
+<national%20attention> <http://www.w3.org/2000/01/rdf-schema#label> "national attention" .
+<began> <http://www.w3.org/2000/01/rdf-schema#label> "began" .
+_:Nc76e718e33864afc9bf6b6828e14b9c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20Washington> .
+<convention%20speeches> <http://www.w3.org/2000/01/rdf-schema#label> "convention speeches" .
+_:N7dc905fd5d704ffdb6c2f913e0e45fc2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%20my%20mind> .
+_:N78bb73b30fe843e4823c3b4a898ef2ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <David%20Petraeus> .
+_:N2fd1d990b30244fe9d378e31fefc071e <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <returned> .
+_:N02ef8b55bbb14647aec9a6547e6b23f5 <http://QA.jbt.org/temporal> "several hours later" .
+_:Ne9a621d5bb6e4d548c92317173c58e0a <http://QA.jbt.org/temporal> "before hundreds of thousands of supporters in Chicago's Grant Park" .
+<I> <http://www.w3.org/2000/01/rdf-schema#label> "I" .
+_:N43851fb5e4474553b73999826ed5914f <http://QA.jbt.org/extraction_confidence> "0.9186941924198344"^^<http://www.w3.org/2001/XMLSchema#double> .
+<on%20the%20phone> <http://www.w3.org/2000/01/rdf-schema#label> "on the phone" .
+_:N36ea2a64bc314909ad953aa2332a8edd <http://QA.jbt.org/temporal> "after their Super Bowl win" .
+<remarried> <http://www.w3.org/2000/01/rdf-schema#label> "remarried" .
+_:Nbf40af95c93547dea10b5d48bc8ac89a <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <taught> .
+_:N64e372094f0e4620b987bc14aa2f7c83 <http://QA.jbt.org/temporal> "time and again" .
+<A%20New> <http://www.w3.org/2000/01/rdf-schema#label> "A New" .
+<se%C9%AAn%20%C9%B5%27b%C9%91%CB%90m%C9%99> <http://www.w3.org/2000/01/rdf-schema#label> "se\u026An \u0275'b\u0251\u02D0m\u0259" .
+_:Nc76e718e33864afc9bf6b6828e14b9c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <moved> .
+_:Nb2b3df9dad7b491b9497c458c4fc5dd0 <http://QA.jbt.org/spatial> <in%20the%20church> .
+_:N11eb6e0596174ac3807442376a95be05 <http://QA.jbt.org/temporal> "that his forces continued shelling Misrata" .
+<August%204> <http://www.w3.org/2000/01/rdf-schema#label> "August 4" .
+<every%20American> <http://www.w3.org/2000/01/rdf-schema#label> "every American" .
+_:N64c9917b651c475b819bde46a31a1686 <http://QA.jbt.org/extraction_confidence> "0.9250606141558616"^^<http://www.w3.org/2001/XMLSchema#double> .
+<on%20West%20109th%20Street> <http://www.w3.org/2000/01/rdf-schema#label> "on West 109th Street" .
+_:N42aadf3163b449e991b55a6057158834 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <his%20country> .
+<Time%20magazine> <http://www.w3.org/2000/01/rdf-schema#label> "Time magazine" .
+<the%20Iraq%20War> <http://www.w3.org/2000/01/rdf-schema#label> "the Iraq War" .
+<a%20total%20of%2063%20seats> <http://www.w3.org/2000/01/rdf-schema#label> "a total of 63 seats" .
+<ratified> <http://www.w3.org/2000/01/rdf-schema#label> "ratified" .
+<President%20Obama> <http://www.w3.org/2000/01/rdf-schema#label> "President Obama" .
+<the%20flow> <http://www.w3.org/2000/01/rdf-schema#label> "the flow" .
+<Elena%20Kagan> <http://www.w3.org/2000/01/rdf-schema#label> "Elena Kagan" .
+<his%20name> <http://www.w3.org/2000/01/rdf-schema#label> "his name" .
+<the%20team> <http://www.w3.org/2000/01/rdf-schema#label> "the team" .
+<complete> <http://www.w3.org/2000/01/rdf-schema#label> "complete" .
+_:N0375c8df8624487aba91fcda7ac5ab05 <http://QA.jbt.org/extraction_confidence> "0.9103268656654124"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N0768225d307342128d877c25cc25c8ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <condemned> .
+_:N08d03d38b3724f358ea00c9c832d3e62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Russia%27s%20law> .
+_:Nb79ce3f1d49b42bab7651392d1b6d624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was%20an%20associate%20for> .
+_:N4090487bd30a4575bb0290dbaceb7141 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <religion> .
+_:Nc328ec085f0a42318eec83e55730a599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <on%20his%20cabinet> .
+<Christianity> <http://www.w3.org/2000/01/rdf-schema#label> "Christianity" .
+_:Nff4186d8c35d4930bc580addcf2dd779 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20historic%20moment> .
+_:Nf847381b87bb43f49234310e6cd2386f <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <by%20McCain> .
+_:N8821aac0eb854449a16b7b23851d9ecb <http://QA.jbt.org/extraction_confidence> "0.9105129651916236"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N64c9917b651c475b819bde46a31a1686 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20Iraq%20War> .
+<corruption> <http://www.w3.org/2000/01/rdf-schema#label> "corruption" .
+_:N7147fa85eb0246c18bede26a49908a69 <http://QA.jbt.org/temporal> "after a lengthy debate over federal spending and whether or not to raise the nation's debt limit, Obama signed the Budget Control Act of 2011 and the American Taxpayer Relief Act of 2012" .
+_:N441349409c94424e8431563eb7e8d330 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%2050%20percent> .
+_:N0375c8df8624487aba91fcda7ac5ab05 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20stay> .
+_:N1e70a628d1e6438f8ef253fe7c1aa5dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <is> .
+<we> <http://www.w3.org/2000/01/rdf-schema#label> "we" .
+<to%20buy> <http://www.w3.org/2000/01/rdf-schema#label> "to buy" .
+_:N264e08b1b4a84b259da44b55d94fb195 <http://QA.jbt.org/spatial> <in%20Oslo> .
+<Barack> <http://www.w3.org/2000/01/rdf-schema#label> "Barack" .
+<president> <http://www.w3.org/2000/01/rdf-schema#label> "president" .
+_:Ne9e2c721eaaa4dfcb67edc4c794e2c33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <elevated> .
+_:Ncc563d24122346f2850832a9b96d7e15 <http://QA.jbt.org/extraction_confidence> "0.8841701665203853"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nb3f615d6cfe3468ebdb378800a2b8d22 <http://QA.jbt.org/argument> <to%20focus%20on%20your%20jobs%2C%20not%20ours> .
+<10%20million%20times> <http://www.w3.org/2000/01/rdf-schema#label> "10 million times" .
+_:N52cd270a23dd42259213a9fa3ee58450 <http://QA.jbt.org/temporal> "in December 2010" .
+_:N45d5360ce8db4d19949336c8ab02c7c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20one%20another> .
+_:Nb930eef910cd49ac8d4f427d63f3a0ed <http://QA.jbt.org/temporal> "In 2004" .
+_:Ne8c97e8f5a1a413dbdaba5b957da404b <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N2d57c28cf03a409d9c6cc4d1714b6125 <http://QA.jbt.org/extraction_confidence> "0.9052256377408016"^^<http://www.w3.org/2001/XMLSchema#double> .
+<bin%20Laden%27s%20body> <http://www.w3.org/2000/01/rdf-schema#label> "bin Laden's body" .
+_:N4ff3a0bd6dde43d2b85b47aa2de855e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <out> .
+_:N7605a806eb2c4144944027433b45bec6 <http://QA.jbt.org/extraction_confidence> "0.9180804252893388"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Ne9a621d5bb6e4d548c92317173c58e0a <http://QA.jbt.org/extraction_confidence> "0.9231320349505968"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Ndf184290abec4958b799351e1c4a7c46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <insurers> .
+_:Ndd39e1d2324246c991503f1431005cc0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <them> .
+<two%20initiatives> <http://www.w3.org/2000/01/rdf-schema#label> "two initiatives" .
+<her%20campaign> <http://www.w3.org/2000/01/rdf-schema#label> "her campaign" .
+_:Na0b9615be5ef40cda75372e026c1b2ad <http://QA.jbt.org/extraction_confidence> "0.5222094630377523"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N70713cf2b0054a28948513b909e2dd79 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <on%20August%204> .
+<gives> <http://www.w3.org/2000/01/rdf-schema#label> "gives" .
+_:N33094bdc576c4bc6ae2423cbd1a6574a <http://QA.jbt.org/extraction_confidence> "0.30899953469486874"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nd6db0a8d4b874f0fb4d71d6fce4a732b <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:N636330b2117945ad94640f5a20343b38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Bo> .
+<received> <http://www.w3.org/2000/01/rdf-schema#label> "received" .
+<look> <http://www.w3.org/2000/01/rdf-schema#label> "look" .
+_:N0375c8df8624487aba91fcda7ac5ab05 <http://QA.jbt.org/temporal> "when his mother and sister returned to Indonesia in 1975" .
+_:N5e27c1dd75054b7bada93516422925a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Time%20magazine> .
+_:N8821aac0eb854449a16b7b23851d9ecb <http://QA.jbt.org/spatial> <throughout%20the%20United%20States> .
+_:Nae66628abe334770aca92b96c9b7606d <http://QA.jbt.org/extraction_confidence> "0.27813615858960106"^^<http://www.w3.org/2001/XMLSchema#double> .
+<to%20carry> <http://www.w3.org/2000/01/rdf-schema#label> "to carry" .
+<taught%20first> <http://www.w3.org/2000/01/rdf-schema#label> "taught first" .
+_:N6ae194eb8e6a43e2a4c786383c09eff4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <plays> .
+<unusually%20uncertain> <http://www.w3.org/2000/01/rdf-schema#label> "unusually uncertain" .
+_:Nefeca483813a4d87bc6d729022a26b28 <http://QA.jbt.org/context> "I would want" .
+_:Na91cd294830342278c13f9670f9c502b <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <opposed> .
+_:N31a0c27336da4f14a0921d5d220cb018 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <with%20Mahmoud%20Abbas> .
+_:Nadee1e940d924763b1146236bfe5cc1b <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <every%20American> .
+_:Ne18f6974634946a4a36631e5a1fb4500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <his%20outreach> .
+<to%20stop> <http://www.w3.org/2000/01/rdf-schema#label> "to stop" .
+_:N2ca8efd104c94bbfb560e303ad8c7229 <http://QA.jbt.org/temporal> "in January 2003" .
+<in%20July%202010> <http://www.w3.org/2000/01/rdf-schema#label> "in July 2010" .
+_:N2fd1d990b30244fe9d378e31fefc071e <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20Kenya> .
+_:N142656aa6b7247e9ab2e75619ea3ef46 <http://QA.jbt.org/spatial> <at%20the%202005%20ALCS> .
+<his%20victory%20speech> <http://www.w3.org/2000/01/rdf-schema#label> "his victory speech" .
+_:Ncb6f76f68609410f98746735191b5e8d <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:Ne71cc408672e4891a07e928b67dc1cf9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <businesses> .
+_:N78ac3dac11d84a62990a9f41a022f999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <returned> .
+_:Nb39e1b4ccda34ddd8fd4bd22417588fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N1e70a628d1e6438f8ef253fe7c1aa5dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N2c12c70f0e4e4a33b1665636b7ceabd7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <discriminating> .
+_:N576fc4840015449d8acde770f1f17196 <http://QA.jbt.org/extraction_confidence> "0.30899953469486874"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N51b8d4e0660f44afbbab0398acc311c8 <http://QA.jbt.org/extraction_confidence> "0.9250606141558616"^^<http://www.w3.org/2001/XMLSchema#double> .
+<elected> <http://www.w3.org/2000/01/rdf-schema#label> "elected" .
+_:N7ba015d93b2e4a9f8cd7ea711a9a3c2b <http://QA.jbt.org/extraction_confidence> "0.3229663126973359"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nefeca483813a4d87bc6d729022a26b28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20kind%20of%20life> .
+<the%20Car%20Allowance%20Rebate%20System> <http://www.w3.org/2000/01/rdf-schema#label> "the Car Allowance Rebate System" .
+_:N438f59b5fc67417d8480b60d729868cc <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Occidental%20College> .
+<am> <http://www.w3.org/2000/01/rdf-schema#label> "am" .
+_:Nfa0c2ccbe9d0492da9613678d1625e92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <gives> .
+_:N4f3c387b67c94d6c8d4725b703931ab0 <http://QA.jbt.org/temporal> "after a decade in the minority" .
+_:N64c9917b651c475b819bde46a31a1686 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <authorizing> .
+_:N91595d0a55e646958f5dcda90f24c562 <http://QA.jbt.org/spatial> <under%20the%20US%20Congress%27s%20taxing%20authority> .
+<under%20the%20US%20Congress%27s%20taxing%20authority> <http://www.w3.org/2000/01/rdf-schema#label> "under the US Congress's taxing authority" .
+<to%20Arab%20leaders> <http://www.w3.org/2000/01/rdf-schema#label> "to Arab leaders" .
+_:N1e4927554c7b498a969c2a13d9cdab3d <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <would%20have%20required> .
+<Occidental> <http://www.w3.org/2000/01/rdf-schema#label> "Occidental" .
+_:Naaf3d17abb3b46eab420b8859f354b5a <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <were> .
+<regarding> <http://www.w3.org/2000/01/rdf-schema#label> "regarding" .
+_:Nd93dc542f1a04a3ca9495ef4adda6f6a <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Open%20Government%20Act> .
+<lost> <http://www.w3.org/2000/01/rdf-schema#label> "lost" .
+_:N24253f77f5334795a6e0e4e04eac7a4f <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <moved> .
+_:N4fefad15e1d8446b8b534b2bc1e8908d <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%20the%20full%20Senate> .
+<to%20the%20Israelis> <http://www.w3.org/2000/01/rdf-schema#label> "to the Israelis" .
+_:N16e64b9a2dfb48089d392b6e8bd9ed5a <http://QA.jbt.org/temporal> "Between February and December 2010" .
+<in%20Wichita%2C%20Kansas> <http://www.w3.org/2000/01/rdf-schema#label> "in Wichita, Kansas" .
+_:Ne8c97e8f5a1a413dbdaba5b957da404b <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <referred> .
+_:N63ced9b90abb4c6abcf448a1bbf054b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20limits> .
+_:N27984a9e7f084d4591b18a736d9be666 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20%22stunning%20surprise> .
+<is%20receiving> <http://www.w3.org/2000/01/rdf-schema#label> "is receiving" .
+_:Nefeca483813a4d87bc6d729022a26b28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20lead> .
+<Begins> <http://www.w3.org/2000/01/rdf-schema#label> "Begins" .
+_:Nf9b789f9a19548388a20aae893505a81 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <I> .
+<to%20be%20reelected> <http://www.w3.org/2000/01/rdf-schema#label> "to be reelected" .
+<on%20his%20website> <http://www.w3.org/2000/01/rdf-schema#label> "on his website" .
+_:Nc3280d053b264d4e9dcb4cc10d34f07d <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <tried%20to%20quit> .
+_:N0807fbd0da2c482e999543be84425631 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <went> .
+<to%20Honolulu> <http://www.w3.org/2000/01/rdf-schema#label> "to Honolulu" .
+<%27s%20not> <http://www.w3.org/2000/01/rdf-schema#label> "'s not" .
+<information> <http://www.w3.org/2000/01/rdf-schema#label> "information" .
+_:Nae66628abe334770aca92b96c9b7606d <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <hold> .
+_:Nda15e6dc147245eebe7f494093d8395c <http://QA.jbt.org/extraction_confidence> "0.9180804252893388"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N36d0e4dbe94d42008bc5e3121bf84a3f <http://QA.jbt.org/extraction_confidence> "0.4559239535691468"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N5f2e37f8bcdb476c86b1d70a9705f185 <http://QA.jbt.org/extraction_confidence> "0.9610033692204464"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nf22a5e53c909406a963dccb1997fef55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Sonia%20Sotomayor> .
+<out> <http://www.w3.org/2000/01/rdf-schema#label> "out" .
+<to%20reintroduce%20an%20expired%20ban%20on%20military-style%20assault%20weapons%2C%20such%20as%20those%20used%20in%20several%20recent%20mass%20shootings%2C%20impose%20limits%20on%20ammunition%20magazines%20to%2010%20rounds%2C%20introduce%20background%20checks%20on%20all%20gun%20sales%2C%20pass%20a%20ban%20on%20possession%20and%20sale%20of%20armor-piercing%20bullets%2C%20introduce%20harsher%20penalties%20for%20gun-traffickers> <http://www.w3.org/2000/01/rdf-schema#label> "to reintroduce an expired ban on military-style assault weapons, such as those used in several recent mass shootings, impose limits on ammunition magazines to 10 rounds, introduce background checks on all gun sales, pass a ban on possession and sale of armor-piercing bullets, introduce harsher penalties for gun-traffickers" .
+<married> <http://www.w3.org/2000/01/rdf-schema#label> "married" .
+_:N31a0c27336da4f14a0921d5d220cb018 <http://QA.jbt.org/extraction_confidence> "0.5680679595514976"^^<http://www.w3.org/2001/XMLSchema#double> .
+<a%20historic%20moment> <http://www.w3.org/2000/01/rdf-schema#label> "a historic moment" .
+_:Na91cd294830342278c13f9670f9c502b <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+<went> <http://www.w3.org/2000/01/rdf-schema#label> "went" .
+<years%20old> <http://www.w3.org/2000/01/rdf-schema#label> "years old" .
+_:N441349409c94424e8431563eb7e8d330 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:Nb3be0d35626945bf9f1ae34dcc652322 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama%20and%20Medvedev> .
+<would%20pin> <http://www.w3.org/2000/01/rdf-schema#label> "would pin" .
+<on%20August%204> <http://www.w3.org/2000/01/rdf-schema#label> "on August 4" .
+_:N6b6539866a8c4a3289e176cb5077afa3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<Columbia%20University> <http://www.w3.org/2000/01/rdf-schema#label> "Columbia University" .
+<sick%20people> <http://www.w3.org/2000/01/rdf-schema#label> "sick people" .
+<tax%20credits> <http://www.w3.org/2000/01/rdf-schema#label> "tax credits" .
+<this%20award> <http://www.w3.org/2000/01/rdf-schema#label> "this award" .
+<at%20University%20of%20Chicago%20Law%20School> <http://www.w3.org/2000/01/rdf-schema#label> "at University of Chicago Law School" .
+<threw%20out%20wearing> <http://www.w3.org/2000/01/rdf-schema#label> "threw out wearing" .
+_:N54ac28f656a84130960986e964dfc867 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <became> .
+_:N63237a230344497d9c227a7e8651fe87 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<featuring> <http://www.w3.org/2000/01/rdf-schema#label> "featuring" .
+<entered> <http://www.w3.org/2000/01/rdf-schema#label> "entered" .
+_:Nfa0c2ccbe9d0492da9613678d1625e92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <faith> .
+<it> <http://www.w3.org/2000/01/rdf-schema#label> "it" .
+<relating> <http://www.w3.org/2000/01/rdf-schema#label> "relating" .
+_:N5f2e37f8bcdb476c86b1d70a9705f185 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N26a352016fa641d48d28af36ff999d9b <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Punahou%20School> .
+_:Nd3decbed793946ab9809a6048a624876 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <complete> .
+<called> <http://www.w3.org/2000/01/rdf-schema#label> "called" .
+<by%20Harris> <http://www.w3.org/2000/01/rdf-schema#label> "by Harris" .
+<was%20inaugurated> <http://www.w3.org/2000/01/rdf-schema#label> "was inaugurated" .
+<a%20devout%20Christian> <http://www.w3.org/2000/01/rdf-schema#label> "a devout Christian" .
+<would%20treat> <http://www.w3.org/2000/01/rdf-schema#label> "would treat" .
+<to%20participate> <http://www.w3.org/2000/01/rdf-schema#label> "to participate" .
+<in%201976> <http://www.w3.org/2000/01/rdf-schema#label> "in 1976" .
+_:N2d57c28cf03a409d9c6cc4d1714b6125 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <welfare%20reform> .
+_:N5f2e37f8bcdb476c86b1d70a9705f185 <http://QA.jbt.org/spatial> <at%20Cairo%20University%20in%20Egypt> .
+_:Ndcc9273ba7b741ea9be3c8ff680467a7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <continued%20shelling> .
+_:Ndef1045aa9da4b1bb8282d2f07fc4242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <expressed> .
+_:N18fec26a15234d18aa31aaa5f6492d00 <http://QA.jbt.org/extraction_confidence> "0.9753210026959436"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Ndffc02c1be794b3eb3b36db71d330c00 <http://QA.jbt.org/extraction_confidence> "0.9231320349505968"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N717815b4cd68488493315e4984a61e0f <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <met> .
+_:N54ac28f656a84130960986e964dfc867 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <inactive> .
+_:N31a0c27336da4f14a0921d5d220cb018 <http://QA.jbt.org/temporal> "before Abbas became President of the Palestinian National Authority" .
+_:Ndef1045aa9da4b1bb8282d2f07fc4242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <reservations> .
+_:N40e18c369d224ee8bfeff1836973fb92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <a%20law> .
+_:N921c21cf3f3647728e683b6a5d067c20 <http://QA.jbt.org/extraction_confidence> "0.7665350501724939"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N7f2da7e96d2246859629ae4ccc1b7d4e <http://QA.jbt.org/context> "President Obama announced" .
+<by%20the%20end%20of%202009> <http://www.w3.org/2000/01/rdf-schema#label> "by the end of 2009" .
+_:Na3a42362ebbe474d9d517e7cbd8af579 <http://QA.jbt.org/argument> <on%20YouTube> .
+_:N62603298fdc447f39490a792e3c3051f <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <him> .
+_:N15a34af08322403580ab7f71169fb193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20stop> .
+<the%20government> <http://www.w3.org/2000/01/rdf-schema#label> "the government" .
+_:N16e64b9a2dfb48089d392b6e8bd9ed5a <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <employment> .
+_:N7890f590305b470583146489ce0e1214 <http://QA.jbt.org/extraction_confidence> "0.8821938819052391"^^<http://www.w3.org/2001/XMLSchema#double> .
+<passed%20unanimously> <http://www.w3.org/2000/01/rdf-schema#label> "passed unanimously" .
+_:Nfa0c2ccbe9d0492da9613678d1625e92 <http://QA.jbt.org/argument> <a%20path%20to%20be%20cleansed%20of%20sin%20and%20have%20eternal%20life> .
+_:N83003b2312504a9cad375aae847e5c7e <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <am> .
+_:Ncfabb810fcbd4f7ea1c01446cc2dbef0 <http://QA.jbt.org/extraction_confidence> "0.9324144673478684"^^<http://www.w3.org/2001/XMLSchema#double> .
+<same-sex%20marriages> <http://www.w3.org/2000/01/rdf-schema#label> "same-sex marriages" .
+<to%20provide> <http://www.w3.org/2000/01/rdf-schema#label> "to provide" .
+<the%20joint%20resolution> <http://www.w3.org/2000/01/rdf-schema#label> "the joint resolution" .
+<black%20enough> <http://www.w3.org/2000/01/rdf-schema#label> "black enough" .
+_:N6369760cdb09428586a49b9f8c33d461 <http://QA.jbt.org/extraction_confidence> "0.9324144673478684"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Ndf184290abec4958b799351e1c4a7c46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <sick%20people> .
+_:N460563e862054af88b44078529590e59 <http://QA.jbt.org/context> "Obama announced" .
+_:N01853caea21b4fb98fced79bc34ec568 <http://QA.jbt.org/extraction_confidence> "0.9114869852834159"^^<http://www.w3.org/2001/XMLSchema#double> .
+<%5Bis%5D%20head%20%5Bof%5D> <http://www.w3.org/2000/01/rdf-schema#label> "[is] head [of]" .
+_:N4c53a60ce8364f9ba90dd949eff44c78 <http://QA.jbt.org/extraction_confidence> "0.9210233335200771"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N636330b2117945ad94640f5a20343b38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <a%20male> .
+_:Na0b9615be5ef40cda75372e026c1b2ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+<participated> <http://www.w3.org/2000/01/rdf-schema#label> "participated" .
+_:N05b2a86f24964a1880a7e25e219ab6aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <taught%20first> .
+<in%20the%20disinvestment> <http://www.w3.org/2000/01/rdf-schema#label> "in the disinvestment" .
+<would%20n%27t%20be> <http://www.w3.org/2000/01/rdf-schema#label> "would n't be" .
+<the%20pipeline> <http://www.w3.org/2000/01/rdf-schema#label> "the pipeline" .
+<This%20amendment> <http://www.w3.org/2000/01/rdf-schema#label> "This amendment" .
+<posted> <http://www.w3.org/2000/01/rdf-schema#label> "posted" .
+<the%2044th%20President> <http://www.w3.org/2000/01/rdf-schema#label> "the 44th President" .
+_:Ne5a3fedc966440ecb5924bfd4924144b <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <received> .
+_:N6d9f41f3ca744eac8d7d470e71f51509 <http://QA.jbt.org/extraction_confidence> "0.3579879821925261"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N447c13fe30d548df854e8f08cfe42131 <http://QA.jbt.org/extraction_confidence> "0.4569402361344342"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N16e64b9a2dfb48089d392b6e8bd9ed5a <http://QA.jbt.org/extraction_confidence> "0.9478480964812496"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N88a502d02223496486effff392143e66 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <on%20your%20jobs> .
+_:Ne4ddb66364be4f08b230bc8b10f2d042 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20white%20folks> .
+_:N7147fa85eb0246c18bede26a49908a69 <http://QA.jbt.org/extraction_confidence> "0.9726855614196764"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N1c04f13671dc443b801a13fabb6b2b3c <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <ended> .
+<began%20raising> <http://www.w3.org/2000/01/rdf-schema#label> "began raising" .
+<most%20dear> <http://www.w3.org/2000/01/rdf-schema#label> "most dear" .
+<had%20not%20been%20passed> <http://www.w3.org/2000/01/rdf-schema#label> "had not been passed" .
+<You> <http://www.w3.org/2000/01/rdf-schema#label> "You" .
+_:Nb79ce3f1d49b42bab7651392d1b6d624 <http://QA.jbt.org/extraction_confidence> "0.3853208301752743"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N6cfd50b7893f484a818f62dc2827687b <http://QA.jbt.org/extraction_confidence> "0.975824339017407"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N45d5360ce8db4d19949336c8ab02c7c3 <http://QA.jbt.org/extraction_confidence> "0.7351279940478935"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N2060b075ece443fca9ffb266684d8cd4 <http://QA.jbt.org/extraction_confidence> "0.9436221120476838"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nd93dc542f1a04a3ca9495ef4adda6f6a <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was%20signed> .
+<his%20status> <http://www.w3.org/2000/01/rdf-schema#label> "his status" .
+<at%20sea> <http://www.w3.org/2000/01/rdf-schema#label> "at sea" .
+_:N37630794fb404eaab16288c6f4c7dd21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20Daytime%20Emmy%20Award> .
+<%5Bis%5D%20winner%20%5Bof%5D> <http://www.w3.org/2000/01/rdf-schema#label> "[is] winner [of]" .
+<from%20a%20Hyde%20Park%2C%20Chicago%20condominium> <http://www.w3.org/2000/01/rdf-schema#label> "from a Hyde Park, Chicago condominium" .
+_:N41c73efa081c406e91e82d932726d1c9 <http://QA.jbt.org/argument> <to%20non-profit%20organizations%2C%20including%20%24131%2C000%20to%20Fisher%20House%20Foundation> .
+_:N9a47e3861c53461c9d0e901915c882ce <http://QA.jbt.org/temporal> "in May 2008" .
+_:N4ff3a0bd6dde43d2b85b47aa2de855e2 <http://QA.jbt.org/argument> <the%20ceremonial%20first%20pitch> .
+_:N5481427f32c84595ad69650c702b59a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:N7841e8070f90431d9f1a5f290264aec7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <met> .
+_:N62603298fdc447f39490a792e3c3051f <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Robinson> .
+_:Nfb573d77172a4de492bd7804a4c1b0b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%20Wailuku> .
+_:N64e372094f0e4620b987bc14aa2f7c83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <had%20not%20been%20passed> .
+<conducted> <http://www.w3.org/2000/01/rdf-schema#label> "conducted" .
+_:Na99f2ca2918a47d697faf3fb4fb76645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Republican> .
+<Punahou%20School> <http://www.w3.org/2000/01/rdf-schema#label> "Punahou School" .
+_:N6b6539866a8c4a3289e176cb5077afa3 <http://QA.jbt.org/temporal> "in the fall of 1988" .
+_:N70713cf2b0054a28948513b909e2dd79 <http://QA.jbt.org/extraction_confidence> "0.9324144673478684"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nb68c154052b54550a5a46e5774922dc2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <A%20New> .
+_:N2fd1d990b30244fe9d378e31fefc071e <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+<created> <http://www.w3.org/2000/01/rdf-schema#label> "created" .
+_:Neeedfe504cbd4a86b46d360bde84c218 <http://QA.jbt.org/extraction_confidence> "0.9197759696552441"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N324540f872984bc5b026b7ad3c7b8ece <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <change> .
+<Congress> <http://www.w3.org/2000/01/rdf-schema#label> "Congress" .
+_:N11eb6e0596174ac3807442376a95be05 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <came> .
+_:N894f5fb64963465d8aa50fc59b9ae2f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <explained> .
+<to%20gun%20control> <http://www.w3.org/2000/01/rdf-schema#label> "to gun control" .
+_:Nd7e2317a69c24a2d9d6820b9e47f6090 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <characterized> .
+_:N0668f7ea888743c39cadfe5fc039e5e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20Los%20Angeles> .
+_:N7605a806eb2c4144944027433b45bec6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <This%20amendment> .
+_:N7890f590305b470583146489ce0e1214 <http://QA.jbt.org/argument> <to%20live%20with%20his%20maternal%20grandparents> .
+_:Nff4186d8c35d4930bc580addcf2dd779 <http://QA.jbt.org/extraction_confidence> "0.44930017622725504"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N3bd04b9c9ab5465483a917424c4168f2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <president> .
+_:N6db90c01601842a7b0871a887593ccb6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <regarding> .
+_:N46f599fd50de444b8d23ca480b190337 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20approve> .
+<was%20created> <http://www.w3.org/2000/01/rdf-schema#label> "was created" .
+_:N4c9ab1b3f4b344d6a999f9186d54afba <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <signed> .
+_:N26a352016fa641d48d28af36ff999d9b <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <attended> .
+_:N7f2da7e96d2246859629ae4ccc1b7d4e <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <would%20leave> .
+<Jack%20Ryan> <http://www.w3.org/2000/01/rdf-schema#label> "Jack Ryan" .
+<with%20Mahmoud%20Abbas> <http://www.w3.org/2000/01/rdf-schema#label> "with Mahmoud Abbas" .
+_:N8a5e8c21bfa0412893e1da4f7f225730 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <began%20raising> .
+_:Nae66628abe334770aca92b96c9b7606d <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <I> .
+_:N33094bdc576c4bc6ae2423cbd1a6574a <http://QA.jbt.org/argument> <as%20a%20young%20adult> .
+_:Ncae94cf6c35f472ea98544a99732b94c <http://QA.jbt.org/extraction_confidence> "0.9845224269768048"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N6b09a3c6a76142f9870e067bc6086f5c <http://QA.jbt.org/extraction_confidence> "0.7620149464424781"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nc28da546f6524d4299dbb4772c1fd5de <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <it> .
+<Open%20Government%20Act> <http://www.w3.org/2000/01/rdf-schema#label> "Open Government Act" .
+<won> <http://www.w3.org/2000/01/rdf-schema#label> "won" .
+_:Ne8ef5a2cb8194fd9be15534f87147fa4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <against%20the%20war> .
+_:N915e4b9d4697400d9627e2ae2049eeba <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20Supreme%20Court> .
+_:Nd5f94d1f947445f086874f5c8dc023a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Elena%20Kagan> .
+<acknowledged> <http://www.w3.org/2000/01/rdf-schema#label> "acknowledged" .
+_:N3454e38f59644ac2812fe7aafbe19134 <http://QA.jbt.org/spatial> <in%20Hawaii> .
+_:N69ed7b1c50f8474ebd8a36c44c7ce2ad <http://QA.jbt.org/temporal> "on May 1, 2011" .
+_:Neeedfe504cbd4a86b46d360bde84c218 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20buy> .
+_:Nc3280d053b264d4e9dcb4cc10d34f07d <http://QA.jbt.org/context> "Obama tried" .
+<said> <http://www.w3.org/2000/01/rdf-schema#label> "said" .
+_:N02ef8b55bbb14647aec9a6547e6b23f5 <http://QA.jbt.org/extraction_confidence> "0.9283193121003828"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N6fdb080047b8497fa0fe1f56369489ce <http://QA.jbt.org/extraction_confidence> "0.739566789350138"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N5cd58af9de3a457abb05508aa98be4e3 <http://QA.jbt.org/context> "the Supreme Court ruled the Commerce Clause does not allow" .
+_:N5b4895b085a7401196a6d0288939ea50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Obama> .
+_:Na52cc2b7f213432681011ca02335c9ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <would%20pin> .
+<well> <http://www.w3.org/2000/01/rdf-schema#label> "well" .
+<election%20papers> <http://www.w3.org/2000/01/rdf-schema#label> "election papers" .
+_:N809cd1ca5e1b4563b49bc455336d118f <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in> .
+_:N1dc545bbb5bc46b19fcc95bb9c5b2cdf <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was%20hired> .
+_:N1f99dc443fab47d79c2c7c8fb55c3e06 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <BP> .
+<relatives> <http://www.w3.org/2000/01/rdf-schema#label> "relatives" .
+_:Ncdbcbf92ac2e4d3fa78ca832bbdccc1d <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <expensive%20plans> .
+_:N9a6bb83178884766a563934f111d843d <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <delivered> .
+<divorced> <http://www.w3.org/2000/01/rdf-schema#label> "divorced" .
+_:N4c53a60ce8364f9ba90dd949eff44c78 <http://QA.jbt.org/temporal> "in 1992" .
+<on%20YouTube> <http://www.w3.org/2000/01/rdf-schema#label> "on YouTube" .
+_:N54ac28f656a84130960986e964dfc867 <http://QA.jbt.org/temporal> "in 2007" .
+<related> <http://www.w3.org/2000/01/rdf-schema#label> "related" .
+_:Nff82925325b441c0b4f27b291caa8f00 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <as%20president> .
+_:N6b6539866a8c4a3289e176cb5077afa3 <http://QA.jbt.org/extraction_confidence> "0.9324144673478684"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N64c9917b651c475b819bde46a31a1686 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20joint%20resolution> .
+_:Nd93dc542f1a04a3ca9495ef4adda6f6a <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <into%20law> .
+_:Nca5a53f4c5794426a20232cbb0469dd6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <money> .
+_:Nf4b1b52a0c154274b70f8702685b811e <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <attempted%20to%20reach> .
+_:N7f2da7e96d2246859629ae4ccc1b7d4e <http://QA.jbt.org/extraction_confidence> "0.927981291055698"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N9a47e3861c53461c9d0e901915c882ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+_:N36ea2a64bc314909ad953aa2332a8edd <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20team> .
+_:N336f5ec9c4414bb5b8964a1d9a9874cb <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+<to%2050%20percent> <http://www.w3.org/2000/01/rdf-schema#label> "to 50 percent" .
+<the%20music%20video%20%22Yes> <http://www.w3.org/2000/01/rdf-schema#label> "the music video \"Yes" .
+<have%20said%20directly> <http://www.w3.org/2000/01/rdf-schema#label> "have said directly" .
+<has%20climbed> <http://www.w3.org/2000/01/rdf-schema#label> "has climbed" .
+_:N4ff3a0bd6dde43d2b85b47aa2de855e2 <http://QA.jbt.org/temporal> "In 2009" .
+_:N49537325b79249d299b4477f6ac404b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <by%20the%20U.S.%20Senate> .
+<amid%20territorial%20gains%20made%20by%20the%20Islamic%20State%20of%20Iraq%20and%20the%20Levant%20following%20the%20U.S.%20withdrawal%20in%202011> <http://www.w3.org/2000/01/rdf-schema#label> "amid territorial gains made by the Islamic State of Iraq and the Levant following the U.S. withdrawal in 2011" .
+_:N05b2a86f24964a1880a7e25e219ab6aa <http://QA.jbt.org/temporal> "for twelve years" .
+_:N4c9ab1b3f4b344d6a999f9186d54afba <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <executive%20orders> .
+<agencies> <http://www.w3.org/2000/01/rdf-schema#label> "agencies" .
+_:N662ce117670441038359d71a453d1437 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%202010> .
+_:Nca9908e982f442e69ed25604804cb3e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20first%20President> .
+_:Nd3decbed793946ab9809a6048a624876 <http://QA.jbt.org/context> "Obama called" .
+_:N1322d59e20a541e39fd36804dc48aae7 <http://QA.jbt.org/temporal> "on January 20" .
+<its%20own%20bill> <http://www.w3.org/2000/01/rdf-schema#label> "its own bill" .
+<in%20Chicago> <http://www.w3.org/2000/01/rdf-schema#label> "in Chicago" .
+_:N9d9390bd1b06430591f7c9fd71168588 <http://QA.jbt.org/extraction_confidence> "0.4517038250665665"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nfee5df6e584b4deb9e647ed23fb66207 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%20mid-1995> .
+_:Nbf40af95c93547dea10b5d48bc8ac89a <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+_:N52cd270a23dd42259213a9fa3ee58450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <it> .
+<Obama%20Sr> <http://www.w3.org/2000/01/rdf-schema#label> "Obama Sr" .
+<David%20Petraeus> <http://www.w3.org/2000/01/rdf-schema#label> "David Petraeus" .
+<the%20keynote%20address> <http://www.w3.org/2000/01/rdf-schema#label> "the keynote address" .
+<does> <http://www.w3.org/2000/01/rdf-schema#label> "does" .
+<formally%20announced> <http://www.w3.org/2000/01/rdf-schema#label> "formally announced" .
+_:Nc28da546f6524d4299dbb4772c1fd5de <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <signed> .
+_:N36ea2a64bc314909ad953aa2332a8edd <http://QA.jbt.org/extraction_confidence> "0.8240414069215384"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N42aadf3163b449e991b55a6057158834 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <is%20moving> .
+<Dunham> <http://www.w3.org/2000/01/rdf-schema#label> "Dunham" .
+_:N9875c0cf5ef7453490b1512347443db6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <developed> .
+<Iraq> <http://www.w3.org/2000/01/rdf-schema#label> "Iraq" .
+<as%20a%20young%20adult> <http://www.w3.org/2000/01/rdf-schema#label> "as a young adult" .
+<to%20buy%20health%20insurance> <http://www.w3.org/2000/01/rdf-schema#label> "to buy health insurance" .
+_:Nb930eef910cd49ac8d4f427d63f3a0ed <http://QA.jbt.org/temporal> "during his campaign" .
+_:N4090487bd30a4575bb0290dbaceb7141 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <saw> .
+_:N915e4b9d4697400d9627e2ae2049eeba <http://QA.jbt.org/extraction_confidence> "0.9324013441347372"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nadee1e940d924763b1146236bfe5cc1b <http://QA.jbt.org/context> "insurers to require" .
+<the%20crowd> <http://www.w3.org/2000/01/rdf-schema#label> "the crowd" .
+_:Ned282a19ec584647be951ddd6d2f6828 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20U.S.%20military> .
+_:N45d5360ce8db4d19949336c8ab02c7c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20love> .
+_:N749ebbdf6bdb4c9f8ebd2397a4595f80 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <relatives> .
+_:N0b3455f57d054720914dadecaaf0256c <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <his%20youthful%20image> .
+_:Nff82925325b441c0b4f27b291caa8f00 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <him> .
+_:N915e4b9d4697400d9627e2ae2049eeba <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <urged> .
+_:Nb4dda3491f0f4134b4ee524b1b1e1612 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <spoke> .
+_:N3edab13a3c584862b8c2d64cb9e04a86 <http://QA.jbt.org/extraction_confidence> "0.9610033692204464"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nf847381b87bb43f49234310e6cd2386f <http://QA.jbt.org/extraction_confidence> "0.5898102672166055"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nefeca483813a4d87bc6d729022a26b28 <http://QA.jbt.org/extraction_confidence> "0.8559547032724685"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N64e372094f0e4620b987bc14aa2f7c83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20torch> .
+_:N6cfd50b7893f484a818f62dc2827687b <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:Nfb09ad64394d4a5fae301dc188122385 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <it> .
+_:Nb39e1b4ccda34ddd8fd4bd22417588fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20bill> .
+_:Naacd22fd288a45de8ef78736560c1d34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20have%20been%20born> .
+_:Nd87985071c484369a2d97a99a372dd74 <http://QA.jbt.org/extraction_confidence> "0.5129232809985469"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N2569cdcb902948429a5f6424efcb1000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <bore> .
+_:N55907670dded4b829ed863e25ea3b0c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%20his%20adult%20life> .
+_:Nc22dfb86ce6c4ee184282e5fd34a78fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20consider> .
+_:Ned282a19ec584647be951ddd6d2f6828 <http://QA.jbt.org/temporal> "on Obama's orders" .
+_:N4294013b215b46e08e64031abde97c12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <domestic%20policies> .
+_:N78bb73b30fe843e4823c3b4a898ef2ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <McChrystal> .
+<imposed> <http://www.w3.org/2000/01/rdf-schema#label> "imposed" .
+_:N879d9b64839049928dca1156e3e9da4c <http://QA.jbt.org/temporal> "at that time" .
+<businesses> <http://www.w3.org/2000/01/rdf-schema#label> "businesses" .
+_:N0375c8df8624487aba91fcda7ac5ab05 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%20Hawaii> .
+_:N01853caea21b4fb98fced79bc34ec568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <traveled> .
+<that%20%22it%27s%20not%20too%20late%22%20to%20stop%20the%20war> <http://www.w3.org/2000/01/rdf-schema#label> "that \"it's not too late\" to stop the war" .
+_:N3772455adee0445499fd3f53b0b165b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <%5Bis%5D%20winner%20%5Bof%5D> .
+<We> <http://www.w3.org/2000/01/rdf-schema#label> "We" .
+_:N5b97ad8ae63545149ab095d0c574af49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <me> .
+_:Ned282a19ec584647be951ddd6d2f6828 <http://QA.jbt.org/extraction_confidence> "0.9583616991481964"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N05b2a86f24964a1880a7e25e219ab6aa <http://QA.jbt.org/spatial> <at%20the%20University%20of%20Chicago%20Law%20School> .
+<met> <http://www.w3.org/2000/01/rdf-schema#label> "met" .
+_:N48b1f3ec1ccb4415b94e29b14e1da3ca <http://QA.jbt.org/context> "Obama pledged" .
+<to%20attend> <http://www.w3.org/2000/01/rdf-schema#label> "to attend" .
+_:N05b2a86f24964a1880a7e25e219ab6aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <then> .
+_:N6db90c01601842a7b0871a887593ccb6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <gun%20control> .
+<Russia%27s%20law> <http://www.w3.org/2000/01/rdf-schema#label> "Russia's law" .
+_:N49537325b79249d299b4477f6ac404b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <passed%20unanimously> .
+_:N3edab13a3c584862b8c2d64cb9e04a86 <http://QA.jbt.org/spatial> <in%20Ankara> .
+<a%20White%20Sox%20jacket> <http://www.w3.org/2000/01/rdf-schema#label> "a White Sox jacket" .
+<him> <http://www.w3.org/2000/01/rdf-schema#label> "him" .
+_:N512aa38b488741e1958520d3757050aa <http://QA.jbt.org/extraction_confidence> "0.7715407053354487"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N26a352016fa641d48d28af36ff999d9b <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<in%20the%20church> <http://www.w3.org/2000/01/rdf-schema#label> "in the church" .
+_:Nbb01169f0e71466fa4c408e68acf3f73 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <prevented> .
+_:Ned282a19ec584647be951ddd6d2f6828 <http://QA.jbt.org/temporal> "The next day" .
+<bore> <http://www.w3.org/2000/01/rdf-schema#label> "bore" .
+<He> <http://www.w3.org/2000/01/rdf-schema#label> "He" .
+<Republican> <http://www.w3.org/2000/01/rdf-schema#label> "Republican" .
+_:N8821aac0eb854449a16b7b23851d9ecb <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <issues> .
+_:N0facc3e7b73c4026a20f3992c184b7c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <convention%20speeches> .
+_:N0668f7ea888743c39cadfe5fc039e5e7 <http://QA.jbt.org/temporal> "in 1979" .
+_:Nac283ce6dd49424098694072d8cebc60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <signed> .
+_:N894f5fb64963465d8aa50fc59b9ae2f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:Nfa5a56a09ac44e008513b017340a393b <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Leon%20Panetta> .
+_:Nc328ec085f0a42318eec83e55730a599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:Na6b8b04fd14a41afb792e5c64793cdb4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <It> .
+<his%20mother> <http://www.w3.org/2000/01/rdf-schema#label> "his mother" .
+_:Nfa0c2ccbe9d0492da9613678d1625e92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <me> .
+_:N2060b075ece443fca9ffb266684d8cd4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <divorced> .
+<barely%20registered> <http://www.w3.org/2000/01/rdf-schema#label> "barely registered" .
+<constitutional> <http://www.w3.org/2000/01/rdf-schema#label> "constitutional" .
+_:Naaf3d17abb3b46eab420b8859f354b5a <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <previously> .
+<expensive%20plans> <http://www.w3.org/2000/01/rdf-schema#label> "expensive plans" .
+<the%20limits> <http://www.w3.org/2000/01/rdf-schema#label> "the limits" .
+_:N51b8d4e0660f44afbbab0398acc311c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <The%20first%20bill> .
+_:N1f77433391244d768c8bc80b3f66a941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+_:N1f253380291448e6adbaefd8f810f02f <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <born> .
+<health%20care%20benefits> <http://www.w3.org/2000/01/rdf-schema#label> "health care benefits" .
+<gun%20control> <http://www.w3.org/2000/01/rdf-schema#label> "gun control" .
+_:N2fc553372d454cce862628eeeb389e74 <http://QA.jbt.org/temporal> "During his summers" .
+_:N1b9b9b5caf1a452faa464b03d0f4f103 <http://QA.jbt.org/extraction_confidence> "0.3629297645058087"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nfee5df6e584b4deb9e647ed23fb66207 <http://QA.jbt.org/argument> <as%20Dreams%20from%20My%20Father> .
+<the%20full%20Senate> <http://www.w3.org/2000/01/rdf-schema#label> "the full Senate" .
+_:Ne8c97e8f5a1a413dbdaba5b957da404b <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to> .
+_:N7841e8070f90431d9f1a5f290264aec7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Lolo%20Soetoro> .
+<was%20signed> <http://www.w3.org/2000/01/rdf-schema#label> "was signed" .
+_:N809cd1ca5e1b4563b49bc455336d118f <http://QA.jbt.org/extraction_confidence> "0.22506131975927413"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nf2eced009f8748ee883a42f48c613676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was%20joined> .
+<that%20summer> <http://www.w3.org/2000/01/rdf-schema#label> "that summer" .
+_:N1322d59e20a541e39fd36804dc48aae7 <http://QA.jbt.org/extraction_confidence> "0.9436221120476838"^^<http://www.w3.org/2001/XMLSchema#double> .
+<urging> <http://www.w3.org/2000/01/rdf-schema#label> "urging" .
+_:N336f5ec9c4414bb5b8964a1d9a9874cb <http://QA.jbt.org/temporal> "on November 16" .
+_:Nce9df8b1fa2e49b18914a06398f9ede3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N6492f900a7844a6aaf1b3e79fb8785fb <http://QA.jbt.org/temporal> "In June 1989" .
+_:N264e08b1b4a84b259da44b55d94fb195 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N3454e38f59644ac2812fe7aafbe19134 <http://QA.jbt.org/temporal> "only once" .
+_:Nbf069fcd0abf4e28a7166ecd540ec4a5 <http://QA.jbt.org/argument> <that%20summer> .
+_:Nf4b1b52a0c154274b70f8702685b811e <http://QA.jbt.org/extraction_confidence> "0.8982330273114404"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N460563e862054af88b44078529590e59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <Begins> .
+_:N4ff3a0bd6dde43d2b85b47aa2de855e2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:Nc28da546f6524d4299dbb4772c1fd5de <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<urged> <http://www.w3.org/2000/01/rdf-schema#label> "urged" .
+<the%20presidency> <http://www.w3.org/2000/01/rdf-schema#label> "the presidency" .
+_:Ne81ff8a9a0ee4b0dad828584c27a904a <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<to%20a%20new%20generation> <http://www.w3.org/2000/01/rdf-schema#label> "to a new generation" .
+_:Ne81ff8a9a0ee4b0dad828584c27a904a <http://QA.jbt.org/extraction_confidence> "0.9610033692204464"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N61d15d5b25dd43b89f0858381294d4ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <so> .
+<joined> <http://www.w3.org/2000/01/rdf-schema#label> "joined" .
+_:Nbb01169f0e71466fa4c408e68acf3f73 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20closure> .
+<previously> <http://www.w3.org/2000/01/rdf-schema#label> "previously" .
+_:N447c13fe30d548df854e8f08cfe42131 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <it> .
+<Sonia%20Sotomayor> <http://www.w3.org/2000/01/rdf-schema#label> "Sonia Sotomayor" .
+_:N6b6539866a8c4a3289e176cb5077afa3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <entered> .
+<sweeping%20proposals> <http://www.w3.org/2000/01/rdf-schema#label> "sweeping proposals" .
+_:Nc3280d053b264d4e9dcb4cc10d34f07d <http://QA.jbt.org/extraction_confidence> "0.9017692064117712"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N441349409c94424e8431563eb7e8d330 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <has%20climbed> .
+_:Nf9b789f9a19548388a20aae893505a81 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <would%20n%27t%20be> .
+<commit> <http://www.w3.org/2000/01/rdf-schema#label> "commit" .
+_:N3454e38f59644ac2812fe7aafbe19134 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <visited> .
+_:Ne8c97e8f5a1a413dbdaba5b957da404b <http://QA.jbt.org/extraction_confidence> "0.9324144673478684"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Ndffc02c1be794b3eb3b36db71d330c00 <http://QA.jbt.org/argument> <with%20a%2068%20percent%20approval%20rating%20before%20gradually%20declining%20for%20the%20rest%20of%20the%20year%2C%20and%20eventually%20bottoming%20out%20at%2041%20percent%20in%20August%202010> .
+_:Ne8ef5a2cb8194fd9be15534f87147fa4 <http://QA.jbt.org/temporal> "the day President Bush and Congress agreed on the joint resolution" .
+_:N48b1f3ec1ccb4415b94e29b14e1da3ca <http://QA.jbt.org/extraction_confidence> "0.8614700166841691"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Naaf3d17abb3b46eab420b8859f354b5a <http://QA.jbt.org/extraction_confidence> "0.3607472239201407"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N2d57c28cf03a409d9c6cc4d1714b6125 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <low-income%20workers> .
+_:N5b4895b085a7401196a6d0288939ea50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <her%20supporters> .
+<health%20coverage> <http://www.w3.org/2000/01/rdf-schema#label> "health coverage" .
+_:N52b828f4f6e2487994c3c474dbf763dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Columbia%20University> .
+<reports> <http://www.w3.org/2000/01/rdf-schema#label> "reports" .
+<roots%20in%20Ireland> <http://www.w3.org/2000/01/rdf-schema#label> "roots in Ireland" .
+_:N49537325b79249d299b4477f6ac404b4 <http://QA.jbt.org/extraction_confidence> "0.9180804252893388"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nce9df8b1fa2e49b18914a06398f9ede3 <http://QA.jbt.org/argument> <exceeding%20the%20270> .
+_:N447c13fe30d548df854e8f08cfe42131 <http://QA.jbt.org/context> "He told" .
+_:Nf13ae4e1e00746e59d047f2ed3a6bc70 <http://QA.jbt.org/extraction_confidence> "0.9364413309834698"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Ncb6f76f68609410f98746735191b5e8d <http://QA.jbt.org/extraction_confidence> "0.4112251698053916"^^<http://www.w3.org/2001/XMLSchema#double> .
+<to%20Chicago> <http://www.w3.org/2000/01/rdf-schema#label> "to Chicago" .
+_:N61900cd33d8e498a89899e1a8f3f2b13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <as%20president> .
+_:Nce9df8b1fa2e49b18914a06398f9ede3 <http://QA.jbt.org/extraction_confidence> "0.9617872774589772"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N61d15d5b25dd43b89f0858381294d4ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20only%20nation> .
+_:Ne81ff8a9a0ee4b0dad828584c27a904a <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <a%20Bush-era%20policy> .
+<his%20father> <http://www.w3.org/2000/01/rdf-schema#label> "his father" .
+_:Nc3280d053b264d4e9dcb4cc10d34f07d <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <smoking> .
+_:Nff4186d8c35d4930bc580addcf2dd779 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was> .
+_:N2ca8efd104c94bbfb560e303ad8c7229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <his%20candidacy> .
+<In%20December%202008%20and%20in%202012> <http://www.w3.org/2000/01/rdf-schema#label> "In December 2008 and in 2012" .
+_:Nadee1e940d924763b1146236bfe5cc1b <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20carry> .
+_:N2bc5ea74e517485189aab1388c2c58e4 <http://QA.jbt.org/extraction_confidence> "0.6129699864385257"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N0768225d307342128d877c25cc25c8ac <http://QA.jbt.org/extraction_confidence> "0.6390877093110117"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N2fc553372d454cce862628eeeb389e74 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20Chicago> .
+_:Nf2eced009f8748ee883a42f48c613676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Bo> .
+_:N78bb73b30fe843e4823c3b4a898ef2ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <replaced> .
+<%5Bis%5D%20mother%20%5Bof%5D> <http://www.w3.org/2000/01/rdf-schema#label> "[is] mother [of]" .
+_:Nce9df8b1fa2e49b18914a06398f9ede3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <won> .
+_:Nf9b789f9a19548388a20aae893505a81 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <here> .
+_:N2fc553372d454cce862628eeeb389e74 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <he> .
+_:N61900cd33d8e498a89899e1a8f3f2b13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+_:N5cd58af9de3a457abb05508aa98be4e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <people> .
+_:N6fdb080047b8497fa0fe1f56369489ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20Chicago> .
+<issues> <http://www.w3.org/2000/01/rdf-schema#label> "issues" .
+<Lolo%20Soetoro> <http://www.w3.org/2000/01/rdf-schema#label> "Lolo Soetoro" .
+_:N701f7286b103472bb695cf5d5a081b0f <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <returned> .
+<was%20buried> <http://www.w3.org/2000/01/rdf-schema#label> "was buried" .
+<to%20Columbia%20College%2C%20Columbia%20University%20in%20New%20York%20City> <http://www.w3.org/2000/01/rdf-schema#label> "to Columbia College, Columbia University in New York City" .
+<the%20closure> <http://www.w3.org/2000/01/rdf-schema#label> "the closure" .
+_:N324540f872984bc5b026b7ad3c7b8ece <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <they> .
+_:N4c9ab1b3f4b344d6a999f9186d54afba <http://QA.jbt.org/temporal> "On January 16, 2013" .
+_:Na49f85758dc747d9ad3c28f509fa30f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <people> .
+_:Na6b8b04fd14a41afb792e5c64793cdb4 <http://QA.jbt.org/extraction_confidence> "0.22506131975927413"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N3a7c26e0ffe7471da633ec099cea0aad <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+<the%20ceremonial%20first%20pitch> <http://www.w3.org/2000/01/rdf-schema#label> "the ceremonial first pitch" .
+<a%20law> <http://www.w3.org/2000/01/rdf-schema#label> "a law" .
+_:N9d9390bd1b06430591f7c9fd71168588 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <them> .
+_:Nc5cc5166c7334945b94a6057574802ef <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <briefs> .
+<Robinson> <http://www.w3.org/2000/01/rdf-schema#label> "Robinson" .
+_:Ndf184290abec4958b799351e1c4a7c46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20drop> .
+<to> <http://www.w3.org/2000/01/rdf-schema#label> "to" .
+_:N9d9390bd1b06430591f7c9fd71168588 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20pay> .
+_:N7890f590305b470583146489ce0e1214 <http://QA.jbt.org/temporal> "in 1971" .
+<the%20kind%20of%20life> <http://www.w3.org/2000/01/rdf-schema#label> "the kind of life" .
+_:N576fc4840015449d8acde770f1f17196 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <it> .
+<described> <http://www.w3.org/2000/01/rdf-schema#label> "described" .
+_:Ndef1045aa9da4b1bb8282d2f07fc4242 <http://QA.jbt.org/temporal> "In July 2013" .
+_:N879d9b64839049928dca1156e3e9da4c <http://QA.jbt.org/extraction_confidence> "0.39175138885637134"^^<http://www.w3.org/2001/XMLSchema#double> .
+<their%20hopes> <http://www.w3.org/2000/01/rdf-schema#label> "their hopes" .
+_:N336f5ec9c4414bb5b8964a1d9a9874cb <http://QA.jbt.org/context> "Obama announced" .
+_:N05b2a86f24964a1880a7e25e219ab6aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+_:N1f77433391244d768c8bc80b3f66a941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <into%20law> .
+_:N76a85b789b9a41f5ad58b2cd22dfc3be <http://QA.jbt.org/extraction_confidence> "0.739566789350138"^^<http://www.w3.org/2001/XMLSchema#double> .
+<Biden> <http://www.w3.org/2000/01/rdf-schema#label> "Biden" .
+_:N01853caea21b4fb98fced79bc34ec568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <to%20Indonesia> .
+_:Ncfabb810fcbd4f7ea1c01446cc2dbef0 <http://QA.jbt.org/temporal> "on May 2" .
+<taught> <http://www.w3.org/2000/01/rdf-schema#label> "taught" .
+_:N90aac34a1bc34f7ba458813e7ef20ce2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <continued> .
+_:Ned282a19ec584647be951ddd6d2f6828 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <took> .
+_:N83003b2312504a9cad375aae847e5c7e <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <I> .
+_:Nca5a53f4c5794426a20232cbb0469dd6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Congress> .
+_:N3320f42b9686415483be6ed1d034b459 <http://QA.jbt.org/context> "I am" .
+<a%20Bush-era%20policy> <http://www.w3.org/2000/01/rdf-schema#label> "a Bush-era policy" .
+_:N2ca8efd104c94bbfb560e303ad8c7229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <formally%20announced> .
+_:N0b3455f57d054720914dadecaaf0256c <http://QA.jbt.org/spatial> <in%20an%20October%202007%20campaign%20speech> .
+_:Nb39e1b4ccda34ddd8fd4bd22417588fb <http://QA.jbt.org/temporal> "on March 23" .
+_:Nc28da546f6524d4299dbb4772c1fd5de <http://QA.jbt.org/extraction_confidence> "0.8821938819052391"^^<http://www.w3.org/2001/XMLSchema#double> .
+<prevented> <http://www.w3.org/2000/01/rdf-schema#label> "prevented" .
+_:N91595d0a55e646958f5dcda90f24c562 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <constitutional> .
+<on%20the%20Supreme%20Court> <http://www.w3.org/2000/01/rdf-schema#label> "on the Supreme Court" .
+_:Nac283ce6dd49424098694072d8cebc60 <http://QA.jbt.org/temporal> "In December 2006" .
+_:Ndf184290abec4958b799351e1c4a7c46 <http://QA.jbt.org/extraction_confidence> "0.8942434158739456"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nd7e2317a69c24a2d9d6820b9e47f6090 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <him> .
+_:N82834b4ce21444e9939ac7fa10029ced <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <the%20veteran> .
+_:N3320f42b9686415483be6ed1d034b459 <http://QA.jbt.org/extraction_confidence> "0.9632055475771296"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N6b6539866a8c4a3289e176cb5077afa3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Harvard%20Law%20School> .
+<in%20Ankara> <http://www.w3.org/2000/01/rdf-schema#label> "in Ankara" .
+<that%20his%20primary%20place%20of%20worship%20would%20be%20the%20Evergreen%20Chapel%20at%20Camp%20David> <http://www.w3.org/2000/01/rdf-schema#label> "that his primary place of worship would be the Evergreen Chapel at Camp David" .
+_:Ne9a621d5bb6e4d548c92317173c58e0a <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <delivered> .
+<is> <http://www.w3.org/2000/01/rdf-schema#label> "is" .
+<basketball> <http://www.w3.org/2000/01/rdf-schema#label> "basketball" .
+_:N41c73efa081c406e91e82d932726d1c9 <http://QA.jbt.org/temporal> "On his 2010 income of $1.7 million" .
+_:N1322d59e20a541e39fd36804dc48aae7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <took> .
+<was%20born> <http://www.w3.org/2000/01/rdf-schema#label> "was born" .
+_:Nadee1e940d924763b1146236bfe5cc1b <http://QA.jbt.org/extraction_confidence> "0.9100029960835064"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Ne71cc408672e4891a07e928b67dc1cf9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20provide> .
+_:N02ef8b55bbb14647aec9a6547e6b23f5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <at%20sea> .
+<inactive> <http://www.w3.org/2000/01/rdf-schema#label> "inactive" .
+<attempted%20to%20reach> <http://www.w3.org/2000/01/rdf-schema#label> "attempted to reach" .
+_:Nb68c154052b54550a5a46e5774922dc2 <http://QA.jbt.org/extraction_confidence> "0.9277724913494432"^^<http://www.w3.org/2001/XMLSchema#double> .
+<continued%20shelling> <http://www.w3.org/2000/01/rdf-schema#label> "continued shelling" .
+<in%20an%20October%202007%20campaign%20speech> <http://www.w3.org/2000/01/rdf-schema#label> "in an October 2007 campaign speech" .
+<by%20McCain> <http://www.w3.org/2000/01/rdf-schema#label> "by McCain" .
+_:Ne8ef5a2cb8194fd9be15534f87147fa4 <http://QA.jbt.org/extraction_confidence> "0.9709360921688014"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:N2c12c70f0e4e4a33b1665636b7ceabd7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Russia%27s%20law> .
+<The%20operation> <http://www.w3.org/2000/01/rdf-schema#label> "The operation" .
+_:Nfa5a56a09ac44e008513b017340a393b <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <%5Bis%5D%20head%20%5Bof%5D> .
+<was%20published> <http://www.w3.org/2000/01/rdf-schema#label> "was published" .
+_:N7b76864242804d79a413754c48fd2646 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <urged> .
+_:N43851fb5e4474553b73999826ed5914f <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20public%20option> .
+<in%20my%20mind> <http://www.w3.org/2000/01/rdf-schema#label> "in my mind" .
+<to%20pass> <http://www.w3.org/2000/01/rdf-schema#label> "to pass" .
+<Obama%27s%20parents> <http://www.w3.org/2000/01/rdf-schema#label> "Obama's parents" .
+<returned> <http://www.w3.org/2000/01/rdf-schema#label> "returned" .
+_:N33094bdc576c4bc6ae2423cbd1a6574a <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <He> .
+_:N3edab13a3c584862b8c2d64cb9e04a86 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+<her%20supporters> <http://www.w3.org/2000/01/rdf-schema#label> "her supporters" .
+_:Naacd22fd288a45de8ef78736560c1d34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%20Hawaii> .
+<the%20family> <http://www.w3.org/2000/01/rdf-schema#label> "the family" .
+<Leon%20Panetta> <http://www.w3.org/2000/01/rdf-schema#label> "Leon Panetta" .
+<as%20not%20particularly%20useful> <http://www.w3.org/2000/01/rdf-schema#label> "as not particularly useful" .
+_:N6b09a3c6a76142f9870e067bc6086f5c <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was> .
+_:Na3a42362ebbe474d9d517e7cbd8af579 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <was%20viewed> .
+<CQ%20Weekly> <http://www.w3.org/2000/01/rdf-schema#label> "CQ Weekly" .
+_:Nc98e45c4233f4a73b4b7cbf59617262b <http://QA.jbt.org/argument> <to%20consider%20LGBT%20rights> .
+_:N0668f7ea888743c39cadfe5fc039e5e7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <moved> .
+<reversed> <http://www.w3.org/2000/01/rdf-schema#label> "reversed" .
+<visited> <http://www.w3.org/2000/01/rdf-schema#label> "visited" .
+<a%20%22stunning%20surprise> <http://www.w3.org/2000/01/rdf-schema#label> "a \"stunning surprise" .
+_:Nc0f55b76fc26486ba0df4c5f5a2a83a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <his%20law%20degree> .
+_:N142656aa6b7247e9ab2e75619ea3ef46 <http://QA.jbt.org/temporal> "when he was still a senator" .
+<to%20accelerate%20the%20investment> <http://www.w3.org/2000/01/rdf-schema#label> "to accelerate the investment" .
+_:Nc0477c675f744967a988c3912f5496b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <They> .
+<tried%20to%20quit> <http://www.w3.org/2000/01/rdf-schema#label> "tried to quit" .
+<instructed> <http://www.w3.org/2000/01/rdf-schema#label> "instructed" .
+_:N90aac34a1bc34f7ba458813e7ef20ce2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <shelling%20Misrata> .
+_:N9a47e3861c53461c9d0e901915c882ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <resigned> .
+<reservations> <http://www.w3.org/2000/01/rdf-schema#label> "reservations" .
+_:Nac283ce6dd49424098694072d8cebc60 <http://QA.jbt.org/extraction_confidence> "0.9775431494714372"^^<http://www.w3.org/2001/XMLSchema#double> .
+<a%20speech> <http://www.w3.org/2000/01/rdf-schema#label> "a speech" .
+_:Nb3f615d6cfe3468ebdb378800a2b8d22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <You> .
+<by%20refusing%20to%20appropriate%20the%20required%20funds%20and%20preventing%20moving%20any%20Guantanamo%20detainee%20into%20the%20U.S.%20or%20to%20other%20countries> <http://www.w3.org/2000/01/rdf-schema#label> "by refusing to appropriate the required funds and preventing moving any Guantanamo detainee into the U.S. or to other countries" .
+_:Ne8ef5a2cb8194fd9be15534f87147fa4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N46f599fd50de444b8d23ca480b190337 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <by%20the%20end%20of%202009> .
+_:Ne5a3fedc966440ecb5924bfd4924144b <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <in%20July%202010> .
+_:N4fefad15e1d8446b8b534b2bc1e8908d <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20pass> .
+_:Ne18f6974634946a4a36631e5a1fb4500 <http://QA.jbt.org/extraction_confidence> "0.9114869852834159"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nb39e1b4ccda34ddd8fd4bd22417588fb <http://QA.jbt.org/argument> <into%20law> .
+<rose> <http://www.w3.org/2000/01/rdf-schema#label> "rose" .
+_:N36d0e4dbe94d42008bc5e3121bf84a3f <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <election%20papers> .
+<Christ> <http://www.w3.org/2000/01/rdf-schema#label> "Christ" .
+_:N7605a806eb2c4144944027433b45bec6 <http://QA.jbt.org/temporal> "in the spring of 2008" .
+<the%20stimulus%20bill> <http://www.w3.org/2000/01/rdf-schema#label> "the stimulus bill" .
+_:Nf22a5e53c909406a963dccb1997fef55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <nominated> .
+<in%20Wailuku> <http://www.w3.org/2000/01/rdf-schema#label> "in Wailuku" .
+_:N4090487bd30a4575bb0290dbaceb7141 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <a%20man> .
+_:N62603298fdc447f39490a792e3c3051f <http://QA.jbt.org/spatial> <at%20several%20group%20social%20functions> .
+_:N3772455adee0445499fd3f53b0b165b4 <http://QA.jbt.org/extraction_confidence> "0.3808945036672451"^^<http://www.w3.org/2001/XMLSchema#double> .
+<identified> <http://www.w3.org/2000/01/rdf-schema#label> "identified" .
+_:N5b4895b085a7401196a6d0288939ea50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <to%20endorse> .
+_:N79c7df8350f2478fa6e9dd3a25e54b21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <by%20Harris> .
+_:N2fc553372d454cce862628eeeb389e74 <http://QA.jbt.org/extraction_confidence> "0.4901000209721346"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nfcba3896cfbc438cae71fa02aa157a3f <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <his%20father> .
+_:N52cd270a23dd42259213a9fa3ee58450 <http://QA.jbt.org/extraction_confidence> "0.9008439278303834"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nc3670a64024d49a49116445e4c71057e <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <the%20pipeline> .
+_:Nfb573d77172a4de492bd7804a4c1b0b7 <http://QA.jbt.org/spatial> <on%20Maui> .
+_:Ncb36ee92ea8b4e1e8dc22395775ee168 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <those> .
+_:N88a502d02223496486effff392143e66 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <us> .
+_:Ncb36ee92ea8b4e1e8dc22395775ee168 <http://QA.jbt.org/extraction_confidence> "0.20559444671221985"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:Nbf4b8f7ac4db40609f04ad1543f86ea9 <http://QA.jbt.org/context> "the administration predicted" .
+_:Ne81ff8a9a0ee4b0dad828584c27a904a <http://QA.jbt.org/temporal> "In March 2009" .
+_:N52b828f4f6e2487994c3c474dbf763dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <Obama> .
+_:N5f23679a6b3f4f6aa4c87768fcee56ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <We> .
+_:N512aa38b488741e1958520d3757050aa <http://QA.jbt.org/argument> <that%20he%20would%20resign%20his%20Senate%20seat%20on%20November%2016%2C%202008%2C%20before%20the%20start%20of%20the%20lame-duck%20session> .
+_:N5f23679a6b3f4f6aa4c87768fcee56ee <http://QA.jbt.org/argument> <that%20it%20is%20important%20to%20try%20and%20resolve%20this%20in%20an%20international%20setting%20in%20a%20way> .
+_:N7c2ed389ad5e4d33aea4798c17ce5600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <%5Bis%5D%20pastor%20%5Bof%5D> .
+_:N7dc905fd5d704ffdb6c2f913e0e45fc2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <barely%20registered> .
+_:N8418719c122f47e1827bbe33f83f2b49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <Obama> .
+
