@@ -2,7 +2,7 @@
 
 __author__ = 'tmy'
 
-from Utilities.Constants import config, programs, e2rdf_cols, separator
+from Utilities.Constants import config, programs, E2RDF_COLUMN_NAMES, SEPARATOR
 from DataParser import OpenIEParser
 from DataParser import ReverbParser
 from RDFConverter.Converter import Converter
@@ -20,14 +20,14 @@ def generate_e2rdf(path, extractions):
     with open(path + ".e2rdf", "a") as f:
         for ext in extractions:
             f.write(ext.to_e2rdf() + "\n")
-    return pd.read_csv(path + ".e2rdf", names=e2rdf_cols, sep=separator, quoting=csv.QUOTE_NONE)
+    return pd.read_csv(path + ".e2rdf", names=E2RDF_COLUMN_NAMES, sep=SEPARATOR, quoting=csv.QUOTE_NONE)
 
-def mod_e2rdf(path, dataframe):
+def modify_e2rdf(path, dataframe):
     with open(path + ".e2rdf", "w") as _:
         pass
     with open(path + ".e2rdf", "a") as f:
         for _, row in dataframe.iterrows():
-            f.write(separator.join(row.map(str)) + "\n")
+            f.write(SEPARATOR.join(row.map(str)) + "\n")
 
 
 def convert_output_file(path, out=config['app']['data_path'] + "output", ser_format="nt",
@@ -51,16 +51,18 @@ def convert_output_file(path, out=config['app']['data_path'] + "output", ser_for
     max_len = int(config['app']['max_predicate_length'])
     if max_len > 0:
         df = df[df['Predicate'].map(len) <= max_len]
-    max_len = int(config['app']['max_object_length'])
 
     # Object length filter
+    max_len = int(config['app']['max_object_length'])
     if max_len > 0:
         df = df[df['Object'].map(len) <= max_len]
 
-    mod_e2rdf(out, df)
+    modify_e2rdf(out, df)
     rdf_converter = Converter()
     graph = rdf_converter.convert(df)
     graph.serialize(out + "." + ser_format, ser_format)
+
+    log.warn([(e, data_parser.get_counter()[e]) for e in sorted(data_parser.get_counter(), key=lambda x: x[0])])
 
 
 if __name__ == "__main__":

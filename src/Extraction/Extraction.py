@@ -1,10 +1,10 @@
 __author__ = 'tmy'
 
-from Utilities.Constants import sub_separator, separator
+from Utilities.Constants import SUB_SEPARATOR, SEPARATOR
 import numpy as np
 
 
-class Extraction():
+class Extraction(object):
     def __init__(self, data):
         self.subject = data['subject']
         self.predicate = data['predicate']
@@ -18,8 +18,8 @@ class Extraction():
         self.sentence = data['sentence']
 
     def to_e2rdf(self):
-        line = [self.confidence, self.context, self.subject, self.predicate, self.object,
-                sub_separator.join(self.additional_args),
-                sub_separator.join(self.temporal_args), sub_separator.join(self.spatial_args), self.sentence_id,
-                self.sentence]
-        return separator.join(line)
+        return SEPARATOR.join(
+            [self.confidence, self.context, self.subject, self.predicate, self.object,
+             SUB_SEPARATOR.join(self.additional_args),
+             SUB_SEPARATOR.join(self.temporal_args), SUB_SEPARATOR.join(self.spatial_args), self.sentence_id,
+             self.sentence])

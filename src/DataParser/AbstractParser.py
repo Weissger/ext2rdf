@@ -13,4 +13,6 @@ class AbstractParser(object):
     def parse(self, path):
         pass
 
-
+    @abc.abstractmethod
+    def get_counter(self):
+        pass
