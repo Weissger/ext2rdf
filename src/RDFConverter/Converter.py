@@ -36,6 +36,12 @@ class Converter(object):
             node = URIRef(uri)
             graph.add((bnode, RDF.predicate, node))
             graph.add((node, RDFS.label, Literal(row['Predicate'])))
+            # Predicate Lemmatized
+            uri = urllib.quote(row['PredicateLemma'], '')
+            node = URIRef(uri)
+            graph.add((bnode, self.namespace.predicate_lemma, node))
+            graph.add((node, RDFS.label, Literal(row['Predicate'])))
+
             # Object
             uri = urllib.quote(row['Object'], '')
             node = URIRef(uri)

@@ -9,23 +9,23 @@ from RDFConverter.Converter import Converter
 import csv
 import pandas as pd
 import logging
+from io import StringIO
 
 log = logging.getLogger()
 log.setLevel(config['app']['app_log_level'])
 
 
-def generate_e2rdf(path, extractions):
-    with open(path + ".e2rdf", "w") as _:
-        pass
-    with open(path + ".e2rdf", "a") as f:
-        for ext in extractions:
-            f.write(ext.to_e2rdf() + "\n")
-    return pd.read_csv(path + ".e2rdf", names=E2RDF_COLUMN_NAMES, sep=SEPARATOR, quoting=csv.QUOTE_NONE)
+def generate_e2rdf(extractions):
+    s = StringIO("\n".join([e.to_e2rdf() for e in extractions]))
+    return pd.read_csv(s, names=E2RDF_COLUMN_NAMES, sep=SEPARATOR, quoting=csv.QUOTE_NONE)
 
-def modify_e2rdf(path, dataframe):
-    with open(path + ".e2rdf", "w") as _:
+
+def write_to_disk(path, dataframe):
+    filename = path + ".e2rdf"
+
+    with open(filename, 'w') as _:
         pass
-    with open(path + ".e2rdf", "a") as f:
+    with open(filename, "a") as f:
         for _, row in dataframe.iterrows():
             f.write(SEPARATOR.join(row.map(str)) + "\n")
 
@@ -40,7 +40,7 @@ def convert_output_file(path, out=config['app']['data_path'] + "output", ser_for
         log.warn("Unknown program")
         return
     extractions = data_parser.parse(path)
-    df = generate_e2rdf(out, extractions)
+    df = generate_e2rdf(extractions)
 
     # Subject length filter
     max_len = int(config['app']['max_subject_length'])
@@ -57,7 +57,7 @@ def convert_output_file(path, out=config['app']['data_path'] + "output", ser_for
     if max_len > 0:
         df = df[df['Object'].map(len) <= max_len]
 
-    modify_e2rdf(out, df)
+    write_to_disk(out, df)
     rdf_converter = Converter()
     graph = rdf_converter.convert(df)
     graph.serialize(out + "." + ser_format, ser_format)

@@ -8,6 +8,7 @@ from DataParser.AbstractParser import AbstractParser
 from Extraction.Extraction import Extraction
 import csv
 from Utilities.Constants import config, arg_types
+from Utilities.Lemmatizer import Lemmatizer
 
 log = logging.getLogger()
 log.setLevel(config['app']['app_log_level'])
@@ -34,6 +35,7 @@ class DataParser(AbstractParser):
             'simple_arguments': 0,
             'extractions': 0
         }
+        self.__lemmatizer = Lemmatizer()
 
     def parse(self, path=config['app']['data_path']):
         if not os.path.isfile(path):
@@ -45,7 +47,6 @@ class DataParser(AbstractParser):
     def __openie_parse(self, f):
         columns = ['confidence', 'context', 'arg1', 'rel', 'arg2s', 'sentence_id', 'sentence']
         values = pd.read_csv(f, sep='\t', names=columns, header=None, quoting=csv.QUOTE_NONE)
-        # values = values.dropna(subset=['arg1', 'rel', 'arg2s'])
         extractions = []
         for _, row in values.iterrows():
             data = {'temporal_args': [], 'additional_args': [], 'spatial_args': []}
@@ -74,6 +75,7 @@ class DataParser(AbstractParser):
                 continue
             converted_pred = self.__convert_arg(row['rel'])
             data['predicate'] = converted_pred['cleaned_arg']
+            data['predicate_lemma'] = self.__lemmatizer.lemmatize(data['predicate'])
             converted_sub = self.__convert_arg(row['arg1'])
             data['subject'] = converted_sub['cleaned_arg']
             if not pd.isnull(row['context']):

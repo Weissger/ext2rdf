@@ -49,7 +49,8 @@ arg_types = {
 SEPARATOR = '\t'
 SUB_SEPARATOR = ' | '
 
-E2RDF_COLUMN_NAMES = ["Confidence", "Context", "Subject", "Predicate", "Object", "Other_arg", "Temporal", "Spatial",
+E2RDF_COLUMN_NAMES = ["Confidence", "Context", "Subject", "Predicate", "PredicateLemma", "Object", "Other_arg",
+                      "Temporal", "Spatial",
                       "Sentence_id", "Sentence"]
 
 del config_file

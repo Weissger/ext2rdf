@@ -8,6 +8,7 @@ class Extraction(object):
     def __init__(self, data):
         self.subject = data['subject']
         self.predicate = data['predicate']
+        self.predicate_lemma = data['predicate_lemma']
         self.object = data['object']
         self.context = data['context'] if 'context' in data else np.nan
         self.confidence = str(data['confidence']) if 'confidence' in data else np.nan
@@ -19,7 +20,7 @@ class Extraction(object):
 
     def to_e2rdf(self):
         return SEPARATOR.join(
-            [self.confidence, self.context, self.subject, self.predicate, self.object,
+            [self.confidence, self.context, self.subject, self.predicate, self.predicate_lemma, self.object,
              SUB_SEPARATOR.join(self.additional_args),
              SUB_SEPARATOR.join(self.temporal_args), SUB_SEPARATOR.join(self.spatial_args), self.sentence_id,
              self.sentence])
