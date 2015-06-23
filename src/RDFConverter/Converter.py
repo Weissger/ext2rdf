@@ -4,7 +4,7 @@ from rdflib import Graph, Literal, BNode, Namespace, RDF, RDFS, URIRef
 import urllib.parse as urllib
 import logging
 import pandas as pd
-from Utilities.Constants import config, sub_separator
+from Utilities.Constants import config, SUB_SEPARATOR
 
 log = logging.getLogger()
 log.setLevel(config['app']['app_log_level'])
@@ -43,18 +43,18 @@ class Converter(object):
             graph.add((node, RDFS.label, Literal(row['Object'])))
             # Additional Args
             if not pd.isnull(row['Other_arg']):
-                for arg in row['Other_arg'].split(sub_separator):
+                for arg in row['Other_arg'].split(SUB_SEPARATOR):
                     uri = urllib.quote(arg, '')
                     node = URIRef(uri)
                     graph.add((bnode, self.namespace.argument, node))
                     graph.add((node, RDFS.label, Literal(arg)))
             # Temporal
             if not pd.isnull(row['Temporal']):
-                for arg in row['Temporal'].split(sub_separator):
+                for arg in row['Temporal'].split(SUB_SEPARATOR):
                     graph.add((bnode, self.namespace.temporal, Literal(arg)))
             # Spatial
             if not pd.isnull(row['Spatial']):
-                for arg in row['Spatial'].split(sub_separator):
+                for arg in row['Spatial'].split(SUB_SEPARATOR):
                     uri = urllib.quote(arg, '')
                     node = URIRef(uri)
                     graph.add((bnode, self.namespace.spatial, node))

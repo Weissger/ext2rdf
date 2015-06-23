@@ -46,11 +46,11 @@ arg_types = {
     'spatial': "spatial"
 }
 
-separator = '\t'
-sub_separator = ' | '
+SEPARATOR = '\t'
+SUB_SEPARATOR = ' | '
 
-e2rdf_cols = ["Confidence", "Context", "Subject", "Predicate", "Object", "Other_arg", "Temporal", "Spatial",
-              "Sentence_id", "Sentence"]
+E2RDF_COLUMN_NAMES = ["Confidence", "Context", "Subject", "Predicate", "Object", "Other_arg", "Temporal", "Spatial",
+                      "Sentence_id", "Sentence"]
 
 del config_file
 del config_paths
