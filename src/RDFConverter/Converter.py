@@ -31,25 +31,25 @@ class Converter(object):
 
             # Subject
             uri = urllib.quote(row['Subject'], '')
-            node = URIRef(uri)
+            node = URIRef(self.namespace[uri])
             graph.add((bnode, RDF.subject, node))
             graph.add((node, RDFS.label, Literal(row['Subject'])))
 
             # Predicate
             uri = urllib.quote(row['Predicate'], '')
-            node = URIRef(uri)
+            node = URIRef(self.namespace[uri])
             graph.add((bnode, RDF.predicate, node))
             graph.add((node, RDFS.label, Literal(row['Predicate'])))
 
             # Predicate Lemmatized
             uri = urllib.quote(row['PredicateLemma'], '')
-            node = URIRef(uri)
+            node = URIRef(self.namespace[uri])
             graph.add((bnode, self.namespace.predicate_lemma, node))
             graph.add((node, RDFS.label, Literal(row['Predicate'])))
 
             # Object
             uri = urllib.quote(row['Object'], '')
-            node = URIRef(uri)
+            node = URIRef(self.namespace[uri])
             graph.add((bnode, RDF.object, node))
             graph.add((node, RDFS.label, Literal(row['Object'])))
 
@@ -57,7 +57,7 @@ class Converter(object):
             if not pd.isnull(row['Other_arg']):
                 for arg in row['Other_arg'].split(SUB_SEPARATOR):
                     uri = urllib.quote(arg, '')
-                    node = URIRef(uri)
+                    node = URIRef(self.namespace[uri])
                     graph.add((bnode, self.namespace.argument, node))
                     graph.add((node, RDFS.label, Literal(arg)))
 
@@ -70,7 +70,7 @@ class Converter(object):
             if not pd.isnull(row['Spatial']):
                 for arg in row['Spatial'].split(SUB_SEPARATOR):
                     uri = urllib.quote(arg, '')
-                    node = URIRef(uri)
+                    node = URIRef(self.namespace[uri])
                     graph.add((bnode, self.namespace.spatial, node))
                     graph.add((node, RDFS.label, Literal(arg)))
         return graph

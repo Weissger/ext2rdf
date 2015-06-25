@@ -75,7 +75,7 @@ class DataParser(AbstractParser):
                 continue
             converted_pred = self.__convert_arg(row['rel'])
             data['predicate'] = converted_pred['cleaned_arg']
-            data['predicate_lemma'] = self.__lemmatizer.lemmatize(data['predicate'])
+            data['predicate_lemma'] = self.__lemmatizer.lemmatize(converted_pred['cleaned_arg'])
             converted_sub = self.__convert_arg(row['arg1'])
             data['subject'] = converted_sub['cleaned_arg']
             if not pd.isnull(row['context']):
