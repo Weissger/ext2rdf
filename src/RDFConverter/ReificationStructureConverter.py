@@ -5,12 +5,13 @@ import urllib.parse as urllib
 import logging
 import pandas as pd
 from Utilities.Constants import config, SUB_SEPARATOR
+from RDFConverter.AbstractConverter import AbstractConverter
 
 log = logging.getLogger()
 log.setLevel(config['app']['app_log_level'])
 
 
-class Converter(object):
+class Converter(AbstractConverter):
 
     def __init__(self):
         self.namespace = Namespace(config['app']['namespace'])
@@ -42,10 +43,11 @@ class Converter(object):
             graph.add((node, RDFS.label, Literal(row['Predicate'])))
 
             # Predicate Lemmatized
-            uri = urllib.quote(row['PredicateLemma'], '')
-            node = URIRef(self.namespace[uri])
-            graph.add((bnode, self.namespace.predicate_lemma, node))
-            graph.add((node, RDFS.label, Literal(row['Predicate'])))
+            if not pd.isnull(row['PredicateLemma']):
+                uri = urllib.quote(row['PredicateLemma'], '')
+                node = URIRef(self.namespace[uri])
+                graph.add((bnode, self.namespace.predicate_lemma, node))
+                graph.add((node, RDFS.label, Literal(row['Predicate'])))
 
             # Object
             uri = urllib.quote(row['Object'], '')

@@ -34,16 +34,22 @@ if not config.has_section('app'):
 # additional dynamic options
 config.set('app', 'data_path', config_file[:-15])
 
-programs = {
+PROGRAMS = {
     'oIE': "openIE",
     'rvb': "reverb"
 }
 
-arg_types = {
+ARG_TYPES = {
     'rel': "relation",
     'simple': "simple",
     'tmp': "temporal",
     'spatial': "spatial"
+}
+
+CONVERTER_TYPES = {
+    'reification': "reification",
+    'triple': "triple",
+    'simple': "simple"
 }
 
 SEPARATOR = '\t'

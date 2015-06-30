@@ -5,7 +5,7 @@ import abc
 
 class AbstractParser(object):
     """
-    Abstract class to implement a converter.
+    Abstract class to implement a parser.
     """
     __metaclass__ = abc.ABCMeta
 

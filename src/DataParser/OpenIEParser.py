@@ -7,7 +7,7 @@ import pandas as pd
 from DataParser.AbstractParser import AbstractParser
 from Extraction.Extraction import Extraction
 import csv
-from Utilities.Constants import config, arg_types
+from Utilities.Constants import config, ARG_TYPES
 from Utilities.Lemmatizer import Lemmatizer
 
 log = logging.getLogger()
@@ -60,11 +60,11 @@ class DataParser(AbstractParser):
                         if index == 0:
                             data['object'] = converted_arg['cleaned_arg']
                         else:
-                            if converted_arg['type'] == arg_types['simple']:
+                            if converted_arg['type'] == ARG_TYPES['simple']:
                                 data['additional_args'].append(converted_arg['cleaned_arg'])
-                            elif converted_arg['type'] == arg_types['tmp']:
+                            elif converted_arg['type'] == ARG_TYPES['tmp']:
                                 data['temporal_args'].append(converted_arg['cleaned_arg'])
-                            elif converted_arg['type'] == arg_types['spatial']:
+                            elif converted_arg['type'] == ARG_TYPES['spatial']:
                                 data['spatial_args'].append(converted_arg['cleaned_arg'])
 
             elif 'arg2' in row and not pd.isnull(row['arg2']):
@@ -96,19 +96,19 @@ class DataParser(AbstractParser):
     def __convert_arg(self, arg):
         if re.match(relation_pattern, arg):
             cleaned_arg = re.sub(relation_pattern + '|' + list_pattern + '|' + r'\[|\]', '', arg)
-            return {'type': arg_types['rel'], 'cleaned_arg': cleaned_arg}
+            return {'type': ARG_TYPES['rel'], 'cleaned_arg': cleaned_arg}
         elif re.match(arg_pattern, arg):
             self.__counter['simple_arguments'] += 1
             cleaned_arg = re.sub(arg_pattern + '|' + list_pattern, '', arg)
-            return {'type': arg_types['simple'], 'cleaned_arg': cleaned_arg}
+            return {'type': ARG_TYPES['simple'], 'cleaned_arg': cleaned_arg}
         elif re.match(temporal_pattern, arg):
             self.__counter['temporal_arguments'] += 1
             cleaned_arg = re.sub(temporal_pattern + '|' + list_pattern, '', arg)
-            return {'type': arg_types['tmp'], 'cleaned_arg': cleaned_arg}
+            return {'type': ARG_TYPES['tmp'], 'cleaned_arg': cleaned_arg}
         elif re.match(spatial_pattern, arg):
             self.__counter['spatial_arguments'] += 1
             cleaned_arg = re.sub(spatial_pattern + '|' + list_pattern, '', arg)
-            return {'type': arg_types['spatial'], 'cleaned_arg': cleaned_arg}
+            return {'type': ARG_TYPES['spatial'], 'cleaned_arg': cleaned_arg}
         else:
             log.warn("For argument: {}".format(arg))
             raise ValueError("tried to convert malformed argument")
