@@ -59,7 +59,7 @@ def convert_output_file(path, out=config['app']['data_path'] + "output", seriali
     if max_len > 0:
         df = df[df['Object'].map(split, " ").map(len) <= max_len]
 
-    write_to_disk(path[0:s.rfind('.')], df)
+    write_to_disk(path[0:path.rfind('.')], df)
 
     if converter_type == CONVERTER_TYPES['reification']:
         rdf_converter = ReificationStructureConverter.Converter()
