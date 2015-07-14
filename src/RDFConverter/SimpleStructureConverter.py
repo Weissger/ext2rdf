@@ -1,20 +1,19 @@
 __author__ = 'tmy'
 
-from rdflib import Graph, Literal, BNode, Namespace, RDF, RDFS, URIRef
+from rdflib import Graph, Namespace, URIRef
 import urllib.parse as urllib
 import logging
-import pandas as pd
-from Utilities.Constants import config, SUB_SEPARATOR
-from RDFConverter.AbstractConverter import AbstractConverter
+from ext2rdf.src.Utilities.Constants import LOG_LEVEL, NAMESPACE
+from ext2rdf.src.RDFConverter.AbstractConverter import AbstractConverter
 
 log = logging.getLogger()
-log.setLevel(config['app']['app_log_level'])
+log.setLevel(LOG_LEVEL)
 
 
 class Converter(AbstractConverter):
 
     def __init__(self):
-        self.namespace = Namespace(config['app']['namespace'])
+        self.namespace = Namespace(NAMESPACE)
 
     def convert(self, data_frame):
         log.info("converting data_frame...")

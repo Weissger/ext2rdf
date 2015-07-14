@@ -1,6 +1,6 @@
 __author__ = 'tmy'
 
-from Utilities.Constants import SUB_SEPARATOR, SEPARATOR
+from ext2rdf.src.Utilities.Constants import SUB_SEPARATOR, SEPARATOR
 import numpy as np
 
 

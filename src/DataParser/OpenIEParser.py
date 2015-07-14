@@ -4,14 +4,14 @@ import os
 import logging
 import re
 import pandas as pd
-from DataParser.AbstractParser import AbstractParser
-from Extraction.Extraction import Extraction
+from ext2rdf.src.DataParser.AbstractParser import AbstractParser
+from ext2rdf.src.Extraction.Extraction import Extraction
 import csv
-from Utilities.Constants import config, ARG_TYPES
-from Utilities.Lemmatizer import Lemmatizer
+from ext2rdf.src.Utilities.Constants import ARG_TYPES, LOG_LEVEL
+from ext2rdf.src.Utilities.Lemmatizer import Lemmatizer
 
 log = logging.getLogger()
-log.setLevel(config['app']['app_log_level'])
+log.setLevel(LOG_LEVEL)
 
 pd.options.display.max_rows = 1000
 
@@ -37,10 +37,10 @@ class DataParser(AbstractParser):
         }
         self.__lemmatizer = Lemmatizer()
 
-    def parse(self, path=config['app']['data_path']):
+    def parse(self, path):
         if not os.path.isfile(path):
             raise IOError("a valid file path must be given")
-        with open(path, mode='r', encoding='utf-8') as f:
+        with open(path, mode='r') as f:
             log.info("parsing file: {}".format(f))
             return self.__openie_parse(f)
 
