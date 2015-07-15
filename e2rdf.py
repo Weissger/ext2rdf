@@ -3,6 +3,8 @@ __author__ = 'bernhard'
 import os
 import shutil
 
+from qa_jbt.utils.paths import create_paths
+
 from ext2rdf.src import main as e2rdf
 
 
@@ -15,7 +17,7 @@ def do_e2rdf(content, data_path=os.path.join('.', 'data')):
         'output': os.path.join(temp_path, 'output')
     }
 
-    __clean_paths(temp_path)
+    create_paths(data_path, temp_path)
 
     # write content to file
     with open(paths['input'], mode='w') as o:
@@ -29,10 +31,8 @@ def do_e2rdf(content, data_path=os.path.join('.', 'data')):
 
     with open(paths['output'] + '.e2rdf', mode='r') as raw_extr:
         with open(paths['output'] + '.nt', mode='r') as nt_file:
-            return raw_extr.read(), nt_file.read()
+            raw, nt = raw_extr.read(), nt_file.read()
 
+    shutil.rmtree(temp_path)
 
-def __clean_paths(path):
-    if os.path.isdir(path):
-        shutil.rmtree(path)
-    os.mkdir(path, mode=0o770)
+    return raw, nt
