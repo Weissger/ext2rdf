@@ -25,9 +25,9 @@ def generate_e2rdf(extractions):
 def write_to_disk(path, dataframe):
     filename = path + ".e2rdf"
 
-    with open(filename, 'w') as _:
+    with open(filename, 'w', encoding='utf-8') as _:
         pass
-    with open(filename, 'a') as f:
+    with open(filename, 'a', encoding='utf-8') as f:
         for _, row in dataframe.iterrows():
             f.write(SEPARATOR.join(row.map(str)) + "\n")
 

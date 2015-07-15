@@ -40,7 +40,7 @@ class DataParser(AbstractParser):
     def parse(self, path):
         if not os.path.isfile(path):
             raise IOError("a valid file path must be given")
-        with open(path, mode='r') as f:
+        with open(path, mode='r', encoding='utf-8') as f:
             log.info("parsing file: {}".format(f))
             return self.__openie_parse(f)
 

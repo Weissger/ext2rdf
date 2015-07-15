@@ -20,7 +20,7 @@ def do_e2rdf(content, data_path=os.path.join('.', 'data')):
     create_paths(data_path, temp_path)
 
     # write content to file
-    with open(paths['input'], mode='w') as o:
+    with open(paths['input'], mode='w', encoding='utf-8') as o:
         o.write(content)
 
     # run extractions and build nt
@@ -29,8 +29,8 @@ def do_e2rdf(content, data_path=os.path.join('.', 'data')):
         paths['output']
     )
 
-    with open(paths['output'] + '.e2rdf', mode='r') as raw_extr:
-        with open(paths['output'] + '.nt', mode='r') as nt_file:
+    with open(paths['output'] + '.e2rdf', mode='r', encoding='utf-8') as raw_extr:
+        with open(paths['output'] + '.nt', mode='r', encoding='utf-8') as nt_file:
             raw, nt = raw_extr.read(), nt_file.read()
 
     shutil.rmtree(temp_path)
